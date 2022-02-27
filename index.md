@@ -4,7 +4,12 @@
 
 # Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Ph.D. in Computer Science and Applications.
+2. M.Sc. in Systems Engineering.
+3. M.Sc. in Industrial Engineering.
+4. B.Sc. in Systems Engineering.
+
+# 
 
 ```markdown
 Syntax highlighted code block
