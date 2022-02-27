@@ -43,6 +43,7 @@ Elias D. Nino-Ruiz obtained the Diploma in System Engineering (2007) from the Un
 - Computational Science Laboratory, Computer Science Department, **Virginia Polytechnic Institute and State University**, VA 24060, USA.
 - Supervisor: Adrian Sandu, Ph.D.
 - Description: Working on sequential and variational data assimilation for weather forecast. 
+
 ---
 ## Work Experience
 ---
@@ -71,6 +72,7 @@ Elias D. Nino-Ruiz obtained the Diploma in System Engineering (2007) from the Un
 
 - Fall 2015.
 - Department of Computer Science Department, **Virginia Polytechnic Institute and State University**, VA 24060, USA.
+
 ---
 # Key Note 
 
