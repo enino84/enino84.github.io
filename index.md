@@ -83,7 +83,7 @@ Elias D. Nino-Ruiz obtained the Diploma in System Engineering (2007) from the Un
 
 # Peer review service
 
-- [List of some peer reviews](https://publons.com/researcher/1303956/elias-d-nino-ruiz/).
+- [List of some peer reviews](peer_reviews.md).
 
 # Editorial service
 
