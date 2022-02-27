@@ -4,6 +4,7 @@
 
 # Professional Networks
 
+[ORCID](https://orcid.org/0000-0001-7784-8163), [Google Scholar](https://scholar.google.com/citations?user=IE8dAAgAAAAJ&hl=en), [SCOPUS Author Profile](https://www.scopus.com/authid/detail.uri?authorId=36603283600), 
 
 # Education
 
