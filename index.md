@@ -37,13 +37,12 @@
 - Supervisor: Cosmin Petra, Ph.D. 
 - Description: Working on time-dependent, background-error covariance matrix estimation.
 
-### Research Assistant} 
+### Research Assistant
 
 - August 2011 to December 2015
 - Computational Science Laboratory, Computer Science Department, Virginia Polytechnic Institute and State University, VA 24060, USA.
 - Supervisor: Adrian Sandu, Ph.D.
 - Description: Working on sequential and variational data assimilation for weather forecast. 
-\end{innerlist}
 
 ## Work Experience
 
