@@ -9,7 +9,7 @@
 # Education
 
 1. Ph.D. in Computer Science and Applications, Virginia Polytechnic Institute and State University. Thesis [Efficient Formulation and Implementation of Ensemble based Methods in Data Assimilation](https://vtechworks.lib.vt.edu/handle/10919/64438), GPA: 3.63 out of  4.0., Advisor: [Prof. Adrian Sandu](http://people.cs.vt.edu/~asandu/).
-2. M.Sc. in Systems Engineering,
+2. M.Sc. in Systems Engineering, Universidad del Norte. Thesis 
 3. M.Sc. in Industrial Engineering,
 4. B.Sc. in Systems Engineering,
 
@@ -40,14 +40,42 @@
 ### Research Assistant
 
 - August 2011 to December 2015
-- Computational Science Laboratory, Computer Science Department, Virginia Polytechnic Institute and State University, VA 24060, USA.
+- Computational Science Laboratory, Computer Science Department, **Virginia Polytechnic Institute and State University**, VA 24060, USA.
 - Supervisor: Adrian Sandu, Ph.D.
 - Description: Working on sequential and variational data assimilation for weather forecast. 
 
 ## Work Experience
 
-### Director
+### Associate Professor, Chair
 
+- Spring 2018 - Current.
+- Deparment of Systems Engineering, **Universidad del Norte**, BAQ 080001, Colombia
+
+### Instructor of Data Assimilation
+
+- Fall 2020, Fall 2021.
+- Ph.D. Program in Mathematical Engineering, **Universidad EAFIT**, MDE 050001, Colombia.
+
+
+### Teaching Assistant of Data Science for All
+ 
+- Fall 2020 - Current
+- Program of Data Science for All - Colombia, **Correlation-One (DS4A - Colombia)**, USA
+
+### Assistant Professor 
+
+- Spring 2016 - Fall 2017.
+- Deparment of Systems Engineering, **Universidad del Norte**, BAQ 080001, Colombia.
+
+### Instructor of Numerical Methods
+
+- Fall 2015.
+- Department of Computer Science Department, **Virginia Polytechnic Institute and State University**, VA 24060, USA.
+
+## Publications
+
+- List of journal papers.
+- List of conference papers.
 
 
 ```markdown
