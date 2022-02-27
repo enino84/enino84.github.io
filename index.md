@@ -13,9 +13,41 @@
 3. M.Sc. in Industrial Engineering,
 4. B.Sc. in Systems Engineering,
 
-# Research Experience
+# Experience
 
-# Work Experience
+## Research Experience
+
+### Director of the Applied Math and Computer Science Lab. 
+
+- Spring 2017 to Current. 
+- Department of Computer Science, Universidad del Norte, BAQ 080001, Colombia. 
+- Description: Scientific Computing methods for the solution of real-life problems. 
+
+### Research Assistant
+
+- June 2014 to July 2014.
+- Mathematics and Computer Science Division, Lawrence Livermore National Laboratory, CA 94550, USA.
+- Supervisor: Greg Bronevetsky, Ph.D.
+- Description: Analysis of sequential data assimilation methods making use of the SIGHT toolbox. 
+
+### Givens Associate
+
+- June 2013 to August 2013
+- Mathematics and Computer Science Division, Argonne National Laboratory, IL 60439, USA.
+- Supervisor: Cosmin Petra, Ph.D. 
+- Description: Working on time-dependent, background-error covariance matrix estimation.
+
+### Research Assistant} 
+
+- August 2011 to December 2015
+- Computational Science Laboratory, Computer Science Department, Virginia Polytechnic Institute and State University, VA 24060, USA.
+- Supervisor: Adrian Sandu, Ph.D.
+- Description: Working on sequential and variational data assimilation for weather forecast. 
+\end{innerlist}
+
+## Work Experience
+
+### Director
 
 
 
