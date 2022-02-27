@@ -88,3 +88,9 @@ Elias D. Nino-Ruiz obtained the Diploma in System Engineering (2007) from the Un
 # Editorial service
 
 - [List of editorial services](editorial_services.md).
+
+# My Word Cloud
+
+Here is a word cloud of some of my research documents.
+
+![Tux, the Linux mascot](WordCloud.png)
