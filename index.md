@@ -8,10 +8,10 @@
 
 # Education
 
-1. Ph.D. in Computer Science and Applications, Virginia Polytechnic Institute and State University. Thesis [Efficient Formulation and Implementation of Ensemble based Methods in Data Assimilation](https://vtechworks.lib.vt.edu/handle/10919/64438), GPA: 3.63 out of  4.0., Advisor: [Prof. Adrian Sandu](http://people.cs.vt.edu/~asandu/).
-2. M.Sc. in Systems Engineering, Universidad del Norte. Thesis 
-3. M.Sc. in Industrial Engineering,
-4. B.Sc. in Systems Engineering,
+1. Ph.D. in Computer Science and Applications, _Virginia Polytechnic Institute and State University_, USA. Thesis: [Efficient Formulation and Implementation of Ensemble based Methods in Data Assimilation](https://vtechworks.lib.vt.edu/handle/10919/64438). GPA: 3.63 out of 4.0., Advisor: [Prof. Adrian Sandu](http://people.cs.vt.edu/~asandu/).
+2. M.Sc. in Systems Engineering, _Universidad del Norte_, Colombia. Thesis: MODS: A Novel Metaheuristic of Deterministic Swapping for the Multi-Objective Optimization of Combinatorials Problems. GPA 4.28 out of 5.0., Advisor: Carlos Ardila, M.Sc.
+3. M.Sc. in Industrial Engineering, _Universidad del Norte_, Colombia. Thesis: A Novel Algorithm Based on Deterministic Finite Automaton for Solving the Mono-objective Symmetric Traveling Salesman Problem, GPA 4.28 out of 5.0., Advisor: Carlos Ardila, M.Sc.
+4. B.Sc. in Systems Engineering,  _Universidad del Norte_, Colombia. Thesis: Numerical Methods for Multivariate Optimization, GPA 4.28 out of 5.0., Advisor: Carlos Ardila, M.Sc.
 
 # Experience
 
