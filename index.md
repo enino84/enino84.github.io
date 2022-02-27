@@ -2,7 +2,6 @@
 
 <div style="text-align:justify">Elias D. Nino-Ruiz obtained the Diploma in System Engineering (2007) from the Universidad del Norte (UniNorte) Barranquilla, Colombia, M.S. in System Engineering (2009) and M.S. in Industrial Engineering (2010) from UniNorte, and Ph.D. in Computer Science and Applications (2015) from the Virginia Polytechnic Institute and State University (Virginia Tech) Blacksburg, USA. He worked as an intern at Argonne National Laboratory, USA (2013) and Lawrence Livermore National Laboratory, USA (2014). He served as a research assistant (2011-2015) in the Computational Science Laboratory and an instructor of Numerical Methods (2015) at Virginia Tech. In 2016, he joined UniNorte's Department of Computer Science; he works as an Associate Professor, Chair of the Department of Computer Science, and [Director of the Applied Math and Computer Science Laboratory](https://aml-cs.github.io/). Nino's research interests are in the area of Computational Science, Applied Mathematics, and Applied Statistics.</div>
 &nbsp;
-
 # Professional Networks
 
 [ORCID](https://orcid.org/0000-0001-7784-8163), [Google Scholar](https://scholar.google.com/citations?user=IE8dAAgAAAAJ&hl=en), [SCOPUS Author Profile](https://www.scopus.com/authid/detail.uri?authorId=36603283600), [Applied Math and Computer Science Lab](https://aml-cs.github.io/)
@@ -15,9 +14,9 @@
 4. B.Sc. in Systems Engineering,  _Universidad del Norte_, Colombia. Thesis: Numerical Methods for Multivariate Optimization, GPA 4.28 out of 5.0., Advisor: Carlos Ardila, M.Sc.
 
 # Experience
-
+---
 ## Research Experience
-```
+
 ### Director of the Applied Math and Computer Science Lab. 
 
 - Spring 2017 to Current. 
@@ -44,10 +43,9 @@
 - Computational Science Laboratory, Computer Science Department, **Virginia Polytechnic Institute and State University**, VA 24060, USA.
 - Supervisor: Adrian Sandu, Ph.D.
 - Description: Working on sequential and variational data assimilation for weather forecast. 
-```
-## Work Experience
 
-```
+## Work Experience
+---
 ### Associate Professor, Chair
 
 - Spring 2018 - Current.
@@ -73,7 +71,6 @@
 
 - Fall 2015.
 - Department of Computer Science Department, **Virginia Polytechnic Institute and State University**, VA 24060, USA.
-```
 
 # Key Note 
 
