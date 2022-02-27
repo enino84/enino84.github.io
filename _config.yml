@@ -2,4 +2,4 @@ theme: jekyll-theme-hacker
 title: Elías D. Nino-Ruiz, Ph.D. 
 description: Bookmark this to keep an eye on my updates!
 github:
-  is_project_page: false
+is_project_page: false
