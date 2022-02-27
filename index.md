@@ -16,7 +16,7 @@ Elias D. Nino-Ruiz obtained the Diploma in System Engineering (2007) from the Un
 # Experience
 ---
 ## Research Experience
----
+
 ### Director of the Applied Math and Computer Science Lab. 
 
 - Spring 2017 to Current. 
@@ -46,7 +46,7 @@ Elias D. Nino-Ruiz obtained the Diploma in System Engineering (2007) from the Un
 
 ---
 ## Work Experience
----
+
 ### Associate Professor, Chair
 
 - Spring 2018 - Current.
