@@ -42,3 +42,5 @@
 
 1. `Nino-Ruiz, E. D.`, & Sandu, A. (2015). _Ensemble Kalman filter implementations based on shrinkage covariance matrix estimation_. **Ocean Dynamics**, Springer, 65(11), 1423-1439.
 2. `Nino Ruiz, E. D.`, Sandu, A., & Anderson, J. (2015). _An efficient implementation of the ensemble Kalman filter based on an iterative Sherman–Morrison formula_. **Statistics and Computing**, Springer, 25(3), 561-577.
+
+[Go to the main site](index.md)
