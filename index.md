@@ -80,7 +80,7 @@
 ## Publications
 
 - [List of selected journal publications.](journal_publications.md)
-- List of conference papers.
+- [List of selected journal publications.](conference_publications.md)
 
 # Peer review service
 
