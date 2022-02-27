@@ -1,15 +1,22 @@
-# Elías David Niño-Ruiz, Ph.D.
+# Short Bio
 
 <div style="text-align: justify">Elias D. Nino-Ruiz obtained the Diploma in System Engineering (2007) from the Universidad del Norte (UniNorte) Barranquilla, Colombia, M.S. in System Engineering (2009) and M.S. in Industrial Engineering (2010) from UniNorte, and Ph.D. in Computer Science and Applications (2015) from the Virginia Polytechnic Institute and State University (Virginia Tech) Blacksburg, USA. He worked as an intern at Argonne National Laboratory, USA (2013) and Lawrence Livermore National Laboratory, USA (2014). He served as a research assistant (2011-2015) in the Computational Science Laboratory and an instructor of Numerical Methods (2015) at Virginia Tech. In 2016, he joined UniNorte's Department of Computer Science; he works as an Associate Professor, Chair of the Department of Computer Science, and Director of the Applied Math and Computer Science Laboratory. Nino's research interests are in the area of Computational Science, Applied Mathematics, and Applied Statistics.</div>
 
+# Professional Networks
+
+
 # Education
 
-1. Ph.D. in Computer Science and Applications.
-2. M.Sc. in Systems Engineering.
-3. M.Sc. in Industrial Engineering.
-4. B.Sc. in Systems Engineering.
+1. Ph.D. in Computer Science and Applications, Virginia Polytechnic Institute and State University. Thesis [Efficient Formulation and Implementation of Ensemble based Methods in Data Assimilation](https://vtechworks.lib.vt.edu/handle/10919/64438), GPA: 3.63 out of  4.0., Advisor: [Prof. Adrian Sandu](http://people.cs.vt.edu/~asandu/).
+2. M.Sc. in Systems Engineering,
+3. M.Sc. in Industrial Engineering,
+4. B.Sc. in Systems Engineering,
 
-# 
+# Research Experience
+
+# Work Experience
+
+
 
 ```markdown
 Syntax highlighted code block
