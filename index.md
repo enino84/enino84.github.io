@@ -1,5 +1,7 @@
 ---
+
 ![amlcs-logo](aml_cs.png)
+
 ---
 
 # Elías D. Nino-Ruiz, Ph.D. 
@@ -104,7 +106,7 @@ ORCID
 
 # Awards
 
-1. <a href="iccs-meeting.org/iccs2017/awards/index.html" target="_blank">Best Workshop Paper Award</a>. A Surrogate Model Based On Mixtures Of Taylor Expansions For Trust Region Based Methods. ``ICCS - International Conference on Computational Science 2017``, Zurich, Zwitserland, June 2017.
+1. <a href="https://www.iccs-meeting.org/iccs2017/awards/index.html" target="_blank">Best Workshop Paper Award</a>. A Surrogate Model Based On Mixtures Of Taylor Expansions For Trust Region Based Methods. ``ICCS - International Conference on Computational Science 2017``, Zurich, Zwitserland, June 2017.
 
 # Publications
 
