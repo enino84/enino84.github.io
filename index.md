@@ -83,7 +83,9 @@ ORCID
 - Department of Computer Science Department, **Virginia Polytechnic Institute and State University**, VA 24060, USA.
 
 ---
-# Key Note 
+# Key Notes
+
+- 22/01/2019 - <a href="https://www.youtube.com/watch?v=1eqTuMCGnKY" target="_blank">Ensemble Kalman Filter Based On A Modified Cholseky Decomposition</a>, ``ISDA 2019 - 7th International Symposium on Data Assimilation``, RIKEN R-CCS, Kobe, Japan, 2019.
 
 # Publications
 
