@@ -29,27 +29,27 @@ ORCID
 ### Director of the Applied Math and Computer Science Lab. 
 
 - Spring 2017 to Current. 
-- Department of Computer Science, **Universidad del Norte**, BAQ 080001, Colombia. 
+- Department of Computer Science, ``Universidad del Norte``, BAQ 080001, Colombia. 
 - Description: Scientific Computing methods for the solution of real-life problems. 
 
 ### Research Assistant
 
 - June 2014 to July 2014.
-- Mathematics and Computer Science Division, **Lawrence Livermore National Laboratory**, CA 94550, USA.
+- Mathematics and Computer Science Division, ``Lawrence Livermore National Laboratory``, CA 94550, USA.
 - Supervisor: Greg Bronevetsky, Ph.D.
 - Description: Analysis of sequential data assimilation methods making use of the SIGHT toolbox. 
 
 ### Givens Associate
 
 - June 2013 to August 2013
-- Mathematics and Computer Science Division, **Argonne National Laboratory**, IL 60439, USA.
+- Mathematics and Computer Science Division, ``Argonne National Laboratory``, IL 60439, USA.
 - Supervisor: Cosmin Petra, Ph.D. 
 - Description: Working on time-dependent, background-error covariance matrix estimation.
 
 ### Research Assistant
 
 - August 2011 to December 2015
-- Computational Science Laboratory, Computer Science Department, **Virginia Polytechnic Institute and State University**, VA 24060, USA.
+- Computational Science Laboratory, Computer Science Department, ``Virginia Polytechnic Institute and State University``, VA 24060, USA.
 - Supervisor: Adrian Sandu, Ph.D.
 - Description: Working on sequential and variational data assimilation for weather forecast. 
 
@@ -59,34 +59,34 @@ ORCID
 ### Associate Professor, Chair
 
 - Spring 2018 - Current.
-- Deparment of Systems Engineering, **Universidad del Norte**, BAQ 080001, Colombia
+- Deparment of Systems Engineering, ``Universidad del Norte``, BAQ 080001, Colombia
 
 ### Instructor of Data Assimilation
 
 - Fall 2020, Fall 2021.
-- Ph.D. Program in Mathematical Engineering, **Universidad EAFIT**, MDE 050001, Colombia.
+- Ph.D. Program in Mathematical Engineering, ``Universidad EAFIT``, MDE 050001, Colombia.
 
 
 ### Teaching Assistant of Data Science for All
  
 - Fall 2020 - Current
-- Program of Data Science for All - Colombia, **Correlation-One (DS4A - Colombia)**, USA
+- Program of Data Science for All - Colombia, ``Correlation-One (DS4A - Colombia)``, USA
 
 ### Assistant Professor 
 
 - Spring 2016 - Fall 2017.
-- Deparment of Systems Engineering, **Universidad del Norte**, BAQ 080001, Colombia.
+- Deparment of Systems Engineering, ``Universidad del Norte``, BAQ 080001, Colombia.
 
 ### Instructor of Numerical Methods
 
 - Fall 2015.
-- Department of Computer Science Department, **Virginia Polytechnic Institute and State University**, VA 24060, USA.
+- Department of Computer Science Department, ``Virginia Polytechnic Institute and State University``, VA 24060, USA.
 
 ---
 # Key Notes
 
-- 09/06/2021 - <a href="http://www.youtube.com/watch?v=7_laGIOn__I&t=238m39s" target="_blank">Ensemble based Data Assimilation via a Modified Cholesky Decomposition</a>, <a href="https://enkf.norceprosjekt.no/previous-workshops/enkf-workshop-2021-free-online-event-" target="_blank">``EnKF Workshop 2021``</a>, NORCE Norwegian Research Centre AS, 2021.
-- 22/01/2019 - <a href="https://www.youtube.com/watch?v=1eqTuMCGnKY" target="_blank">Ensemble Kalman Filter Based On A Modified Cholseky Decomposition</a>, <a href="http://www.data-assimilation.riken.jp/isda2019/" target="_blank">``ISDA 2019 - 7th International Symposium on Data Assimilation``</a>, RIKEN R-CCS, Kobe, Japan, 2019.
+- 09/06/2021 - <a href="http://www.youtube.com/watch?v=7_laGIOn__I&t=238m39s" target="_blank">Ensemble based Data Assimilation via a Modified Cholesky Decomposition</a>, <a href="https://enkf.norceprosjekt.no/previous-workshops/enkf-workshop-2021-free-online-event-" target="_blank" style="text-decoration: none">``EnKF Workshop 2021``</a>, NORCE Norwegian Research Centre AS, 2021.
+- 22/01/2019 - <a href="https://www.youtube.com/watch?v=1eqTuMCGnKY" target="_blank">Ensemble Kalman Filter Based On A Modified Cholseky Decomposition</a>, <a href="http://www.data-assimilation.riken.jp/isda2019/" target="_blank" style="text-decoration: none">``ISDA 2019 - 7th International Symposium on Data Assimilation``</a>, RIKEN R-CCS, Kobe, Japan, 2019.
 
 # Publications
 
