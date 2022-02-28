@@ -1,6 +1,6 @@
 # Selected Peer Reviews
 
-For a complete list, please visit [my Publons profile](https://publons.com/researcher/1303956/elias-d-nino-ruiz/).
+For a complete list, please visit <a href="https://publons.com/researcher/1303956/elias-d-nino-ruiz/" target="_blank">my Publons profile.
 
 1. Alexandria Engineering Journal, Elsevier, August 2021.
 2. Pure and Applied Geophysics, Springer, July 2021.
