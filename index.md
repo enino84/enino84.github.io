@@ -115,11 +115,11 @@ ORCID
 - [List of selected journal publications.](journal_publications.md)
 - [List of selected conference publications.](conference_publications.md)
 
-# Peer review service
+# Peer reviews
 
 - [List of some peer reviews](peer_reviews.md).
 
-# Editorial service
+# Editorial board
 
 - [List of editorial services](editorial_services.md).
 
