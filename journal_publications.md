@@ -1,5 +1,7 @@
 # Selected Journal Publications
 
+For a complete list, please visit my Google Scholar, ORCID, or Scopus profiles.
+
 ## 2021
 
 1. `Nino-Ruiz, E. D.` (2021). _A line-search optimization method for non-Gaussian data assimilation via random quasi-orthogonal sub-spaces_. **Journal of Computational Science**, Elsevier,  53, 101373.y
