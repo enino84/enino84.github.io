@@ -1,0 +1,18 @@
+# Undergrad Courses
+
+1. Optimization, ``Universidad del Norte``, Colombia (Spring 2022)
+2. Optimization, ``Universidad del Norte``, Colombia (Fall 2021)
+3. Optimization, ``Universidad del Norte``, Colombia (Spring 2021)
+4. Optimization, ``Universidad del Norte``, Colombia (Fall 2020)
+5. Data Mining, ``Universidad del Norte``, Colombia (Spring 2020)
+6. Optimization, ``Universidad del Norte``, Colombia (Spring 2020)
+7. Optimization, ``Universidad del Norte``, Colombia (Fall 2019)
+8. Optimization, ``Universidad del Norte``, Colombia (Fall 2018)
+9. Optimization, ``Universidad del Norte``, Colombia (Spring 2018)
+10. Computational Solutions to Engineering Problems, ``Universidad del Norte``, Colombia (Fall 2017)
+11. Computational Solutions to Engineering Problems, ``Universidad del Norte``, Colombia (Spring 2017)
+12. Computational Solutions to Engineering Problems, ``Universidad del Norte``, Colombia (Fall 2016)
+13. Data Mining, ``Universidad del Norte``, Colombia (Fall 2016)
+14. Computational Solutions to Engineering Problems, ``Universidad del Norte``, Colombia (Spring 2016)
+15. Data Mining, ``Universidad del Norte``, Colombia (Spring 2016)
+16. Numerical Methods, ``Virginia Tech``, USA (Fall 2015)
