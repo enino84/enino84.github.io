@@ -130,7 +130,7 @@ Here is a word cloud of some of my research documents.
 <a class="twitter-timeline" data-width="400" data-height="400" data-theme="dark" href="https://twitter.com/elias_david_84?ref_src=twsrc%5Etfw">Tweets by elias_david_84</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
  </center>
  
- # Some Good Memories
+# Some Good Memories
  
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -232,27 +232,25 @@ img {vertical-align: middle;}
   .prev, .next,.text {font-size: 11px}
 }
 </style>
-</head>
-<body>
 
 <div class="slideshow-container">
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
   <img src="e1.jpg" style="width:100%">
-  <div class="text">Caption Text</div>
+  <div class="text">September 18-20, 2019. First International Workshop on Data Assimilation for Decision Making, Barranquilla, Colombia.</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
   <img src="e2.jpg" style="width:100%">
-  <div class="text">Caption Two</div>
+  <div class="text">January 21-24, 2018. The 7th International Symposium on Data Assimilation (ISDA2019) at the RIKEN Center, Japan</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
   <img src="e3.jpg" style="width:100%">
-  <div class="text">Caption Three</div>
+  <div class="text">October 22-26, 2018. IMA program on Recent Advances in Machine Learning and Computational Methods for Geoscience, USA</div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
