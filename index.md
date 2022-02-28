@@ -100,3 +100,7 @@
 Here is a word cloud of some of my research documents.
 
 ![](WordCloud.png)
+
+# Social Media
+
+<a class="twitter-timeline" href="https://twitter.com/elias_david_84?ref_src=twsrc%5Etfw">Tweets by elias_david_84</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
