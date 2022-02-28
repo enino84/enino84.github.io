@@ -2,15 +2,15 @@
 
 # Short Bio
 
-<div style="text-align:justify">Elias D. Nino-Ruiz obtained the Diploma in System Engineering (2007) from the Universidad del Norte (UniNorte) Barranquilla, Colombia, M.Sc. in System Engineering (2009) and M.Sc. in Industrial Engineering (2010) from UniNorte, and Ph.D. in Computer Science and Applications (2015) from the Virginia Polytechnic Institute and State University (Virginia Tech) Blacksburg, USA. He worked as an intern at Argonne National Laboratory, USA (2013) and Lawrence Livermore National Laboratory, USA (2014). He served as a research assistant (2011-2015) in the <a href="https://csl.cs.vt.edu/">Computational Science Laboratory</a> and an instructor of Numerical Methods (2015) at Virginia Tech. In 2016, he joined UniNorte's Department of Computer Science; he works as an Associate Professor, Chair of the Department of Computer Science, and <a href="https://aml-cs.github.io/">Director of the Applied Math and Computer Science Laboratory</a>. Nino's research interests are in the area of Computational Science, Applied Mathematics, and Applied Statistics.</div>
+<div style="text-align:justify">Elias D. Nino-Ruiz obtained the Diploma in System Engineering (2007) from the Universidad del Norte (UniNorte) Barranquilla, Colombia, M.Sc. in System Engineering (2009) and M.Sc. in Industrial Engineering (2010) from UniNorte, and Ph.D. in Computer Science and Applications (2015) from the Virginia Polytechnic Institute and State University (Virginia Tech) Blacksburg, USA. He worked as an intern at Argonne National Laboratory, USA (2013) and Lawrence Livermore National Laboratory, USA (2014). He served as a research assistant (2011-2015) in the <a href="https://csl.cs.vt.edu/" target="_blank">Computational Science Laboratory</a> and an instructor of Numerical Methods (2015) at Virginia Tech. In 2016, he joined UniNorte's Department of Computer Science; he works as an Associate Professor, Chair of the Department of Computer Science, and <a href="https://aml-cs.github.io/" target="_blank">Director of the Applied Math and Computer Science Laboratory</a>. Nino's research interests are in the area of Computational Science, Applied Mathematics, and Applied Statistics.</div>
 
 # Posts - News
 
-<a href="https://twitter.com/elias_david_84?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @elias_david_84</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/elias_david_84?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" target="_blank">Follow @elias_david_84</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Professional Networks
 
-<a href="https://orcid.org/0000-0001-7784-8163">
+<a href="https://orcid.org/0000-0001-7784-8163" target="_blank">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" />
 ORCID
 </a>, [Google Scholar](https://scholar.google.com/citations?user=IE8dAAgAAAAJ&hl=en), [SCOPUS Author Profile](https://www.scopus.com/authid/detail.uri?authorId=36603283600), [Applied Math and Computer Science Lab](https://aml-cs.github.io/)
