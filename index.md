@@ -11,7 +11,8 @@
 
 # Posts - News
 
-<a href="https://twitter.com/elias_david_84?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" target="_blank">Follow @elias_david_84</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+1. CV Elías D. Nino-Ruiz (Updated on February 27, 2022).
+2. <a href="https://twitter.com/elias_david_84?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" target="_blank">Follow @elias_david_84</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Professional Networks
 
