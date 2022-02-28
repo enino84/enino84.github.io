@@ -103,4 +103,6 @@ Here is a word cloud of some of my research documents.
 
 # Social Media
 
+<center>
 <a class="twitter-timeline" data-width="400" data-height="400" data-theme="dark" href="https://twitter.com/elias_david_84?ref_src=twsrc%5Etfw">Tweets by elias_david_84</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+ </center>
