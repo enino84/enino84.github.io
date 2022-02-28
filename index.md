@@ -11,7 +11,7 @@
 # Professional Networks
 
 <a href="https://orcid.org/0000-0001-7784-8163">
-<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" />
 ORCID
 </a>, [Google Scholar](https://scholar.google.com/citations?user=IE8dAAgAAAAJ&hl=en), [SCOPUS Author Profile](https://www.scopus.com/authid/detail.uri?authorId=36603283600), [Applied Math and Computer Science Lab](https://aml-cs.github.io/)
 
