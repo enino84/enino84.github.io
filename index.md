@@ -9,6 +9,10 @@
 
 <div style="text-align:justify">Elias D. Nino-Ruiz obtained the Diploma in System Engineering (2007) from the Universidad del Norte (UniNorte) Barranquilla, Colombia, M.Sc. in System Engineering (2009) and M.Sc. in Industrial Engineering (2010) from UniNorte, and Ph.D. in Computer Science and Applications (2015) from the Virginia Polytechnic Institute and State University (Virginia Tech) Blacksburg, USA. He worked as an intern at Argonne National Laboratory, USA (2013) and Lawrence Livermore National Laboratory, USA (2014). He served as a research assistant (2011-2015) in the <a href="https://csl.cs.vt.edu/" target="_blank">Computational Science Laboratory</a> and an instructor of Numerical Methods (2015) at Virginia Tech. In 2016, he joined UniNorte's Department of Computer Science; he works as an Associate Professor, Chair of the Department of Computer Science, and <a href="https://aml-cs.github.io/" target="_blank">Director of the Applied Math and Computer Science Laboratory</a>. Nino's research interests are in the area of Computational Science, Applied Mathematics, and Applied Statistics.</div>
 
+```
+**My favorite quote:** Isaiah 40:31. but they who wait for the LORD shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint.
+```
+
 # Posts - News
 
 1. CV Elías D. Nino-Ruiz (Updated on February 27, 2022).
