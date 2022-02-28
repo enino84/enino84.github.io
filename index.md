@@ -29,8 +29,8 @@ ORCID
 
 1. Ph.D. in Computer Science and Applications, _Virginia Polytechnic Institute and State University_, USA. Thesis: <a href="https://vtechworks.lib.vt.edu/handle/10919/64438" target="_blank">Efficient Formulation and Implementation of Ensemble based Methods in Data Assimilation</a>. GPA: 3.63 out of 4.0., Advisor: <a href="http://people.cs.vt.edu/~asandu/" target="_blank">Prof. Adrian Sandu</a>.
 2. M.Sc. in Systems Engineering, _Universidad del Norte_, Colombia. Thesis: MODS: A Novel Metaheuristic of Deterministic Swapping for the Multi-Objective Optimization of Combinatorials Problems. GPA 4.28 out of 5.0., Advisor: Carlos Ardila, M.Sc.
-3. M.Sc. in Industrial Engineering, _Universidad del Norte_, Colombia. Thesis: A Novel Algorithm Based on Deterministic Finite Automaton for Solving the Mono-objective Symmetric Traveling Salesman Problem, GPA 4.28 out of 5.0., Advisor: Carlos Ardila, M.Sc.
-4. B.Sc. in Systems Engineering,  _Universidad del Norte_, Colombia. Thesis: Numerical Methods for Multivariate Optimization, GPA 4.28 out of 5.0., Advisor: Carlos Ardila, M.Sc.
+3. M.Sc. in Industrial Engineering, _Universidad del Norte_, Colombia. Thesis: A Novel Algorithm Based on Deterministic Finite Automaton for Solving the Mono-objective Symmetric Traveling Salesman Problem, GPA 4.45 out of 5.0., Advisor: Carlos Ardila, M.Sc.
+4. B.Sc. in Systems Engineering,  _Universidad del Norte_, Colombia. Thesis: Numerical Methods for Multivariate Optimization, GPA 4.02 out of 5.0., Advisor: Carlos Ardila, M.Sc.
 
 # Experience
 ---
