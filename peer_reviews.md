@@ -3,7 +3,7 @@
 For a complete list, please visit <a href="https://publons.com/researcher/1303956/elias-d-nino-ruiz/" target="_blank">my Publons profile</a>.
 
 1. Mathematical Geosciences, Springer, February 2022.
-2. Communications in Statistics: Case Studies, Data Analysis and Applications, Taylor and Francis, February 2022
+2. Communications in Statistics: Case Studies, Data Analysis and Applications, Taylor & Francis, February 2022
 3. Quarterly Journal of the Royal Meteorological Society, Wiley, September 2021.
 4. Alexandria Engineering Journal, Elsevier, August 2021.
 5. Pure and Applied Geophysics, Springer, July 2021.
