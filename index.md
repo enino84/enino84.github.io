@@ -11,6 +11,7 @@
 
 <br>
 <a href="https://twitter.com/elias_david_84?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" target="_blank">Follow @elias_david_84</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <br>
 
 **My favorite quote:** Isaiah 40:31. but they who wait for the ``LORD`` shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint.
