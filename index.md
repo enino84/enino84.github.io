@@ -1,4 +1,4 @@
-![Elías D. Niño-Ruiz](profile_small.png)
+<div style="text-align:center"><img src="profile_small.png" /></div>
 
 # Short Bio
 
