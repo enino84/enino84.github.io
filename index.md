@@ -17,7 +17,7 @@
 
 # Posts - News
 
-1. <a href="CV_EliasN_28022022.pdf" target="_blank">CV Elías D. Nino-Ruiz</a> (Updated on February 27, 2022).
+1. <a href="CV_Elias_D_Nino_28022022.pdf" target="_blank">CV Elías D. Nino-Ruiz</a> (Updated on February 27, 2022).
 
 # Professional Networks
 
