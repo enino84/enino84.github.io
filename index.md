@@ -85,7 +85,8 @@ ORCID
 ---
 # Key Notes
 
-- 22/01/2019 - <a href="https://www.youtube.com/watch?v=1eqTuMCGnKY" target="_blank">Ensemble Kalman Filter Based On A Modified Cholseky Decomposition</a>, ``ISDA 2019 - 7th International Symposium on Data Assimilation``, RIKEN R-CCS, Kobe, Japan, 2019.
+- 09/06/2021 - <a href="http://www.youtube.com/watch?v=7_laGIOn__I&t=238m39s" target="_blank">Ensemble based Data Assimilation via a Modified Cholesky Decomposition</a>, <a href="https://enkf.norceprosjekt.no/previous-workshops/enkf-workshop-2021-free-online-event-" target="_blank">``EnKF Workshop 2021``</a>, NORCE Norwegian Research Centre AS, 2021.
+- 22/01/2019 - <a href="https://www.youtube.com/watch?v=1eqTuMCGnKY" target="_blank">Ensemble Kalman Filter Based On A Modified Cholseky Decomposition</a>, <a href="http://www.data-assimilation.riken.jp/isda2019/" target="_blank">``ISDA 2019 - 7th International Symposium on Data Assimilation``</a>, RIKEN R-CCS, Kobe, Japan, 2019.
 
 # Publications
 
