@@ -83,10 +83,15 @@ ORCID
 - Department of Computer Science Department, ``Virginia Polytechnic Institute and State University``, VA 24060, USA.
 
 ---
-# Key Notes
+# Keynote Talks
 
-- 09/06/2021 - <a href="http://www.youtube.com/watch?v=7_laGIOn__I&t=238m39s" target="_blank">Ensemble based Data Assimilation via a Modified Cholesky Decomposition</a>, <a href="https://enkf.norceprosjekt.no/previous-workshops/enkf-workshop-2021-free-online-event-" target="_blank" style="text-decoration: none">``EnKF Workshop 2021``</a>, NORCE Norwegian Research Centre AS, 2021.
-- 22/01/2019 - <a href="https://www.youtube.com/watch?v=1eqTuMCGnKY" target="_blank">Ensemble Kalman Filter Based On A Modified Cholseky Decomposition</a>, <a href="http://www.data-assimilation.riken.jp/isda2019/" target="_blank" style="text-decoration: none">``ISDA 2019 - 7th International Symposium on Data Assimilation``</a>, RIKEN R-CCS, Kobe, Japan, 2019.
+- 09/06/2021 - <a href="http://www.youtube.com/watch?v=7_laGIOn__I&t=238m39s" target="_blank">Ensemble based Data Assimilation via a Modified Cholesky Decomposition</a>, <a href="https://enkf.norceprosjekt.no/previous-workshops/enkf-workshop-2021-free-online-event-" target="_blank" style="text-decoration: none">``EnKF Workshop 2021``</a>, NORCE Norwegian Research Centre AS, 2021. - **English**
+- 22/01/2019 - <a href="https://www.youtube.com/watch?v=1eqTuMCGnKY" target="_blank">Ensemble Kalman Filter Based On A Modified Cholseky Decomposition</a>, <a href="http://www.data-assimilation.riken.jp/isda2019/" target="_blank" style="text-decoration: none">``ISDA 2019 - 7th International Symposium on Data Assimilation``</a>, RIKEN R-CCS, Kobe, Japan, 2019. - **Engligh**
+
+# Invited Talks
+
+- 19/09/2019 - <a href="https://youtu.be/cf80zobQzGM" target="_blank">Efficient Implementation of Ensemble Based Methods</a>, ``First International Workshop on Data Assimilation for Decision Making``, Barranquilla, Colombia`. **English**
+- 27/11/2018 - <a href="https://youtu.be/LELXfvfQTXE" target="_blank">Covariance Matrix Estimation - Seminar of the Ph.D. in Mathematical Engineering</a>, ``Universidad EAFIT``, Colombia. **English**
 
 # Publications
 
