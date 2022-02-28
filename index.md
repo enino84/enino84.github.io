@@ -90,7 +90,7 @@ ORCID
 
 # Invited Talks
 
-- 24/06/2021 - <a href="https://www.youtube.com/watch?v=F-fp1Ze5a7g" target="_blank">"Implementaciones Eficientes de Métodos de Asimilación de Datos Secuenciales para el Pronóstico Meteorológico</a>. ``Asociación de Universidades Grupo Montevideo (AUGM)``. Webinar. **Spanish**
+- 24/06/2021 - <a href="https://www.youtube.com/watch?v=F-fp1Ze5a7g" target="_blank">Implementaciones Eficientes de Métodos de Asimilación de Datos Secuenciales para el Pronóstico Meteorológico</a>. ``Asociación de Universidades Grupo Montevideo (AUGM)``. Webinar. **Spanish**
 - 27/05/2020 - <a href="https://www.youtube.com/watch?v=COo-wWCS46o" target="_blank">Uso de la Analítica de Datos para Enfrentar los Nuevos y Rápidos Retos que Enfrenta Nuestra Sociedad</a>. ``Webinar - Universidad del Norte``. **Spanish**
 - 15/05/2020 - <a href="https://www.youtube.com/watch?v=mW3P-UxZDZA" target="_blank">Métodos de Machine Learning e Inteligencia Artificial: Oportunidades Para Estimar el Impacto del SAR-COV-2 en Colombia</a>. ``Webinar - Universidad del Norte``. **Spanish**
 - 19/09/2019 - <a href="https://youtu.be/cf80zobQzGM" target="_blank">Efficient Implementation of Ensemble Based Methods</a>, ``First International Workshop on Data Assimilation for Decision Making``, Universidad del Norte, Barranquilla, Colombia. **English**
