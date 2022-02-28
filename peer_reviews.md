@@ -1,6 +1,6 @@
 # Selected Peer Reviews
 
-For a complete list, please visit <a href="https://publons.com/researcher/1303956/elias-d-nino-ruiz/" target="_blank">my Publons profile.
+For a complete list, please visit <a href="https://publons.com/researcher/1303956/elias-d-nino-ruiz/" target="_blank">my Publons profile</a>.
 
 1. Mathematical Geosciences, Springer, February 2022.
 2. Communications in Statistics: Case Studies, Data Analysis and Applications, Taylor and Francis, February 2022
