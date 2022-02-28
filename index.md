@@ -119,7 +119,7 @@ ORCID
 
 - [List of some peer reviews](peer_reviews.md).
 
-# Editorial board
+# Editorial boards
 
 - [List of editorial services](editorial_services.md).
 
