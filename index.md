@@ -90,7 +90,7 @@ ORCID
 
 # Invited Talks
 
-- 19/09/2019 - <a href="https://youtu.be/cf80zobQzGM" target="_blank">Efficient Implementation of Ensemble Based Methods</a>, ``First International Workshop on Data Assimilation for Decision Making``, Barranquilla, Colombia`. **English**
+- 19/09/2019 - <a href="https://youtu.be/cf80zobQzGM" target="_blank">Efficient Implementation of Ensemble Based Methods</a>, ``First International Workshop on Data Assimilation for Decision Making``, Universidad del Norte, Barranquilla, Colombia`. **English**
 - 27/11/2018 - <a href="https://youtu.be/LELXfvfQTXE" target="_blank">Covariance Matrix Estimation</a>, ``Seminar of the Ph.D. in Mathematical Engineering``, Universidad EAFIT, Colombia. **English**
 
 # Publications
