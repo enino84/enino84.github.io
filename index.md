@@ -13,7 +13,7 @@
 <a href="https://twitter.com/elias_david_84?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" target="_blank">Follow @elias_david_84</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br>
-**My favorite quote:** Isaiah 40:31. but they who wait for the ``LORD`` shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint.
+**My favorite quote:** Isaiah 40:31. But they who wait for the ``LORD`` shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint.
 
 # Posts - News
 
@@ -28,7 +28,7 @@ ORCID
 # Education
 
 1. Ph.D. in Computer Science and Applications, ``Virginia Polytechnic Institute and State University``, USA. Thesis: <a href="https://vtechworks.lib.vt.edu/handle/10919/64438" target="_blank">Efficient Formulation and Implementation of Ensemble based Methods in Data Assimilation</a>. GPA: 3.63 out of 4.0., Advisor: <a href="http://people.cs.vt.edu/~asandu/" target="_blank">Prof. Adrian Sandu</a>.
-2. M.Sc. in Systems Engineering, ``Universidad del Norte``, Colombia. Thesis: MODS: A Novel Metaheuristic of Deterministic Swapping for the Multi-Objective Optimization of Combinatorials Problems. GPA 4.28 out of 5.0., Advisor: Carlos Ardila, M.Sc.
+2. M.Sc. in Systems Engineering, ``Universidad del Norte``, Colombia. Thesis: MODS: A Novel Metaheuristic of Deterministic Swapping for the Multi-Objective Optimization of Combinatorial Problems. GPA 4.28 out of 5.0., Advisor: Carlos Ardila, M.Sc.
 3. M.Sc. in Industrial Engineering, ``Universidad del Norte``, Colombia. Thesis: A Novel Algorithm Based on Deterministic Finite Automaton for Solving the Mono-objective Symmetric Traveling Salesman Problem, GPA 4.45 out of 5.0., Advisor: Carlos Ardila, M.Sc.
 4. B.Sc. in Systems Engineering,  ``Universidad del Norte``, Colombia. Thesis: Numerical Methods for Multivariate Optimization, GPA 4.02 out of 5.0., Advisor: Carlos Ardila, M.Sc.
 
@@ -47,7 +47,7 @@ ORCID
 - June 2014 to July 2014.
 - Mathematics and Computer Science Division, ``Lawrence Livermore National Laboratory``, CA 94550, USA.
 - Supervisor: Greg Bronevetsky, Ph.D.
-- Description: Analysis of sequential data assimilation methods making use of the SIGHT toolbox. 
+- Description: Analysis of sequential data assimilation methods using the SIGHT toolbox. 
 
 ### Givens Associate
 
@@ -61,7 +61,7 @@ ORCID
 - August 2011 to December 2015
 - Computational Science Laboratory, Computer Science Department, ``Virginia Polytechnic Institute and State University``, VA 24060, USA.
 - Supervisor: Adrian Sandu, Ph.D.
-- Description: Working on sequential and variational data assimilation for weather forecast. 
+- Description: Working on sequential and variational data assimilation for the weather forecast. 
 
 ---
 ## Work Experience
@@ -69,7 +69,7 @@ ORCID
 ### Associate Professor, Chair
 
 - Spring 2018 - Current.
-- Deparment of Systems Engineering, ``Universidad del Norte``, BAQ 080001, Colombia
+- Department of Systems Engineering, ``Universidad del Norte``, BAQ 080001, Colombia
 
 ### Instructor of Data Assimilation
 
@@ -85,18 +85,18 @@ ORCID
 ### Assistant Professor 
 
 - Spring 2016 - Fall 2017.
-- Deparment of Systems Engineering, ``Universidad del Norte``, BAQ 080001, Colombia.
+- Department of Systems Engineering, ``Universidad del Norte``, BAQ 080001, Colombia.
 
 ### Instructor of Numerical Methods
 
 - Fall 2015.
-- Department of Computer Science Department, ``Virginia Polytechnic Institute and State University``, VA 24060, USA.
+- Department of Computer Science, ``Virginia Polytechnic Institute and State University``, VA 24060, USA.
 
 ---
 # Keynote Talks
 
 - 09/06/2021 - <a href="http://www.youtube.com/watch?v=7_laGIOn__I&t=238m39s" target="_blank">Ensemble based Data Assimilation via a Modified Cholesky Decomposition</a>, <a href="https://enkf.norceprosjekt.no/previous-workshops/enkf-workshop-2021-free-online-event-" target="_blank" style="text-decoration: none">``EnKF Workshop 2021``</a>, NORCE Norwegian Research Centre AS, 2021. - **English**
-- 22/01/2019 - <a href="https://www.youtube.com/watch?v=1eqTuMCGnKY" target="_blank">Ensemble Kalman Filter Based On A Modified Cholseky Decomposition</a>, <a href="http://www.data-assimilation.riken.jp/isda2019/" target="_blank" style="text-decoration: none">``ISDA 2019 - 7th International Symposium on Data Assimilation``</a>, RIKEN R-CCS, Kobe, Japan, 2019. - **Engligh**
+- 22/01/2019 - <a href="https://www.youtube.com/watch?v=1eqTuMCGnKY" target="_blank">Ensemble Kalman Filter Based On A Modified Cholseky Decomposition</a>, <a href="http://www.data-assimilation.riken.jp/isda2019/" target="_blank" style="text-decoration: none">``ISDA 2019 - 7th International Symposium on Data Assimilation``</a>, RIKEN R-CCS, Kobe, Japan, 2019. - **English**
 
 # Invited Talks
 
