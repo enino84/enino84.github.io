@@ -1,6 +1,8 @@
 ![amlcs-logo](aml_cs.png)
 
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 # Elías D. Nino-Ruiz, Ph.D. 
 
 <div style="text-align:center"><img src="profile_small.png" /></div>
