@@ -25,6 +25,8 @@
 ORCID
 </a>, <a href="https://scholar.google.com/citations?user=IE8dAAgAAAAJ&hl=en" target="_blank">Google Scholar</a>, <a href="https://www.scopus.com/authid/detail.uri?authorId=36603283600" target="_blank">SCOPUS Author Profile</a>, <a href="https://aml-cs.github.io/" target="_blank">Applied Math and Computer Science Lab</a>
 
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="eliasdnino" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/eliasdnino?trk=profile-badge">Elias David Niño-Ruiz</a></div>
+
 # Education
 
 1. Ph.D. in Computer Science and Applications, ``Virginia Polytechnic Institute and State University``, USA. Thesis: <a href="https://vtechworks.lib.vt.edu/handle/10919/64438" target="_blank">Efficient Formulation and Implementation of Ensemble based Methods in Data Assimilation</a>. GPA: 3.63 out of 4.0., Advisor: <a href="http://people.cs.vt.edu/~asandu/" target="_blank">Prof. Adrian Sandu</a>.
