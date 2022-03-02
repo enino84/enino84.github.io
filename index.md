@@ -27,7 +27,7 @@
 ORCID
 </a>, <a href="https://scholar.google.com/citations?user=IE8dAAgAAAAJ&hl=en" target="_blank">Google Scholar</a>, <a href="https://www.scopus.com/authid/detail.uri?authorId=36603283600" target="_blank">SCOPUS Author Profile</a>, <a href="https://aml-cs.github.io/" target="_blank">Applied Math and Computer Science Lab</a>
 
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="eliasdnino" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/eliasdnino?trk=profile-badge">Elias David Niño-Ruiz</a></div>
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="eliasdnino" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/eliasdnino?trk=profile-badge"></a></div>
 
 # Education
 
