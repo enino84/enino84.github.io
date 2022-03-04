@@ -65,7 +65,7 @@ ORCID
 ---
 ## Work Experience
 
-### Associate Professor, Chair
+### Associate Professor & Department Head
 
 - Spring 2018 - Current.
 - Department of Systems Engineering, ``Universidad del Norte``, BAQ 080001, Colombia
