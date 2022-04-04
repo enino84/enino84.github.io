@@ -266,7 +266,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 4</div>
-  <img src="e3.jpg" style="width:100%">
+  <img src="e4.jpg" style="width:100%">
   <div class="text">March 22, 2022. Supporting National Government in Misión de Sabios</div>
 </div>
 
