@@ -247,21 +247,27 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
+  <div class="numbertext">1 / 4</div>
   <img src="e1.jpg" style="width:100%">
   <div class="text">September 18-20, 2019. First International Workshop on Data Assimilation for Decision Making, Barranquilla, Colombia.</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
+  <div class="numbertext">2 / 4</div>
   <img src="e2.jpg" style="width:100%">
   <div class="text">January 21-24, 2018. The 7th International Symposium on Data Assimilation (ISDA2019) at the RIKEN Center, Japan</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">3 / 4</div>
   <img src="e3.jpg" style="width:100%">
   <div class="text">October 22-26, 2018. IMA program on Recent Advances in Machine Learning and Computational Methods for Geoscience, USA</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">4 / 4</div>
+  <img src="e3.jpg" style="width:100%">
+  <div class="text">March 22, 2022. Supporting National Government in Misión de Sabios</div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
