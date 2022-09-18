@@ -7,7 +7,7 @@ ORCID
 
 ## 2022
 
-1. `Nino-Ruiz, E. D.` (2022). _Ensemble Driven Shrinkage Covariance Matrix Estimation for Sequential Data Assimilation_. **International Journal of Artificial Intelligence**, CESER Publications,  2022 Autumn (October), Volume 20, Number 2.
+1. `Nino-Ruiz, E. D.`, Guzman, L., & Jabba, D. (2022). _Ensemble Driven Shrinkage Covariance Matrix Estimation for Sequential Data Assimilation_. **International Journal of Artificial Intelligence**, CESER Publications,  2022 Autumn (October), Volume 20, Number 2.
 
 ## 2021
 
