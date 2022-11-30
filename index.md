@@ -36,8 +36,8 @@ ORCID
 
 # Certifications
 
-<img src="https://raw.githubusercontent.com/enino84/enino84.github.io/main/az900.png" width=20%></img>
-<img src="https://raw.githubusercontent.com/enino84/enino84.github.io/main/dp900.png" width=20%></img>
+<img src="https://raw.githubusercontent.com/enino84/enino84.github.io/main/az900.png" width=20%>
+<img src="https://raw.githubusercontent.com/enino84/enino84.github.io/main/dp900.png" width=20%>
 
 # Experience
 ---
