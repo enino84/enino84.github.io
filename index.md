@@ -36,10 +36,8 @@ ORCID
 
 # Certifications
 
-<div style="text-align:center"><img src="az900.png" /></div>
-<div style="text-align:center"><img src="dp900.png" /></div>
-
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fb3c0a2b-920d-43b9-a27e-584f7ce6f506" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9f397123-0fc6-4c64-927b-a94b43ba020f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 # Experience
 ---
