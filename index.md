@@ -34,6 +34,11 @@ ORCID
 3. M.Sc. in Industrial Engineering, ``Universidad del Norte``, Colombia. Thesis: A Novel Algorithm Based on Deterministic Finite Automaton for Solving the Mono-objective Symmetric Traveling Salesman Problem, GPA 4.45 out of 5.0., Advisor: Carlos Ardila, M.Sc.
 4. B.Sc. in Systems Engineering,  ``Universidad del Norte``, Colombia. Thesis: Numerical Methods for Multivariate Optimization, GPA 4.02 out of 5.0., Advisor: Carlos Ardila, M.Sc.
 
+# Certifications
+
+<img src="https://raw.githubusercontent.com/enino84/enino84.github.io/main/az900.png" width=50%></img>
+<img src="https://raw.githubusercontent.com/enino84/enino84.github.io/main/dp900.png" width=50%></img>
+
 # Experience
 ---
 ## Research Experience
