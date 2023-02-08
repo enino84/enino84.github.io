@@ -5,6 +5,10 @@ For a complete list, please visit my <a href="https://orcid.org/0000-0001-7784-8
 ORCID
 </a>, <a href="https://scholar.google.com/citations?user=IE8dAAgAAAAJ&hl=en" target="_blank">Google Scholar</a>, and <a href="https://www.scopus.com/authid/detail.uri?authorId=36603283600" target="_blank">SCOPUS</a> profiles.
 
+## 2023
+
+1. `Nino-Ruiz, E.D.`, Consuegra Ortega, R.S. & Lucini, M.(2023) _Ensemble based methods for leapfrog integration in the simplified parameterizations, primitive-equation dynamics model_. **Quarterly Journal of the Royal Meteorological Society**, 1– 15. Available from: https://doi.org/10.1002/qj.4424
+
 ## 2022
 
 1. `Nino-Ruiz, E. D.`, Guzman, L., & Jabba, D. (2022). _Ensemble Driven Shrinkage Covariance Matrix Estimation for Sequential Data Assimilation_. **International Journal of Artificial Intelligence**, CESER Publications,  2022 Autumn (October), Volume 20, Number 2.
