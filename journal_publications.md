@@ -7,7 +7,7 @@ ORCID
 
 ## 2023
 
-1. `Nino-Ruiz, E.D.`, Consuegra Ortega, R.S. & Lucini, M.(2023) _Ensemble based methods for leapfrog integration in the simplified parameterizations, primitive-equation dynamics model_. **Quarterly Journal of the Royal Meteorological Society**, 1– 15. Available from: https://doi.org/10.1002/qj.4424
+1. `Nino-Ruiz, E.D.`, Consuegra Ortega, R.S. & Lucini, M.(2023) _Ensemble based methods for leapfrog integration in the simplified parameterizations, primitive-equation dynamics model_. **Quarterly Journal of the Royal Meteorological Society**, RMetS, 1– 15. Available from: https://doi.org/10.1002/qj.4424
 
 ## 2022
 
