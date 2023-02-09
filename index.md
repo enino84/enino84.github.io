@@ -24,7 +24,7 @@
 
 ✔️ I'm officially part of the Early Career Advisory Board for the <a href="https://www.sciencedirect.com/journal/control-engineering-practice" target="_blank">Control Engineering Practice Journal</a>, thanks to Elsevier for this opportunity! (Updated on April 20, 2022)
 
-✔️ <a href="CV_Elias_D_Nino_28022022.pdf" target="_blank">CV Elías D. Nino-Ruiz</a> (Updated on February 27, 2022).
+✔️ <a href="ENDJ - CV - ElíasN - Academic.pdf" target="_blank">CV Elías D. Nino-Ruiz</a> (Updated on February 08, 2023).
 
 # Professional Networks
 
