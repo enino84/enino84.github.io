@@ -20,7 +20,7 @@
 
 ✔️ I'm happy to share with you my most recent publication in Quarterly Journal of the Royal Meteorological Society:
 
-⌨️ `Nino-Ruiz, E.D.`, Consuegra Ortega, R.S. & Lucini, M.(2023) _Ensemble based methods for leapfrog integration in the simplified parameterizations, primitive-equation dynamics model_. **Quarterly Journal of the Royal Meteorological Society**, RMetS, 1– 15. Available from: https://doi.org/10.1002/qj.4424
+⌨️ `Nino-Ruiz, E.D.`, Consuegra Ortega, R.S. & Lucini, M.(2023) _Ensemble based methods for leapfrog integration in the simplified parameterizations, primitive-equation dynamics model_. **Quarterly Journal of the Royal Meteorological Society**, RMetS, 1– 15. Available from: <a href="https://doi.org/10.1002/qj.4424" target="_blank">https://doi.org/10.1002/qj.4424</a>
 
 ✔️ I'm officially part of the Early Career Advisory Board for the <a href="https://www.sciencedirect.com/journal/control-engineering-practice" target="_blank">Control Engineering Practice Journal</a>, thanks to Elsevier for this opportunity! (Updated on April 20, 2022)
 
