@@ -78,9 +78,14 @@ ORCID
 ---
 ## Work Experience
 
+### Associate Professor
+
+- Spring 2023 - Current.
+- Department of Systems Engineering, ``Universidad del Norte``, BAQ 080001, Colombia
+
 ### Associate Professor & Department Head
 
-- Spring 2018 - Current.
+- Spring 2018 - Spring 2023.
 - Department of Systems Engineering, ``Universidad del Norte``, BAQ 080001, Colombia
 
 ### Instructor of Data Assimilation
