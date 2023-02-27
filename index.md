@@ -2,7 +2,7 @@
 
 # Elías D. Niño-Ruiz, Ph.D.
 
-<div style="text-align:center"><img src="profile_small.png" /></div>
+<div style="text-align:center"><img src="Main.png" /></div>
 
 # Short Bio
 
