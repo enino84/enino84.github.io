@@ -7,7 +7,9 @@ ORCID
 
 ## 2023
 
-1. `Nino-Ruiz, E.D.`, Consuegra Ortega, R.S. & Lucini, M.(2023) _Ensemble based methods for leapfrog integration in the simplified parameterizations, primitive-equation dynamics model_. **Quarterly Journal of the Royal Meteorological Society**, RMetS, 1– 15. Available from: <a href="https://doi.org/10.1002/qj.4424" target="_blank">https://doi.org/10.1002/qj.4424</a>
+1. `Nino-Ruiz, E.D.`, & Consuegra Ortega (2023) _AMLCS-DA: A data assimilation package in Python for Atmospheric General Circulation Models_. **SoftwareX**, Elsevier, 1– 10. Available from: <a href="https://doi.org/10.1016/j.softx.2023.101374" target="_blank">https://doi.org/10.1016/j.softx.2023.101374</a>  (Updated on March 31, 2023).
+
+2. `Nino-Ruiz, E.D.`, Consuegra Ortega, R.S. & Lucini, M.(2023) _Ensemble based methods for leapfrog integration in the simplified parameterizations, primitive-equation dynamics model_. **Quarterly Journal of the Royal Meteorological Society**, RMetS, 1– 15. Available from: <a href="https://doi.org/10.1002/qj.4424" target="_blank">https://doi.org/10.1002/qj.4424</a>
 
 ## 2022
 
