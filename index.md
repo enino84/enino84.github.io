@@ -16,11 +16,15 @@
 <br>
 **My favorite quote:** Isaiah 40:31. But they who wait for the ``LORD`` shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint.
 
-# Posts - News - Last update Feb 8, 2023
+# Posts - News - Last update March 31, 2023
+
+✔️ I'm happy to share with you my most recent publication in SoftwareX, Elsevier:
+
+⌨️ `Nino-Ruiz, E.D.`, & Consuegra Ortega (2023) _AMLCS-DA: A data assimilation package in Python for Atmospheric General Circulation Models_. **SoftwareX**, Elsevier, 1– 10. Available from: <a href="https://doi.org/10.1016/j.softx.2023.101374" target="_blank">https://doi.org/10.1016/j.softx.2023.101374</a>  (Updated on March 31, 2023).
 
 ✔️ I'm happy to share with you my most recent publication in Quarterly Journal of the Royal Meteorological Society:
 
-⌨️ `Nino-Ruiz, E.D.`, Consuegra Ortega, R.S. & Lucini, M.(2023) _Ensemble based methods for leapfrog integration in the simplified parameterizations, primitive-equation dynamics model_. **Quarterly Journal of the Royal Meteorological Society**, RMetS, 1– 15. Available from: <a href="https://doi.org/10.1002/qj.4424" target="_blank">https://doi.org/10.1002/qj.4424</a>
+⌨️ `Nino-Ruiz, E.D.`, Consuegra Ortega, R.S. & Lucini, M.(2023) _Ensemble based methods for leapfrog integration in the simplified parameterizations, primitive-equation dynamics model_. **Quarterly Journal of the Royal Meteorological Society**, RMetS, 1– 15. Available from: <a href="https://doi.org/10.1002/qj.4424" target="_blank">https://doi.org/10.1002/qj.4424</a>  (Updated on February 08, 2023).
 
 ✔️ I'm officially part of the Early Career Advisory Board for the <a href="https://www.sciencedirect.com/journal/control-engineering-practice" target="_blank">Control Engineering Practice Journal</a>, thanks to Elsevier for this opportunity! (Updated on April 20, 2022)
 
