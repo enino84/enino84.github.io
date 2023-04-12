@@ -16,7 +16,7 @@
 <br>
 **My favorite quote:** Isaiah 40:31. But they who wait for the ``LORD`` shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint.
 
-# Posts - News - Last update March 31, 2023
+# Posts - News - Last update April 11, 2023
 
 ✔️ I'm happy to share with you my most recent publication in Tellus A: Dynamic Meteorology and Oceanography:
 
