@@ -7,7 +7,7 @@ ORCID
 
 ## 2023
 
-1. Popov, AA, Sandu, A, `Nino Ruiz, ED` and Evensen, G. 2023. A Stochastic Covariance Shrinkage Approach in Ensemble Transform Kalman Filtering. Tellus A: Dynamic Meteorology and Oceanography, 75(1): 159–171. DOI: <a href="[https://doi.org/10.1016/j.softx.2023.101374](https://doi.org/10.16993/tellusa.214" target="_blank">https://doi.org/10.16993/tellusa.214</a>
+1. Popov, AA, Sandu, A, `Nino Ruiz, ED` and Evensen, G. 2023. _A Stochastic Covariance Shrinkage Approach in Ensemble Transform Kalman Filtering_. **Tellus A: Dynamic Meteorology and Oceanography**, 75(1): 159–171. DOI: <a href="[https://doi.org/10.1016/j.softx.2023.101374](https://doi.org/10.16993/tellusa.214" target="_blank">https://doi.org/10.16993/tellusa.214</a>
 
 2. `Nino-Ruiz, E.D.`, & Consuegra Ortega (2023) _AMLCS-DA: A data assimilation package in Python for Atmospheric General Circulation Models_. **SoftwareX**, Elsevier, 1– 10. Available from: <a href="https://doi.org/10.1016/j.softx.2023.101374" target="_blank">https://doi.org/10.1016/j.softx.2023.101374</a>
 
