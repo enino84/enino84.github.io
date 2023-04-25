@@ -18,7 +18,7 @@
 
 # Posts - News - Last update April 25, 2023
 
-✔️ Get ready for the Systems Engineering Day 202310 at Universidad del Norte on April 28th, 2023 starting at 8:20 a.m. in the Auditorio <ahref="UN_DIS_202310.md">more info here</a> 
+✔️ Save the date! On April 28th, 2023, the Universidad del Norte is hosting the Systems Engineering Day 2023. Join us at the Auditorio Marvel Moreno at 8:20 a.m. for a day full of insightful talks and exciting discussions. [Click here](UN_DIS_202310.md) to find out more details about the event, including the schedule and the speakers. We can't wait to see you there!. 
 
 ✔️ I'm happy to share with you my most recent publication in Tellus A: Dynamic Meteorology and Oceanography:
 
