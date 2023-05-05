@@ -86,6 +86,8 @@ Sequential data assimilation is a powerful technique for integrating observation
 
 ### Ensemble-based Data Assimilation
 
+- Deriving the ensemble Kalman filter formula - implementations - [Class Notes](<26-08-2020 - The Ensemble Kalman Filter - Filter Formulations - Geir EvensenDA_26082020.pdf>)
+
 ### Localization Methods
 
 
