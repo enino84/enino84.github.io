@@ -40,5 +40,18 @@ Combining both sources of information—numerical forecasts and observations—l
 5. Localization Methods
 6. Machine Learning and Data Assimilation.
 
+## 
+
+### Background
+
+
+
+### Numerical models
+
+### Sequential Data Assimilation
+
+### Ensemble-based Data Assimilation
+
+### Localization Methods
 
 
