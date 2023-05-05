@@ -5,7 +5,7 @@
 
 **Elías D. Nino-Ruiz, Ph.D.**  
 enino@uninorte.edu.co - elias.d.nino@gmail.com  
-https://aml-cs.github.io/
+https://enino84.github.io/ - https://aml-cs.github.io/
 
 _Ph.D. in Systems Engineering - Universidad del Norte_
 
