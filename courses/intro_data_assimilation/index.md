@@ -71,6 +71,14 @@ The use of numerical models in data assimilation presents several challenges. Fi
 
 ### Sequential Data Assimilation
 
+Sequential data assimilation is a technique used to assimilate new observations into a dynamical system over time. In this approach, observations are assimilated sequentially, one at a time, as they become available. The goal of sequential data assimilation is to estimate the state of the system at each time step, given the available observations up to that point in time.
+
+One common approach to sequential data assimilation is the Kalman filter, which is a linear data assimilation method that was originally developed for tracking the position and velocity of objects in space. The Kalman filter provides an estimate of the state of the system at each time step, along with an estimate of the uncertainty associated with that estimate.
+
+More generally, sequential data assimilation can be carried out using a variety of algorithms, including ensemble-based methods such as the Ensemble Kalman Filter (EnKF) and Particle Filters. These methods are well-suited to handling non-linear and non-Gaussian systems, and are widely used in the atmospheric and oceanic sciences for weather forecasting and climate modeling.
+
+Sequential data assimilation is a powerful technique for integrating observations into dynamical models over time, and has important applications in a wide range of fields, including weather forecasting, climate modeling, and control systems engineering.
+
 - Introduction to Data Assimilation - [Slides](<Introduction to Data Assimilation.pdf>) - 
 - One dimensional case - [Jupyter Notebook](DA_ENDJ_One_Dimensional_Data_Assimilation.ipynb)
 
