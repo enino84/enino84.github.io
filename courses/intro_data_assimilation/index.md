@@ -72,6 +72,7 @@ The use of numerical models in data assimilation presents several challenges. Fi
 ### Sequential Data Assimilation
 
 - Introduction to Data Assimilation - [Slides](<Introduction to Data Assimilation.pdf>) - 
+- One dimensional case - [Jupyter Notebook](DA_ENDJ_One_Dimensional_Data_Assimilation.ipynb)
 
 ### Ensemble-based Data Assimilation
 
