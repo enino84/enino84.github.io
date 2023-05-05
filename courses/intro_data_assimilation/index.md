@@ -28,7 +28,7 @@ While observations can be used to build machine learning models and produce fore
 
 Combining both sources of information—numerical forecasts and observations—leads to more accurate predictions and valid forecasts for more extended periods, even in areas where observations are unavailable. This course aims to provide students with the skills to effectively combine these sources and improve forecasts in various scientific contexts.
 
-## Topics:
+## Topics
 
 1. Background
 2. Numerical models
