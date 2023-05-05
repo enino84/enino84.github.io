@@ -1,4 +1,4 @@
-![image](../../pics/amlcs.png)
+![image](../../../pics/amlcs.png)
 
 # Data Assimilation (Graduate Course)
 
