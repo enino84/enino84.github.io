@@ -1,3 +1,5 @@
+![image](forecast_header.png)
+
 # Data Assimilation (Graduate Course)
 
 **Elías D. Nino-Ruiz, Ph.D.**  
