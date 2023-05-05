@@ -68,7 +68,7 @@ The use of numerical models in data assimilation presents several challenges. Fi
 
 - Numerical models, forecasts, and background error propagation - Duffing Equation - [Jupyter Notebook](DA_ENDJ_Forecasts_and_Numerical_Models_Duffing_Equation.ipynb)
 - Numerical models, forecasts, and background error propagation - The Lorenz 96 model - [Jupyter Notebook](DA_ENDJ_Forecasts_and_Numerical_Models_Duffing_Equation_Lorenz96.ipynb)
-- Numerical models, forecasts, and background error propagation - The Lorenz 96 model - [Jupyter Notebook](DA_ENDJ_Forecasts_and_Numerical_Models_Duffing_Equation_Lorenz63.ipynb)
+- Numerical models, forecasts, and background error propagation - The Lorenz 63 model - [Jupyter Notebook](DA_ENDJ_Forecasts_and_Numerical_Models_Duffing_Equation_Lorenz63.ipynb)
 
 ### Sequential Data Assimilation
 
