@@ -48,7 +48,7 @@ Combining both sources of information—numerical forecasts and observations—l
 
 ### Numerical models
 
-Numerical models, forecasts, and background error propagation - Duffing Equation - [Jupyter Notebook]( courses/intro_data_assimilation/DA_ENDJ_Forecasts_and_Numerical_Models_Duffing_Equation.ipynb)
+Numerical models, forecasts, and background error propagation - Duffing Equation - [Jupyter Notebook](DA_ENDJ_Forecasts_and_Numerical_Models_Duffing_Equation.ipynb)
 
 ### Sequential Data Assimilation
 
