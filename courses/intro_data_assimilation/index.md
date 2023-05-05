@@ -56,7 +56,7 @@ Decompositions, such as Singular Value Decomposition (SVD) and spectral decompos
 
 A thorough understanding of vectors, matrices, and their associated concepts is critical for students studying data assimilation. These foundational concepts enable them to develop and apply advanced techniques in data assimilation to improve numerical forecasts and reduce uncertainties in various scientific contexts.
 
-- Vectors, Matrices, and Operations - [Slides](DA_Background_01022022.pdf) - [Jupyter Notebook](DA_ENDJ_Background_Linear_Algebra.ipynb)
+- Vectors, Matrices, and Operations - [Slides](DA_Background_01022022.pdf) - [Jupyter Notebook](https://colab.research.google.com/drive/1d_X8iP08tZqXTpJq-cuneaeCGXr2dw7t?usp=sharing)
 
 ### Numerical models
 
@@ -82,8 +82,8 @@ Sequential data assimilation is a powerful technique for integrating observation
 
 - Introduction to Data Assimilation - [Slides](<Introduction to Data Assimilation.pdf>) 
 - Bayes' Theorem and one dimensional data assimilation - [Slides](DA_Bayes_Theorem.pdf)
-- One dimensional case Bayes' Theorem prior distribution 3D-Var - [Jupyter Notebook](DA_ENDJ_One_Dimensional_Data_Assimilation.ipynb)
-- One dimensional case Bayes' Theorem prior and posterior distributions 3D-Var - [Jupyter Notebook](DA_ENDJ_One_Dimensional_Data_Assimilation_Posterior.ipynb)
+- One dimensional case Bayes' Theorem prior distribution 3D-Var - [Jupyter Notebook](https://colab.research.google.com/drive/1QTy5EOmN2A0BBCTv7at-QWOXcD7vkd6K?usp=sharing)
+- One dimensional case Bayes' Theorem prior and posterior distributions 3D-Var - [Jupyter Notebook](https://colab.research.google.com/drive/1adwPh5hpAXOAb-qWnnD9UbekXYUqlL28?usp=sharing)
 
 ### Ensemble-based Data Assimilation
 
@@ -96,10 +96,10 @@ Another popular ensemble-based method is the Particle Filter, which is a sequent
 Ensemble-based data assimilation has become increasingly popular in recent years, particularly in the atmospheric and oceanic sciences, due to its ability to handle non-linear and non-Gaussian systems, and its flexibility in handling different types of observations and model configurations. However, ensemble-based methods can be computationally intensive, and require careful tuning and calibration to achieve optimal performance.
 
 - Deriving the ensemble Kalman filter formula - piraml and dual implementations - Woodbury matrix identity - [Class Notes](<26-08-2020 - The Ensemble Kalman Filter - Filter Formulations - Geir EvensenDA_26082020.pdf>)
-- How to build an initial ensemble for the Lorenz 63 model + creating a benchmark to test ensemble based methods - [Jupyter Notebook](DA_ENDJ_Step_by_Step_Initial_Ensemble_Lorenz63.ipynb)
-- The ensemble Kalman filter - Duffing equation - [Jupyter Notebook](DA_ENDJ_EnKF_Duffing_Equation.ipynb)
-- Ensemble square root filters - [Jupyter Notebook](ENDJ_DA_EnSRF.ipynb)
-- Ensemble transform Kalman filter - [Jupyter Notebook](ENDJ_DA_LETKF.ipynb)
+- How to build an initial ensemble for the Lorenz 63 model + creating a benchmark to test ensemble based methods - [Jupyter Notebook](https://colab.research.google.com/drive/16zT0-bVkyv4THSMlB4WjjM_aRcGDi4cY?usp=sharing)
+- The ensemble Kalman filter - Duffing equation - [Jupyter Notebook](https://colab.research.google.com/drive/1hJzft1NoYESWmgQINCQk2IwHIgdpg9ba?usp=sharing)
+- Ensemble square root filters - [Jupyter Notebook]([ENDJ_DA_EnSRF.ipynb)](https://colab.research.google.com/drive/1Bg5uETre82EQwMJTwCR4myL4QEfa9wKL?usp=sharing)
+- Ensemble transform Kalman filter - [Jupyter Notebook](https://colab.research.google.com/drive/1tId5_9LHhy7Kw9t_ePHcBggTKhX_aXrm?usp=sharing)
 
 ### Inflation and Localization Methods
 
@@ -113,6 +113,6 @@ Both inflation and localization are important techniques in data assimilation, a
 
 - Precision matrix localization - the ensemble Kalman filter based on a modified Cholesky decomposition - [Class Notes](DA_23092020.pdf)
   - `Nino-Ruiz, Elias D.`, Adrian Sandu, and Xinwei Deng. _An ensemble Kalman filter implementation based on modified Cholesky decomposition for inverse covariance matrix estimation._ **SIAM Journal on Scientific Computing** 40.2 (2018): A867-A886.  
-- Efficient implementations of EnKF - accounting for inflation and localization - [Jupyter Notebook](DA_ENDJ_Efficient_Implementations_EnKF_LOC_INF.ipynb)
+- Efficient implementations of EnKF - accounting for inflation and localization - [Jupyter Notebook](https://colab.research.google.com/drive/11lo2bXULokQaEg34IWgmss2BqXa1xmVg?usp=sharing)
 
 
