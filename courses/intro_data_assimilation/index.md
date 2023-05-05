@@ -86,6 +86,14 @@ Sequential data assimilation is a powerful technique for integrating observation
 
 ### Ensemble-based Data Assimilation
 
+Ensemble-based data assimilation is a technique used to estimate the state of a dynamical system by combining observations with a set of model simulations, or "ensemble members". The idea behind this approach is to use the ensemble members to represent the range of possible states of the system, and to use the observations to constrain this range and obtain a more accurate estimate of the true state.
+
+One common ensemble-based data assimilation method is the Ensemble Kalman Filter (EnKF), which is a non-parametric filter that uses an ensemble of model simulations to estimate the state of the system. In the EnKF, the ensemble members are perturbed from the mean state, and the perturbations are used to estimate the covariance of the system. This covariance matrix is then used to update the state estimate at each assimilation step.
+
+Another popular ensemble-based method is the Particle Filter, which is a sequential Monte Carlo method that uses a set of particles to represent the state of the system. The particles are updated sequentially based on the observations, and are resampled at each time step to ensure that they accurately represent the distribution of possible states.
+
+Ensemble-based data assimilation has become increasingly popular in recent years, particularly in the atmospheric and oceanic sciences, due to its ability to handle non-linear and non-Gaussian systems, and its flexibility in handling different types of observations and model configurations. However, ensemble-based methods can be computationally intensive, and require careful tuning and calibration to achieve optimal performance.
+
 - Deriving the ensemble Kalman filter formula - piraml and dual implementations - Woodbury matrix identity - [Class Notes](<26-08-2020 - The Ensemble Kalman Filter - Filter Formulations - Geir EvensenDA_26082020.pdf>)
 
 ### Localization Methods
