@@ -1,3 +1,5 @@
+![image](../../pics/amlcs.png)
+
 # Data Assimilation (Graduate Course)
 
 ![image](forecast_header.png)
