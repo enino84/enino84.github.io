@@ -1,4 +1,11 @@
-# Intro to Data Assimilation
+# Data Assimilation (Graduate Course)
+
+**Elías D. Nino-Ruiz, Ph.D.**  
+enino@uninorte.edu.co - edninor@eafit.edu.co  
+https://aml-cs.github.io/
+
+_Ph.D. in Systems Engineering - Universidad del Norte - Ph.D. in Mathematical Engineering - Universidad EAFIT_
+
 
 ## Overview
 
