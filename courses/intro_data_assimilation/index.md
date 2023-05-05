@@ -37,7 +37,7 @@ Combining both sources of information—numerical forecasts and observations—l
 2. Numerical models
 3. Sequential Data Assimilation
 4. Ensemble-based Data Assimilation
-5. Localization Methods
+5. Inflation and Localization Methods
 6. Machine Learning and Data Assimilation.
 
 ## 
@@ -96,7 +96,15 @@ Ensemble-based data assimilation has become increasingly popular in recent years
 
 - Deriving the ensemble Kalman filter formula - piraml and dual implementations - Woodbury matrix identity - [Class Notes](<26-08-2020 - The Ensemble Kalman Filter - Filter Formulations - Geir EvensenDA_26082020.pdf>)
 
-### Localization Methods
+### Inflation and Localization Methods
+
+Inflation and localization are two important techniques used in data assimilation to help improve the accuracy and efficiency of the assimilation process.
+
+Inflation is a technique used to adjust the error covariance matrix of the ensemble members in ensemble-based methods such as the Ensemble Kalman Filter (EnKF). The purpose of inflation is to ensure that the ensemble members represent the correct distribution of possible states, by increasing or decreasing the spread of the ensemble as needed. This can help to prevent filter divergence and ensure that the filter remains stable over time.
+
+Localization is a technique used to limit the influence of observations on the state estimates in areas where the observations are not expected to be accurate or informative. This can help to prevent "overfitting" of the observations and ensure that the state estimates are more robust and accurate. Localization is typically implemented by weighting the observations based on their spatial and temporal proximity to the state estimate, and by applying a localization function that reduces the influence of observations that are too far away.
+
+Both inflation and localization are important techniques in data assimilation, as they help to ensure that the assimilation process is accurate, efficient, and robust to errors and uncertainties in the observations and the model. These techniques are widely used in atmospheric and oceanic sciences, as well as in other fields such as geophysics, finance, and engineering.
 
 - Precision matrix localization - the ensemble Kalman filter based on a modified Cholesky decomposition - [Class Notes](DA_23092020.pdf)
 
