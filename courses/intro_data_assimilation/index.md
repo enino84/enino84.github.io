@@ -58,7 +58,7 @@ The use of numerical models in data assimilation presents several challenges. Fi
 
 ### Sequential Data Assimilation
 
-- Introduction to Data Assimilation - [Slides](Introduction_to_Data_Assimilation.pdf)
+- Introduction to Data Assimilation - [Slides](<Introduction to Data Assimilation.pdf>)
 
 ### Ensemble-based Data Assimilation
 
