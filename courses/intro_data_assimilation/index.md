@@ -110,5 +110,6 @@ Both inflation and localization are important techniques in data assimilation, a
 
 - Precision matrix localization - the ensemble Kalman filter based on a modified Cholesky decomposition - [Class Notes](DA_23092020.pdf)
   - `Nino-Ruiz, Elias D.`, Adrian Sandu, and Xinwei Deng. _An ensemble Kalman filter implementation based on modified Cholesky decomposition for inverse covariance matrix estimation._ **SIAM Journal on Scientific Computing** 40.2 (2018): A867-A886.  
+- Efficient implementations of EnKF - accounting for inflation and localization - [Jupyter Notebook](DA_ENDJ_Efficient_Implementations_EnKF_LOC_INF.ipynb)
 
 
