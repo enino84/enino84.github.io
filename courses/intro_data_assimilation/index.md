@@ -80,7 +80,8 @@ More generally, sequential data assimilation can be carried out using a variety 
 Sequential data assimilation is a powerful technique for integrating observations into dynamical models over time, and has important applications in a wide range of fields, including weather forecasting, climate modeling, and control systems engineering.
 
 - Introduction to Data Assimilation - [Slides](<Introduction to Data Assimilation.pdf>) - 
-- One dimensional case - [Jupyter Notebook](DA_ENDJ_One_Dimensional_Data_Assimilation.ipynb)
+- One dimensional case Bayes' Theorem prior distribution 3D-Var - [Jupyter Notebook](DA_ENDJ_One_Dimensional_Data_Assimilation.ipynb)
+- One dimensional case Bayes' Theorem prior and posterior distribution 3D-Var - [Jupyter Notebook](DA_ENDJ_One_Dimensional_Data_Assimilation_Posterior.ipynb)
 
 ### Ensemble-based Data Assimilation
 
