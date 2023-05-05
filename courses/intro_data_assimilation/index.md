@@ -98,4 +98,6 @@ Ensemble-based data assimilation has become increasingly popular in recent years
 
 ### Localization Methods
 
+- Precision matrix localization - the ensemble Kalman filter based on a modified Cholesky decomposition - [Class Notes](DA_23092020.pdf)
+
 
