@@ -56,7 +56,7 @@ Decompositions, such as Singular Value Decomposition (SVD) and spectral decompos
 
 A thorough understanding of vectors, matrices, and their associated concepts is critical for students studying data assimilation. These foundational concepts enable them to develop and apply advanced techniques in data assimilation to improve numerical forecasts and reduce uncertainties in various scientific contexts.
 
-- Vectors, Matrices, and Operations - [Slides](DA_Background_01022022.pdf)
+- Vectors, Matrices, and Operations - [Slides](DA_Background_01022022.pdf) - [Jupyter Notebook](DA_ENDJ_Background_Linear_Algebra.ipynb)
 
 ### Numerical models
 
@@ -70,7 +70,7 @@ The use of numerical models in data assimilation presents several challenges. Fi
 
 ### Sequential Data Assimilation
 
-- Introduction to Data Assimilation - [Slides](<Introduction to Data Assimilation.pdf>)
+- Introduction to Data Assimilation - [Slides](<Introduction to Data Assimilation.pdf>) - 
 
 ### Ensemble-based Data Assimilation
 
