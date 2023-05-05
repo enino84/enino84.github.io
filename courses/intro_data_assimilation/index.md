@@ -48,7 +48,13 @@ Combining both sources of information—numerical forecasts and observations—l
 
 ### Numerical models
 
-Numerical models, forecasts, and background error propagation - Duffing Equation - [Jupyter Notebook](DA_ENDJ_Forecasts_and_Numerical_Models_Duffing_Equation.ipynb)
+Numerical models play a critical role in data assimilation. They are used to simulate the physical processes that govern the behavior of the atmosphere, ocean, or other systems of interest. These models are designed to solve the equations that describe these processes using numerical methods.
+
+In data assimilation, numerical models are used to generate forecasts of the system state. These forecasts are then compared to observations, and the resulting differences are used to update the model state through the assimilation process. The accuracy of the forecasts depends on the accuracy of the numerical models used to generate them.
+
+The use of numerical models in data assimilation presents several challenges. First, numerical models are often computationally expensive, which limits their practical use in real-time applications. Second, numerical models are subject to errors and biases, which can affect the accuracy of the forecasts and the quality of the assimilation results. To address these challenges, researchers have developed a variety of techniques to improve the accuracy and efficiency of numerical models, such as model error correction, adaptive model refinement, and stochastic parameterization.
+
+- Numerical models, forecasts, and background error propagation - Duffing Equation - [Jupyter Notebook](DA_ENDJ_Forecasts_and_Numerical_Models_Duffing_Equation.ipynb)
 
 ### Sequential Data Assimilation
 
