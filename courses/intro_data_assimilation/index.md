@@ -101,7 +101,7 @@ Ensemble-based data assimilation has become increasingly popular in recent years
 - Ensemble square root filters - [Jupyter Notebook](https://colab.research.google.com/drive/1Bg5uETre82EQwMJTwCR4myL4QEfa9wKL?usp=sharing)
 - Ensemble transform Kalman filter - [Jupyter Notebook](https://colab.research.google.com/drive/1tId5_9LHhy7Kw9t_ePHcBggTKhX_aXrm?usp=sharing)
 
-### Inflation and Localization Methods
+### Inflation and Localization Methods 
 
 Inflation and localization are two important techniques used in data assimilation to help improve the accuracy and efficiency of the assimilation process.
 
