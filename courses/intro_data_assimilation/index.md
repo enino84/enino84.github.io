@@ -44,7 +44,7 @@ Combining both sources of information—numerical forecasts and observations—l
 
 ### Background
 
-
+- [Slides](DA_Background_01022022.pdf)
 
 ### Numerical models
 
