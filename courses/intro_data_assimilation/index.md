@@ -33,7 +33,7 @@ Combining both sources of information—numerical forecasts and observations—l
 
 ## Topics
 
-1. Background
+1. Background - Vectors, Matrices, and Operations
 2. Numerical models
 3. Sequential Data Assimilation
 4. Ensemble-based Data Assimilation
@@ -42,7 +42,19 @@ Combining both sources of information—numerical forecasts and observations—l
 
 ## 
 
-### Background
+### Background - Vectors, Matrices, and Operations
+
+Understanding the concepts of vectors, matrices, and their operations is crucial in data assimilation because they form the foundation of mathematical models and computational techniques used in the field. The representation of vectors as column vectors, various vector and matrix operations, norms, and decompositions are all vital components in the process of combining numerical forecasts with real-world observations to improve predictions.
+
+Vectors and their operations, such as inner and outer products, allow the manipulation and representation of data in multidimensional spaces. This is essential in data assimilation, as it often deals with large amounts of data from different sources, and these operations help combine, compare, and analyze the information.
+
+Matrices play a significant role in data assimilation as they represent linear transformations, systems of equations, and relationships between variables. Understanding the properties of square matrices, such as positive definiteness, orthogonality, and triangular matrices, is necessary for analyzing and solving various problems in data assimilation.
+
+Matrix norms and properties are essential in determining the quality and stability of numerical solutions. The condition number, for instance, helps assess the sensitivity of a problem to perturbations in the input data, which is crucial for understanding the reliability of the assimilation results.
+
+Decompositions, such as Singular Value Decomposition (SVD) and spectral decomposition, provide valuable insights into the structure of matrices and facilitate solving complex problems more efficiently. These techniques are used in data assimilation to analyze and process large datasets, reduce dimensions, and improve computational efficiency.
+
+Overall, a thorough understanding of vectors, matrices, and their associated concepts is critical for students studying data assimilation. These foundational concepts enable them to develop and apply advanced techniques in data assimilation to improve numerical forecasts and reduce uncertainties in various scientific contexts.
 
 - [Slides](DA_Background_01022022.pdf)
 
