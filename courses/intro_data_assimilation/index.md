@@ -97,6 +97,7 @@ Ensemble-based data assimilation has become increasingly popular in recent years
 
 - Deriving the ensemble Kalman filter formula - piraml and dual implementations - Woodbury matrix identity - [Class Notes](<26-08-2020 - The Ensemble Kalman Filter - Filter Formulations - Geir EvensenDA_26082020.pdf>)
 - How to build an initial ensemble for the Lorenz 63 model + creating a benchmark to test ensemble based methods - [Jupyter Notebook](DA_ENDJ_Step_by_Step_Initial_Ensemble_Lorenz63.ipynb)
+- Ensemble Square Root filters - [Jupyter Notebook](ENDJ_DA_EnSRF.ipynb)
 
 ### Inflation and Localization Methods
 
