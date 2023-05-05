@@ -54,9 +54,9 @@ Matrix norms and properties are essential in determining the quality and stabili
 
 Decompositions, such as Singular Value Decomposition (SVD) and spectral decomposition, provide valuable insights into the structure of matrices and facilitate solving complex problems more efficiently. These techniques are used in data assimilation to analyze and process large datasets, reduce dimensions, and improve computational efficiency.
 
-Overall, a thorough understanding of vectors, matrices, and their associated concepts is critical for students studying data assimilation. These foundational concepts enable them to develop and apply advanced techniques in data assimilation to improve numerical forecasts and reduce uncertainties in various scientific contexts.
+A thorough understanding of vectors, matrices, and their associated concepts is critical for students studying data assimilation. These foundational concepts enable them to develop and apply advanced techniques in data assimilation to improve numerical forecasts and reduce uncertainties in various scientific contexts.
 
-- [Slides](DA_Background_01022022.pdf)
+- Vectors, Matrices, and Operations - [Slides](DA_Background_01022022.pdf)
 
 ### Numerical models
 
