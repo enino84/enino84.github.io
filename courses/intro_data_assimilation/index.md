@@ -67,6 +67,7 @@ In data assimilation, numerical models are used to generate forecasts of the sys
 The use of numerical models in data assimilation presents several challenges. First, numerical models are often computationally expensive, which limits their practical use in real-time applications. Second, numerical models are subject to errors and biases, which can affect the accuracy of the forecasts and the quality of the assimilation results. To address these challenges, researchers have developed a variety of techniques to improve the accuracy and efficiency of numerical models, such as model error correction, adaptive model refinement, and stochastic parameterization.
 
 - Numerical models, forecasts, and background error propagation - Duffing Equation - [Jupyter Notebook](DA_ENDJ_Forecasts_and_Numerical_Models_Duffing_Equation.ipynb)
+- Numerical models, forecasts, and background error propagation - The Lorenz 96 model - [Jupyter Notebook](DA_ENDJ_Forecasts_and_Numerical_Models_Duffing_Equation_Lorenz96.ipynb)
 
 ### Sequential Data Assimilation
 
