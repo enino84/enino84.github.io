@@ -1,6 +1,6 @@
-![image](forecast_header.png)
-
 # Data Assimilation (Graduate Course)
+
+![image](forecast_header.png)
 
 **Elías D. Nino-Ruiz, Ph.D.**  
 enino@uninorte.edu.co - elias.d.nino@gmail.com  
