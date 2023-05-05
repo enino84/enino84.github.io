@@ -96,6 +96,7 @@ Another popular ensemble-based method is the Particle Filter, which is a sequent
 Ensemble-based data assimilation has become increasingly popular in recent years, particularly in the atmospheric and oceanic sciences, due to its ability to handle non-linear and non-Gaussian systems, and its flexibility in handling different types of observations and model configurations. However, ensemble-based methods can be computationally intensive, and require careful tuning and calibration to achieve optimal performance.
 
 - Deriving the ensemble Kalman filter formula - piraml and dual implementations - Woodbury matrix identity - [Class Notes](<26-08-2020 - The Ensemble Kalman Filter - Filter Formulations - Geir EvensenDA_26082020.pdf>)
+- How to build an initial ensemble for the Lorenz 63 model + creating a benchmark to test ensemble based methods - [Jupyter Notebooks](DA_ENDJ_Step_by_Step_Initial_Ensemble_Lorenz63.ipynb)
 
 ### Inflation and Localization Methods
 
