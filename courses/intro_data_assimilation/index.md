@@ -66,9 +66,9 @@ In data assimilation, numerical models are used to generate forecasts of the sys
 
 The use of numerical models in data assimilation presents several challenges. First, numerical models are often computationally expensive, which limits their practical use in real-time applications. Second, numerical models are subject to errors and biases, which can affect the accuracy of the forecasts and the quality of the assimilation results. To address these challenges, researchers have developed a variety of techniques to improve the accuracy and efficiency of numerical models, such as model error correction, adaptive model refinement, and stochastic parameterization.
 
-- Numerical models, forecasts, and background error propagation - Duffing Equation - [Jupyter Notebook](DA_ENDJ_Forecasts_and_Numerical_Models_Duffing_Equation.ipynb)
-- Numerical models, forecasts, and background error propagation - The Lorenz 96 model - [Jupyter Notebook](DA_ENDJ_Forecasts_and_Numerical_Models_Duffing_Equation_Lorenz96.ipynb)
-- Numerical models, forecasts, and background error propagation - The Lorenz 63 model - [Jupyter Notebook](DA_ENDJ_Forecasts_and_Numerical_Models_Duffing_Equation_Lorenz63.ipynb)
+- Numerical models, forecasts, and background error propagation - Duffing Equation - [Jupyter Notebook](https://colab.research.google.com/drive/1dplVJoM--eDRknG9wRpEk4ibTINU2yWV?usp=sharing)
+- Numerical models, forecasts, and background error propagation - The Lorenz 96 model - [Jupyter Notebook](https://colab.research.google.com/drive/1ozWQsgDyozu2K6ehH8OVy1e81Td1UDlc?usp=sharing)
+- Numerical models, forecasts, and background error propagation - The Lorenz 63 model - [Jupyter Notebook](https://colab.research.google.com/drive/14CWIO_pWj_TObq2laLK68QcSFRtu9ikX?usp=sharing)
 
 ### Sequential Data Assimilation
 
@@ -98,7 +98,7 @@ Ensemble-based data assimilation has become increasingly popular in recent years
 - Deriving the ensemble Kalman filter formula - piraml and dual implementations - Woodbury matrix identity - [Class Notes](<26-08-2020 - The Ensemble Kalman Filter - Filter Formulations - Geir EvensenDA_26082020.pdf>)
 - How to build an initial ensemble for the Lorenz 63 model + creating a benchmark to test ensemble based methods - [Jupyter Notebook](https://colab.research.google.com/drive/16zT0-bVkyv4THSMlB4WjjM_aRcGDi4cY?usp=sharing)
 - The ensemble Kalman filter - Duffing equation - [Jupyter Notebook](https://colab.research.google.com/drive/1hJzft1NoYESWmgQINCQk2IwHIgdpg9ba?usp=sharing)
-- Ensemble square root filters - [Jupyter Notebook]([ENDJ_DA_EnSRF.ipynb)](https://colab.research.google.com/drive/1Bg5uETre82EQwMJTwCR4myL4QEfa9wKL?usp=sharing)
+- Ensemble square root filters - [Jupyter Notebook](https://colab.research.google.com/drive/1Bg5uETre82EQwMJTwCR4myL4QEfa9wKL?usp=sharing)
 - Ensemble transform Kalman filter - [Jupyter Notebook](https://colab.research.google.com/drive/1tId5_9LHhy7Kw9t_ePHcBggTKhX_aXrm?usp=sharing)
 
 ### Inflation and Localization Methods
