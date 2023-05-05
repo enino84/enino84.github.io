@@ -1,4 +1,4 @@
-![image](../../../pics/amlcs.png)
+![image](https://user-images.githubusercontent.com/71684875/236560316-392e104d-3b56-47a1-a656-5a2244a5f797.png)
 
 # Data Assimilation (Graduate Course)
 
