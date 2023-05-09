@@ -7,7 +7,7 @@
 enino@uninorte.edu.co - elias.d.nino@gmail.com  
 https://enino84.github.io/ - https://aml-cs.github.io/
 
-_Ph.D. in Systems Engineering - Universidad del Norte_
+_This course belongs to the Ph.D. program in Systems Engineering at Universidad del Norte, Barranquilla, Colombia_
 
 
 ## Welcome
