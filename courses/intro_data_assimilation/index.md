@@ -117,4 +117,6 @@ Both inflation and localization are important techniques in data assimilation, a
 - Efficient implementations of EnKF - accounting for inflation and localization - [Jupyter Notebook](https://colab.research.google.com/drive/11lo2bXULokQaEg34IWgmss2BqXa1xmVg?usp=sharing) 
 - Local ensemble Kalman filter (LEnKF) - [Jupyter Notebook](https://colab.research.google.com/drive/1QJHAEW6uo4Y_Dt1_T3UHgf2fASsSCyCM?usp=sharing)
 
+![image](TEDA_Structure.png)
+
 
