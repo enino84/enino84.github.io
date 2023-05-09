@@ -98,6 +98,7 @@ Ensemble-based data assimilation has become increasingly popular in recent years
 - Deriving the ensemble Kalman filter formula - primal and dual implementations - Woodbury matrix identity - [Class Notes](<26-08-2020 - The Ensemble Kalman Filter - Filter Formulations - Geir EvensenDA_26082020.pdf>)
 - How to build an initial ensemble for the Lorenz 63 model + creating a benchmark to test ensemble based methods - [Jupyter Notebook](https://colab.research.google.com/drive/16zT0-bVkyv4THSMlB4WjjM_aRcGDi4cY?usp=sharing)
 - The ensemble Kalman filter - Duffing equation - [Class Notes](DA_ENDJ_Efficient.pdf) - [Jupyter Notebook](https://colab.research.google.com/drive/1hJzft1NoYESWmgQINCQk2IwHIgdpg9ba?usp=sharing)
+- The ensemble Kalman filter - Naive - Lorenz96 - [Jupyter Notebook](https://colab.research.google.com/drive/1Lu_mWAg5thJEpmFPbgfQ8byidXw5nwS6?usp=sharing)
 - Ensemble square root filters - [Jupyter Notebook](https://colab.research.google.com/drive/1Bg5uETre82EQwMJTwCR4myL4QEfa9wKL?usp=sharing)
 - Ensemble transform Kalman filter - [Jupyter Notebook](https://colab.research.google.com/drive/1tId5_9LHhy7Kw9t_ePHcBggTKhX_aXrm?usp=sharing)
 
