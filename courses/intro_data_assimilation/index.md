@@ -119,6 +119,16 @@ Both inflation and localization are important techniques in data assimilation, a
 - Now, you are ready to go a little deeply and use our DA package to teach/learn Data Assimilation:
   - `Nino-Ruiz, Elias D.`, and Sebastian Racedo Valbuena. _TEDA: A Computational Toolbox for Teaching Ensemble Based Data Assimilation_. Computational Science–ICCS 2022: 22nd International Conference, London, UK, June 21–23, 2022, *Proceedings, Part IV. Cham: Springer International Publishing*, 2022.
   - The UML class diagram of our toolbox can be see below, you can find an example of how to use it here: [Jupyter Notebook](https://colab.research.google.com/drive/1P3evF_e1wS_pzm5PGtCm88N7nqO73tN-?usp=sharing) - the full GitHub code can be found here: https://github.com/enino84/TEDA
-![image](TEDA_Structure.png)
+  - To run TEDA is simple as:
+  -```python
+  model = Lorenz96();
+background = Background(model,ensemble_size=60);
+analysis = AnalysisEnKF();
+observation = Observation(m=32,std_obs=0.01);
 
+simulation = Simulation(model,background,analysis,observation);
+simulation.run();
+error_b, error_a = simulation.geterrors();
+  ```
+![image](TEDA_Structure.png)
 
