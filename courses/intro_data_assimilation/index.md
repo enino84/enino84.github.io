@@ -10,7 +10,7 @@
 _This course belongs to the Ph.D. program in Systems Engineering at Universidad del Norte, Barranquilla, Colombia_
 
 
-## Welcome :rocket: 
+## :rocket: Welcome 
 
 Welcome to this free graduate course on Data Assimilation! This course has been designed to provide you with a comprehensive overview of the fundamentals of Data Assimilation. When I started in this field, I remember how challenging it was to understand the various concepts and topics related to Computer Science, Meteorology, and Applied Mathematics, many of which I had never encountered before. I had previously worked on Combinatorial Optimization, and transitioning to the world of DA was not easy. However, as I progressed in my Ph.D., I found the field fascinating. The idea of forecasting based on fitting numerical models to observations or correcting model trajectory based on measurements caught my attention.
 
@@ -18,7 +18,7 @@ If you're feeling overwhelmed by the physics and math involved in DA, don't worr
 
 I hope you find this course enjoyable and informative. Please feel free to share it with anyone who may benefit from it.
 
-## :mag_right: Overview 
+## Overview 
 
 This graduate course in Data Assimilation explores the process of adjusting imperfect numerical forecasts using real noisy observations. The course covers ensemble-based data assimilation, including conceptual, theoretical, and practical aspects. Students will use Python as the primary computational language to support their learning and discussions.
 
