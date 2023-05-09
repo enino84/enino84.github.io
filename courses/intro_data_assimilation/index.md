@@ -38,9 +38,8 @@ Combining both sources of information—numerical forecasts and observations—l
 3. Sequential Data Assimilation
 4. Ensemble-based Data Assimilation
 5. Inflation and Localization Methods
-6. Machine Learning and Data Assimilation.
 
-## 
+# Materials
 
 ### Background - Vectors, Matrices, and Operations
 
@@ -95,7 +94,7 @@ Another popular ensemble-based method is the Particle Filter, which is a sequent
 
 Ensemble-based data assimilation has become increasingly popular in recent years, particularly in the atmospheric and oceanic sciences, due to its ability to handle non-linear and non-Gaussian systems, and its flexibility in handling different types of observations and model configurations. However, ensemble-based methods can be computationally intensive, and require careful tuning and calibration to achieve optimal performance.
 
-- Deriving the ensemble Kalman filter formula - piraml and dual implementations - Woodbury matrix identity - [Class Notes](<26-08-2020 - The Ensemble Kalman Filter - Filter Formulations - Geir EvensenDA_26082020.pdf>)
+- Deriving the ensemble Kalman filter formula - primal and dual implementations - Woodbury matrix identity - [Class Notes](<26-08-2020 - The Ensemble Kalman Filter - Filter Formulations - Geir EvensenDA_26082020.pdf>)
 - How to build an initial ensemble for the Lorenz 63 model + creating a benchmark to test ensemble based methods - [Jupyter Notebook](https://colab.research.google.com/drive/16zT0-bVkyv4THSMlB4WjjM_aRcGDi4cY?usp=sharing)
 - The ensemble Kalman filter - Duffing equation - [Class Notes](DA_ENDJ_Efficient.pdf) - [Jupyter Notebook](https://colab.research.google.com/drive/1hJzft1NoYESWmgQINCQk2IwHIgdpg9ba?usp=sharing)
 - Ensemble square root filters - [Jupyter Notebook](https://colab.research.google.com/drive/1Bg5uETre82EQwMJTwCR4myL4QEfa9wKL?usp=sharing)
