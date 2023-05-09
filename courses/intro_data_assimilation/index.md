@@ -117,7 +117,7 @@ Both inflation and localization are important techniques in data assimilation, a
 - Efficient implementations of EnKF - accounting for inflation and localization - [Jupyter Notebook](https://colab.research.google.com/drive/11lo2bXULokQaEg34IWgmss2BqXa1xmVg?usp=sharing) 
 - Local ensemble Kalman filter (LEnKF) - [Jupyter Notebook](https://colab.research.google.com/drive/1QJHAEW6uo4Y_Dt1_T3UHgf2fASsSCyCM?usp=sharing)
 - Now, you are prepared to delve deeper and utilize our DA package for teaching or learning Data Assimilation:
-  - Nino-Ruiz, Elias D., and Sebastian Racedo Valbuena. _TEDA: A Computational Toolbox for Teaching Ensemble Based Data Assimilation_. In: Computational Science – ICCS 2022: 22nd International Conference, London, UK, June 21-23, 2022, Proceedings, Part IV. Cham: Springer International Publishing, 2022.
+  - `Nino-Ruiz, Elias D.`, and Sebastian Racedo Valbuena. _TEDA: A Computational Toolbox for Teaching Ensemble Based Data Assimilation_. In: Computational Science – ICCS 2022: 22nd International Conference, London, UK, June 21-23, 2022, Proceedings, Part IV. Cham: Springer International Publishing, 2022.
   - The UML class diagram for our toolbox can be viewed below. You can find an example of how to use it in this [Jupyter Notebook](https://colab.research.google.com/drive/1P3evF_e1wS_pzm5PGtCm88N7nqO73tN-?usp=sharing), and access the complete GitHub code at https://github.com/enino84/TEDA.
   - To run TEDA, it's as simple as:
 ```python
