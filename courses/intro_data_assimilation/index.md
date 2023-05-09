@@ -10,7 +10,7 @@
 _This course belongs to the Ph.D. program in Systems Engineering at Universidad del Norte, Barranquilla, Colombia_
 
 
-## Welcome
+## :rocket: Welcome
 
 Welcome to this free graduate course on Data Assimilation! This course has been designed to provide you with a comprehensive overview of the fundamentals of Data Assimilation. When I started in this field, I remember how challenging it was to understand the various concepts and topics related to Computer Science, Meteorology, and Applied Mathematics, many of which I had never encountered before. I had previously worked on Combinatorial Optimization, and transitioning to the world of DA was not easy. However, as I progressed in my Ph.D., I found the field fascinating. The idea of forecasting based on fitting numerical models to observations or correcting model trajectory based on measurements caught my attention.
 
