@@ -18,7 +18,7 @@
 
 # Posts - News - Last update May 09, 2023
 
-🚀 I am excited to announce the launch of my new online course on Data Assimilation, which is completely free! This course is designed to help you understand all the essential concepts and methods of Data Assimilation through comprehensive notes and practical Python programs. Whether you're new to the field or seeking to expand your knowledge, this course provides you with a solid foundation in Data Assimilation. Plus, with the Python programs provided, you can gain practical experience and see how Data Assimilation methods are implemented in real-world scenarios. You can access the course through the following link: [https://enino84.github.io/courses/intro_data_assimilation/](https://enino84.github.io/courses/intro_data_assimilation/). And, please feel free to share the course with anyone who may benefit from it. Thank you for considering this course, and I hope it helps you in your journey to become a proficient Data Assimilation practitioner! 
+🚀 I am excited to announce the launch of my new online course on Data Assimilation, which is completely free! This course is designed to help you understand all the essential concepts and methods of Data Assimilation through comprehensive notes and practical Python programs. Whether you're new to the field or seeking to expand your knowledge, this course provides you with a solid foundation in Data Assimilation. Plus, with the Python programs provided, you can gain practical experience and see how Data Assimilation methods are implemented in real-world scenarios. You can access the course through the following link: [Data Assimilation](https://enino84.github.io/courses/intro_data_assimilation/). And, please feel free to share the course with anyone who may benefit from it. Thank you for considering this course, and I hope it helps you in your journey to become a proficient Data Assimilation practitioner! 
 
 ✔️ Save the date! On April 28th, 2023, the Universidad del Norte is hosting the Systems Engineering Day 202310. Join us at the Auditorio Marvel Moreno at 8:20 a.m. for a day full of insightful talks and exciting discussions. <a href="https://enino84.github.io/UN_DIS_202310">Click here</a> to find out more details about the event, including the schedule and the speakers. We can't wait to see you there!. 
 
@@ -40,7 +40,7 @@
 
 # 📒 Free online courses and educational content
 
-📔 `Data Assimilation (Graduate Course)` - This online course on Data Assimilation has been designed to provide a comprehensive understanding of essential concepts and methods. The course is free and includes detailed notes and practical Python programs to help learners gain practical experience in implementing Data Assimilation methods in real-world scenarios. It is suitable for both beginners and those seeking to expand their knowledge in the field. 
+📔 `Data Assimilation (Graduate Course)` - This online course on Data Assimilation has been designed to provide a comprehensive understanding of essential concepts and methods. The course is free and includes detailed notes and practical Python programs to help learners gain practical experience in implementing Data Assimilation methods in real-world scenarios. It is suitable for both beginners and those seeking to expand their knowledge in the field. [Click here to go to this resource.](https://enino84.github.io/courses/intro_data_assimilation/)
 
 # Professional Networks
 
