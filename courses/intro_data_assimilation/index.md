@@ -18,11 +18,11 @@ If you're feeling overwhelmed by the physics and math involved in DA, don't worr
 
 I hope you find this course enjoyable and informative. Please feel free to share it with anyone who may benefit from it.
 
-## Overview :mag_right: 
+## :mag_right: Overview 
 
 This graduate course in Data Assimilation explores the process of adjusting imperfect numerical forecasts using real noisy observations. The course covers ensemble-based data assimilation, including conceptual, theoretical, and practical aspects. Students will use Python as the primary computational language to support their learning and discussions.
 
-## Student Outcomes :eyes:
+## Student Outcomes 
 
 Upon completing this course, students will be able to:
 
@@ -39,7 +39,7 @@ While observations can be used to build machine learning models and produce fore
 
 Combining both sources of information—numerical forecasts and observations—leads to more accurate predictions and valid forecasts for more extended periods, even in areas where observations are unavailable. This course aims to provide students with the skills to effectively combine these sources and improve forecasts in various scientific contexts.
 
-## Topics :globe_with_meridians:
+## Topics 
 
 1. Background - Vectors, Matrices, and Operations
 2. Numerical models
@@ -47,7 +47,7 @@ Combining both sources of information—numerical forecasts and observations—l
 4. Ensemble-based Data Assimilation
 5. Inflation and Localization Methods
 
-# Materials :earth_americas:
+# Materials 
 
 ### Background - Vectors, Matrices, and Operations
 
