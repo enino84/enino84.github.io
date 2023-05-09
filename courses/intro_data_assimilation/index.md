@@ -143,6 +143,17 @@ error_b, error_a = simulation.geterrors();
 
 ![image](TEDA_Structure.png)
 
+## Are you ready for a more realistic scenario?
+
+We invite you to try out our AMLCS-DA package, a powerful data assimilation tool that is designed to work with the Atmospheric General Circulation Model, SPEEDY.
+
+The AMLCS-DA package is available on GitHub at [https://github.com/enino84/AMLCS](https://github.com/enino84/AMLCS). It is an open-source package written in Python and designed to be user-friendly, allowing for easy implementation of data assimilation methods in atmospheric sciences.
+
+Our package has been extensively tested and has been published in a peer-reviewed journal. The paper, titled "AMLCS-DA: A data assimilation package in Python for Atmospheric General Circulation Models," is available at the following link: [https://doi.org/10.1016/j.softx.2023.101374](https://doi.org/10.1016/j.softx.2023.101374).
+
+We encourage you to explore our AMLCS-DA package and discover the benefits of using it for your data assimilation needs. Thank you for considering our tool, and we look forward to hearing your feedback!
+
+
 ---
 
 ```Numbers 6:24-26``` - The Lord bless you and keep you; the Lord make his face shine on you and be gracious to you; the Lord turn his face toward you and give you peace.
