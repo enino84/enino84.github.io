@@ -38,6 +38,10 @@
 
 ✔️ <a href="ENDJ - CV - ElíasN - Academic.pdf" target="_blank">CV Elías D. Nino-Ruiz</a> (Updated on February 08, 2023).
 
+# Free online courses and educational content
+
+📒 Data Assimilation (Graduate Course) - This online course on Data Assimilation has been designed to provide a comprehensive understanding of essential concepts and methods. The course is free and includes detailed notes and practical Python programs to help learners gain practical experience in implementing Data Assimilation methods in real-world scenarios. It is suitable for both beginners and those seeking to expand their knowledge in the field. 
+
 # Professional Networks
 
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /><a href="https://orcid.org/0000-0001-7784-8163" target="_blank">
