@@ -18,7 +18,7 @@ If you're feeling overwhelmed by the physics and math involved in DA, don't worr
 
 I hope you find this course enjoyable and informative. Please feel free to share it with anyone who may benefit from it.
 
-## Overview
+## :mag_right: Overview
 
 This graduate course in Data Assimilation explores the process of adjusting imperfect numerical forecasts using real noisy observations. The course covers ensemble-based data assimilation, including conceptual, theoretical, and practical aspects. Students will use Python as the primary computational language to support their learning and discussions.
 
