@@ -136,6 +136,8 @@ error_b, error_a = simulation.geterrors();
 ![image](TEDA_Structure.png)
 
 ---
+
 ```Numbers 6:24-26``` - The Lord bless you and keep you; the Lord make his face shine on you and be gracious to you; the Lord turn his face toward you and give you peace.
+
 ---
 
