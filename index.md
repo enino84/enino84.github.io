@@ -38,9 +38,9 @@
 
 ✔️ <a href="ENDJ - CV - ElíasN - Academic.pdf" target="_blank">CV Elías D. Nino-Ruiz</a> (Updated on February 08, 2023).
 
-# Free online courses and educational content
+# 📒 Free online courses and educational content
 
-📒 Data Assimilation (Graduate Course) - This online course on Data Assimilation has been designed to provide a comprehensive understanding of essential concepts and methods. The course is free and includes detailed notes and practical Python programs to help learners gain practical experience in implementing Data Assimilation methods in real-world scenarios. It is suitable for both beginners and those seeking to expand their knowledge in the field. 
+📔 `Data Assimilation (Graduate Course)` - This online course on Data Assimilation has been designed to provide a comprehensive understanding of essential concepts and methods. The course is free and includes detailed notes and practical Python programs to help learners gain practical experience in implementing Data Assimilation methods in real-world scenarios. It is suitable for both beginners and those seeking to expand their knowledge in the field. 
 
 # Professional Networks
 
