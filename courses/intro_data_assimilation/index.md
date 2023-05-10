@@ -90,6 +90,7 @@ Sequential data assimilation is a powerful technique for integrating observation
 
 - Introduction to Data Assimilation - [Slides](<Introduction to Data Assimilation.pdf>) 
 - Bayes' Theorem and one dimensional data assimilation - [Slides](DA_Bayes_Theorem.pdf), [Class Notes](<DA_12082020 - Bayes' Theorem - Simple Least Squares Explanation.pdf>)
+- One dimensional Bayes' Theorem via `sympy` - [Jupyter Notebook](https://colab.research.google.com/drive/1vaXt3IpPasOIL7x3U9Lr-u-OcnPJRRpM?usp=sharing)
 - One dimensional case Bayes' Theorem prior distribution 3D-Var - [Jupyter Notebook](https://colab.research.google.com/drive/1QTy5EOmN2A0BBCTv7at-QWOXcD7vkd6K?usp=sharing)
 - One dimensional case Bayes' Theorem prior and posterior distributions 3D-Var - [Jupyter Notebook](https://colab.research.google.com/drive/1adwPh5hpAXOAb-qWnnD9UbekXYUqlL28?usp=sharing)
 
