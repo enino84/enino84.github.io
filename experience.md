@@ -1,4 +1,15 @@
 # Experience
+
+I have developed a strong background and expertise in data engineering, data analysis, and data assimilation. Throughout my career, I have acquired proficiency in various tools and technologies, including dbt (data build tool), Python (including the Pandas library), Jinja templating language, Google BigQuery, and Looker Studio.
+
+In the field of data engineering, I have demonstrated my ability to create robust and scalable data pipelines using dbt, Python, and Jinja templating. I take pride in ensuring consistent and clean data for analysis, leveraging my skills in transforming and querying data effectively.
+
+My expertise in data analysis shines through my proficiency in utilizing Python for tasks such as data manipulation, aggregation, calculations, and data filtering. Whether it's conducting daily or weekly analyses, I am able to derive meaningful insights by examining specific metrics and uncovering valuable patterns in datasets.
+
+An essential aspect of my work is integrating visualization and reporting tools to present analysis results effectively. By utilizing tools like Looker Studio, I have been able to create interactive dashboards and visualizations that provide stakeholders with a user-friendly and informative experience. This highlights my strong communication skills and my ability to effectively convey complex data analysis to a diverse audience.
+
+My experience showcases my competence in data engineering, data analysis, and visualization. I am skilled at handling complex datasets, extracting valuable insights, and presenting analysis results in a clear and compelling manner.
+
 ---
 ## ``Research Experience`` 🌍
 
