@@ -1,5 +1,7 @@
 - name: Education/Certifications
   link: education_certifications
+- name: Experience
+  link: experience
 - name: Publications
   link: publications
   dropdown: 
