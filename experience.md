@@ -1,6 +1,6 @@
 # Experience
 ---
-## Research Experience
+## ``Research Experience`` 🌍
 
 ### Director of the Applied Math and Computer Science Lab. 
 
@@ -30,7 +30,7 @@
 - Description: Working on sequential and variational data assimilation for the weather forecast. 
 
 ---
-## Faculty Experience
+## ``Faculty Experience`` 🛸
 
 ### Associate Professor
 
@@ -46,7 +46,6 @@
 
 - Fall 2020, Fall 2021.
 - Ph.D. Program in Mathematical Engineering, ``Universidad EAFIT``, MDE 050001, Colombia.
-
 
 ### Teaching Assistant of Data Science for All
  
@@ -64,7 +63,7 @@
 - Department of Computer Science, ``Virginia Polytechnic Institute and State University``, VA 24060, USA.
 
 ---
-## Industry Experience
+## ``Industry Experience`` 🚀
 
 ### Estimating Prices in Freight Markets
 
