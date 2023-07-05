@@ -1,5 +1,5 @@
 - name: Publications
-  link: journal_publications
+  link: publications
   dropdown: 
     - name: Journals 
       link: journal_publications
