@@ -1,4 +1,4 @@
-# Data Assimilation (Graduate Course) 🌍
+# 🌍 Data Assimilation (Graduate Course) 
 
 **Elías D. Nino-Ruiz, Ph.D.**  
 📧 - enino@uninorte.edu.co - elias.d.nino@gmail.com  
