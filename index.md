@@ -12,8 +12,6 @@ Elias D. Nino-Ruiz is an accomplished professional with a strong academic backgr
 Elias's expertise extends beyond academia, and he is recognized as a leading figure in the industry. His remarkable achievements and dedication to his field led him to be invited to join the Early Career Advisory Board of the Control Engineering Practice Journal, Elsevier, in 2022. This position showcases his standing as a trusted expert and his commitment to advancing the field of control engineering. With a profound interest in computational science, applied mathematics, and applied statistics, Elias has consistently demonstrated his ability to apply theoretical concepts to real-world challenges. His industry experience, combined with his academic achievements, enables him to bridge the gap between theory and practice, delivering innovative solutions that drive progress and success.
 </div>
 
-Feel free to modify and personalize the description as needed.
-
 <br>
 <a href="https://twitter.com/elias_david_84?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" target="_blank">Follow @elias_david_84</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
