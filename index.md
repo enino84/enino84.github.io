@@ -128,24 +128,6 @@ ORCID
 
 1. <a href="https://www.iccs-meeting.org/iccs2017/awards/index.html" target="_blank">Best Workshop Paper Award</a>. A Surrogate Model Based On Mixtures Of Taylor Expansions For Trust Region Based Methods. ``ICCS - International Conference on Computational Science 2017``, Zurich, Zwitserland, June 2017.
 
-# Peer reviews
-
-- [List of some peer reviews](peer_reviews.md).
-
-# Editorial boards
-
-- [List of editorial services](editorial_services.md).
-
-# Teaching
-
-- [List of undergrad courses](undergrad_courses.md)
-- [List of grad courses](grad_courses.md)
-
-# My Word Cloud
-
-Here is a word cloud of some of my research documents.
-
-![](WordCloud.png)
 
 # Social Media
 
