@@ -184,6 +184,39 @@ My major contribution in this project was providing a comprehensive analysis of 
 #### Technologies
 dbt (data build tool), Python, DeepAR Forecasting Algorithm, statistical analysis techniques, and visualization libraries (e.g., Matplotlib, Seaborn, Plotly).
 
+### Vehicle Migration Pipeline
+
+This project involved the development of a data engineering solution utilizing Microsoft Azure services. The solution utilized Azure Blob Storage, Azure Data Factory, Azure Functions, and SQL Server to manage and process data effectively in a cloud environment. The main objective was to build a robust data pipeline that could handle data stored in Azure Blob Storage, perform data transformations using Azure Functions, and store the processed data in SQL Server.
+
+Main tasks executed in the project: 
+- Data Ingestion and Exchange with GraphQL:
+ - Utilized GraphQL to send and receive data from external sources before storing it in Azure Blob Storage.
+ - Implemented GraphQL queries and mutations to fetch and store data, enhancing the data ingestion process.
+- Azure Blob Storage:
+ - Utilized Azure Blob Storage as a data lake to store the JSON files provided for the assessment.
+ - Managed data ingestion and storage in Azure Blob Storage.
+- Azure Data Factory:
+ - Configured Azure Data Factory to handle data movement and orchestration tasks.
+ - Implemented data copying from one location to another, including from Azure Blob Storage to SQL Server.
+- Azure Functions:
+ - Developed an Azure Function named "TimerTriggerProcessEvent" to format the JSON data and store it in CSV files in Azure Blob Storage.
+ - Leveraged Azure Functions to process the data efficiently and trigger the formatting process based on defined triggers.
+- SQL Server:
+ - Utilized SQL Server as a data warehouse to store the processed data in a relational format.
+ - Implemented the data storage and retrieval mechanism using SQL Server.
+
+#### Major contribution
+My major contribution in this project was the successful implementation of a comprehensive data engineering solution using Microsoft Azure services. By utilizing Azure Blob Storage, Azure Data Factory, Azure Functions, and SQL Server, I demonstrated expertise in handling and processing data in the cloud environment. The solution provided several benefits:
+- Scalable and efficient data management leveraging the power of Microsoft Azure.
+- Modular and customizable architecture, enabling easy modification and extension of functionality.
+- Utilization of Pandas DataFrames and Azure Blob Storage for efficient data manipulation and storage.
+- Structured event handling for easy adaptation to handle new event types.
+
+#### Technologies
+Microsoft Azure (Azure Blob Storage, Azure Data Factory, Azure Functions), SQL Server, and Python (including Pandas library).
+
+
+
 
 
 
