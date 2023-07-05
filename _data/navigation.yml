@@ -3,3 +3,17 @@
   dropdown: 
     - name: Journals 
       link: journal_publications
+    - name: Conferences
+      link: conference_publications
+- name: Editorial Services
+  link: editorial_services
+- name: Courses
+  link: grad_courses
+  dropdown: 
+    - name: Graduate Courses
+      link: grad_courses
+    - name: Undergrad Courses
+      link: undergrad_courses
+- name: Peer Reviews
+  link: peer_reviews
+  
