@@ -1,3 +1,5 @@
+- name: Education/Certifications
+  link: education_certifications
 - name: Publications
   link: publications
   dropdown: 
