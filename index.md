@@ -20,6 +20,14 @@ Elias's expertise extends beyond academia, and he is recognized as a leading fig
 <br>
 **My favorite quote:** Isaiah 40:31. But they who wait for the ``LORD`` shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint.
 
+# Professional Networks
+
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /><a href="https://orcid.org/0000-0001-7784-8163" target="_blank">
+ORCID
+</a>, <a href="https://scholar.google.com/citations?user=IE8dAAgAAAAJ&hl=en" target="_blank">Google Scholar</a>, <a href="https://www.scopus.com/authid/detail.uri?authorId=36603283600" target="_blank">SCOPUS Author Profile</a>, <a href="https://aml-cs.github.io/" target="_blank">Applied Math and Computer Science Lab</a>
+
+---
+
 # Posts - News - Last update May 09, 2023
 
 🚀 I am excited to announce the launch of my new online course on Data Assimilation, which is completely free! This course is designed to help you understand all the essential concepts and methods of Data Assimilation through comprehensive notes and practical Python programs. Whether you're new to the field or seeking to expand your knowledge, this course provides you with a solid foundation in Data Assimilation. Plus, with the Python programs provided, you can gain practical experience and see how Data Assimilation methods are implemented in real-world scenarios. You can access the course through the following link: [Data Assimilation](https://enino84.github.io/courses/intro_data_assimilation/). And, please feel free to share the course with anyone who may benefit from it. Thank you for considering this course, and I hope it helps you in your journey to become a proficient Data Assimilation practitioner! (Updated May 09, 2023)
@@ -46,23 +54,9 @@ Elias's expertise extends beyond academia, and he is recognized as a leading fig
 
 📔 `Data Assimilation (Graduate Course)` - This online course on Data Assimilation has been designed to provide a comprehensive understanding of essential concepts and methods. The course is free and includes detailed notes and practical Python programs to help learners gain practical experience in implementing Data Assimilation methods in real-world scenarios. It is suitable for both beginners and those seeking to expand their knowledge in the field. [Click here to go to this resource.](https://enino84.github.io/courses/intro_data_assimilation/)
 
-# Professional Networks
-
-<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /><a href="https://orcid.org/0000-0001-7784-8163" target="_blank">
-ORCID
-</a>, <a href="https://scholar.google.com/citations?user=IE8dAAgAAAAJ&hl=en" target="_blank">Google Scholar</a>, <a href="https://www.scopus.com/authid/detail.uri?authorId=36603283600" target="_blank">SCOPUS Author Profile</a>, <a href="https://aml-cs.github.io/" target="_blank">Applied Math and Computer Science Lab</a>
-
----
 # Awards
 
 1. <a href="https://www.iccs-meeting.org/iccs2017/awards/index.html" target="_blank">Best Workshop Paper Award</a>. A Surrogate Model Based On Mixtures Of Taylor Expansions For Trust Region Based Methods. ``ICCS - International Conference on Computational Science 2017``, Zurich, Zwitserland, June 2017.
-
-
-# Social Media
-
-<center>
-<a class="twitter-timeline" data-width="400" data-height="400" data-theme="dark" href="https://twitter.com/elias_david_84?ref_src=twsrc%5Etfw">Tweets by elias_david_84</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
- </center>
  
 # Some Good Memories
  
