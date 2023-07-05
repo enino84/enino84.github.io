@@ -1,7 +1,5 @@
-- name: Home
-  link: index.md
 - name: Publications
-  link: journal_publications.md
+  link: journal_publications
   dropdown: 
     - name: Journals 
-      link: journal_publications.md
+      link: journal_publications
