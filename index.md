@@ -1,5 +1,3 @@
-![amlcs-logo](aml_cs.png)
-
 # Elías D. Niño-Ruiz, Ph.D.
 
 <div style="text-align:center"><img src="Main.jpg" /></div>
