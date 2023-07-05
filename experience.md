@@ -214,6 +214,8 @@ My major contribution in this project was the successful implementation of a com
 #### Technologies
 Microsoft Azure (Azure Blob Storage, Azure Data Factory, Azure Functions), SQL Server, and Python (including Pandas library).
 
+[Go to the main site](index.md)
+
 
 
 
