@@ -3,6 +3,9 @@
 ## Education
 
 1. Ph.D. in Computer Science and Applications, ``Virginia Polytechnic Institute and State University``, USA. Thesis: <a href="https://vtechworks.lib.vt.edu/handle/10919/64438" target="_blank">Efficient Formulation and Implementation of Ensemble based Methods in Data Assimilation</a>. GPA: 3.63 out of 4.0., Advisor: <a href="http://people.cs.vt.edu/~asandu/" target="_blank">Prof. Adrian Sandu</a>.
+
+The doctoral thesis focuses on developing efficient ensemble-based methods for data assimilation, specifically in the context of the ensemble Kalman filter (EnKF). The thesis proposes novel techniques to address computational bottlenecks in EnKF implementations, improve background error covariance matrices, and optimize the assimilation process in geophysical applications. It also explores high-performance parallel implementations and introduces an ensemble-based approach for four-dimensional variational data assimilation. The thesis contributes to the field by providing practical solutions to enhance the accuracy and efficiency of ensemble-based data assimilation methods.
+
 2. M.Sc. in Systems Engineering, ``Universidad del Norte``, Colombia. Thesis: MODS: A Novel Metaheuristic of Deterministic Swapping for the Multi-Objective Optimization of Combinatorial Problems. GPA 4.28 out of 5.0., Advisor: Carlos Ardila, M.Sc.
 3. M.Sc. in Industrial Engineering, ``Universidad del Norte``, Colombia. Thesis: A Novel Algorithm Based on Deterministic Finite Automaton for Solving the Mono-objective Symmetric Traveling Salesman Problem, GPA 4.45 out of 5.0., Advisor: Carlos Ardila, M.Sc.
 4. B.Sc. in Systems Engineering,  ``Universidad del Norte``, Colombia. Thesis: Numerical Methods for Multivariate Optimization, GPA 4.02 out of 5.0., Advisor: Carlos Ardila, M.Sc.
