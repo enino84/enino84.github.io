@@ -22,6 +22,6 @@
   link: peer_reviews
 - name: Software
   dropdown:
-    - name: TEDA
-      link: peer_reviews
+    - name: TEDA - A Computational Toolbox for Teaching Ensemble Based Data Assimilation
+      link: software/TEDA
   
