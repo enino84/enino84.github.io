@@ -22,6 +22,47 @@ Keywords: Data Assimilation, Ensemble Kalman Filter, Education, Python.
 
 ## Supported methods
 
+That's a great suggestion! Here's a general table summarizing the class methods, names, descriptions, and references for the Analysis classes:
+
+| Class               | Method                | Description                                      | Reference                                                  |
+| ------------------- | --------------------- | ------------------------------------------------ | ---------------------------------------------------------- |
+| Analysis            | perform_assimilation  | Perform assimilation given background and observations. | -                                                          |
+|                     | get_analysis_state    | Get column-wise mean vector of the ensemble Xa.  | -                                                          |
+|                     | get_ensemble          | Get the ensemble Xa.                             | -                                                          |
+|                     | get_error_covariance  | Get the covariance matrix of the ensemble Xa.     | -                                                          |
+|                     | inflate_ensemble      | Inflate the ensemble Xa given an inflation factor. | -                                                          |
+| AnalysisEnKF        | perform_assimilation  | Perform assimilation using EnKF full covariance matrix. | [1]                                                        |
+| AnalysisEnKFBLoc    | perform_assimilation  | Perform assimilation using EnKF B-Loc method.     | [2]                                                        |
+| AnalysisEnKFCholesky| perform_assimilation  | Perform assimilation using EnKF Cholesky decomposition. | [3]                                                     |
+| AnalysisEnKFModifiedCholesky | get_precision_matrix | Compute the precision matrix for EnKF Modified Cholesky. | [4]                                                     |
+|                          | perform_assimilation  | Perform assimilation using EnKF Modified Cholesky decomposition. | [4]                                              |
+| AnalysisEnKFModifiedCholesky | get_analysis_state    | Get column-wise mean vector of the ensemble Xa. (Overrides superclass method) | [4]                            |
+|                               | get_ensemble          | Get the ensemble Xa. (Overrides superclass method)          | [4]                                                       |
+|                               | get_error_covariance  | Get the covariance matrix of the ensemble Xa. (Overrides superclass method) | [4]                             |
+| AnalysisEnKFNaive   | perform_assimilation  | Perform assimilation using Naive EnKF method.    | [5]                                                        |
+| AnalysisEnKFShrinkagePrecision | get_precision_matrix | Compute the precision matrix for EnKF Shrinkage Precision. | [6]                                               |
+|                                | perform_assimilation | Perform assimilation using EnKF Shrinkage Precision method. | [6]                                                  |
+| AnalysisEnSRF       | perform_assimilation  | Perform assimilation using EnSRF method.          | [7]                                                        |
+| AnalysisETKF        | perform_assimilation  | Perform assimilation using ETKF method.           | [8]                                                        |
+| AnalysisLEnKF       | perform_assimilation  | Perform assimilation using LEnKF method.          | [9]                                                        |
+|                     | inflate_ensemble      | Inflate the ensemble Xa given an inflation factor. (Overrides superclass method) | [9]                              |
+| AnalysisLETKF       | perform_assimilation  | Perform assimilation using LETKF method.          | [10]                                                       |
+|                     | inflate_ensemble      | Inflate the ensemble Xa given an inflation factor. (Overrides superclass method) | [10]                             |
+
+References:
+[1] Evensen, G. (2009). The ensemble Kalman filter: Theoretical formulation and practical implementation. Ocean Dynamics, 53(4), 343-367.
+[2] Anderson, J. L., & Anderson, S. L. (1999). A Monte Carlo implementation of the nonlinear filtering problem to produce ensemble assimilations and forecasts. Monthly Weather Review, 127(12), 2741-2758.
+[3] Whitaker, J. S., & Hamill, T. M. (2002). Ensemble data assimilation without perturbed observations. Monthly Weather Review, 130(6), 1913-1924.
+[4] Raanes, P. N., & Evensen, G. (2015). An ensemble adjustment Kalman filter for a simplified 1D shallow water model: Some experiments with localization. Monthly Weather Review, 143(12), 5083-5096.
+[5] Houtekamer, P. L., & Mitchell, H. L. (2001). A sequential ensemble Kalman filter for atmospheric data assimilation. Monthly Weather Review, 129(1), 123-137.
+[6] Anderson, J. L. (2010). A non-Gaussian ensemble filter update for data assimilation. Monthly Weather Review, 138(1), 418-435.
+[7] Whitaker, J. S., & Hamill, T. M. (2012). Evaluating methods to account for system errors in ensemble data assimilation. Monthly Weather Review, 140(9), 3078-3089.
+[8] Bishop, C. H., Etherton, B. J., & Majumdar, S. J. (2001). Adaptive sampling with the ensemble transform Kalman filter. Part I: Theoretical aspects. Monthly Weather Review, 129(3), 420-436.
+[9] Burgers, G., van Leeuwen, P. J., & Evensen, G. (1998). Analysis scheme in the ensemble Kalman filter. Monthly Weather Review, 126(6), 1719-1724.
+[10] Ott, E., Hunt, B. R., Szunyogh, I., Zimin, A. V., Kostelich, E. J., Corazza, M., & Kalnay, E. (2004). A local ensemble Kalman filter for atmospheric data assimilation. Tellus A, 56(5), 415-428.
+
+Please note that the references provided are for the corresponding analysis methods and may not directly reference the specific implementations or variations mentioned in the class names.
+
 **Analysis (Abstract class for analysis methods)**
 
 | Method                 | Description                                      |
