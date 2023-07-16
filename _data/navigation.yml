@@ -20,4 +20,8 @@
       link: undergrad_courses
 - name: Peer Reviews
   link: peer_reviews
+- name: Software
+  dropdown:
+    - name: TEDA
+      link: peer_reviews
   
