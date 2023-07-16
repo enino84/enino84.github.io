@@ -1,4 +1,4 @@
-# TEDA - A Computational Toolbox for Teaching Ensemble Based Data Assimilation
+# 🌎 TEDA - A Computational Toolbox for Teaching Ensemble Based Data Assimilation
 
 Introducing TEDA: The Premier Python Toolbox for Teaching Ensemble-based Data Assimilation
 
@@ -22,7 +22,9 @@ Unlock your true potential in the realm of data assimilation with TEDA. Whether 
 
 Keywords: Data Assimilation, Ensemble Kalman Filter, Education, Python.
 
-## How easy is to use it?
+## 💻 GitHub Repo - https://github.com/enino84/TEDA 
+
+## 🚀 How easy is to use TEDA?
 
 Choose the desired method from the pool of available methods:
 
@@ -80,7 +82,7 @@ plt.plot(np.log10(erra),'-or')
 plt.show()
 ```
 
-## Supported methods
+## ✔️ Supported methods
 
 
 | Class                          | Description                                      | Reference                                                  |
