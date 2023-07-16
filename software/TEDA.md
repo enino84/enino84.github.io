@@ -25,20 +25,20 @@ Keywords: Data Assimilation, Ensemble Kalman Filter, Education, Python.
 
 | Class                          | Description                                      | Reference                                                  |
 | ------------------------------ | ------------------------------------------------ | ---------------------------------------------------------- |
-| AnalysisEnKFShrinkagePrecision | Compute the precision matrix for EnKF Shrinkage Precision. | [6]                                                        |
+| AnalysisEnKFShrinkagePrecision | Compute the precision matrix for EnKF Shrinkage Precision. | Nino-Ruiz, Elias D., and Adrian Sandu. "Ensemble Kalman filter implementations based on shrinkage covariance matrix estimation." Ocean Dynamics 65 (2015): 1423-1439.                                                        |
 |                                | Perform assimilation using EnKF Shrinkage Precision method. | [6]                                                        |
-| AnalysisEnKFModifiedCholesky   | Compute the precision matrix for EnKF Modified Cholesky. | [4]                                                        |
+| AnalysisEnKFModifiedCholesky   | Compute the precision matrix for EnKF Modified Cholesky. | Nino-Ruiz, Elias D., Adrian Sandu, and Xinwei Deng. "An ensemble Kalman filter implementation based on modified Cholesky decomposition for inverse covariance matrix estimation." SIAM Journal on Scientific Computing 40.2 (2018): A867-A886.                                                       |
 |                                | Perform assimilation using EnKF Modified Cholesky decomposition. | [4]                                                        |
 | AnalysisEnKFNaive              | Perform assimilation using Naive EnKF method.    | Nino Ruiz, Elias D., Adrian Sandu, and Jeffrey Anderson. "An efficient implementation of the ensemble Kalman filter based on an iterative Sherman–Morrison formula." Statistics and Computing 25 (2015): 561-577.                                                       |
-| AnalysisEnSRF                  | Perform assimilation using EnSRF method.          | [7]                                                        |
+| AnalysisEnSRF                  | Perform assimilation using EnSRF method.          | Tippett, Michael K., et al. "Ensemble square root filters." Monthly weather review 131.7 (2003): 1485-1490.                                                     |
 | AnalysisETKF                   | Perform assimilation using ETKF method.           | [8]                                                        |
 | AnalysisLETKF                  | Perform assimilation using LETKF method.          | [10]                                                       |
 |                                | Inflate the ensemble Xa given an inflation factor. | [10]                                                       |
 | AnalysisLEnKF                   | Perform assimilation using LEnKF method.          | [9]                                                        |
 |                                | Inflate the ensemble Xa given an inflation factor. | [9]                                                        |
-| AnalysisEnKFBLoc               | Perform assimilation using EnKF B-Loc method.     | [2]                                                        |
-| AnalysisEnKFCholesky           | Perform assimilation using EnKF Cholesky decomposition. | [3]                                                        |
-| AnalysisEnKF                    | Perform assimilation using EnKF full covariance matrix. | [1]                                                        |
+| AnalysisEnKFBLoc               | Perform assimilation using EnKF B-Loc method.     | Greybush, Steven J., et al. "Balance and ensemble Kalman filter localization techniques." Monthly Weather Review 139.2 (2011): 511-522.                                                      |
+| AnalysisEnKFCholesky           | Perform assimilation using EnKF Cholesky decomposition. | Mandel, Jan. Efficient implementation of the ensemble Kalman filter. University of Colorado at Denver and Health Sciences Center, Center for Computational Mathematics, 2006.                                                        |
+| AnalysisEnKF                    | Perform assimilation using EnKF full covariance matrix. | Evensen, Geir. Data assimilation: the ensemble Kalman filter. Vol. 2. Berlin: springer, 2009.                                                        |
 | Analysis                        | Perform assimilation given background and observations. | -                                                          |
 
 **Analysis (Abstract class for analysis methods)**
