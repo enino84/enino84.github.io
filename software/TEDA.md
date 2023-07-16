@@ -28,7 +28,7 @@ Choose the desired method from the pool of available methods:
 from analysis.analysis_enkf_modified_cholesky import AnalysisEnKFModifiedCholesky
 ```
 
-Select a model to perform the simulations
+Select a model to perform the simulations:
 
 ```python
 model = Lorenz96()
@@ -46,13 +46,13 @@ Create an analysis object with the desired method and its parameters + the chose
 analysis = AnalysisEnKFModifiedCholesky(model, r=2)
 ```
 
-Define the observation
+Define the observation:
 
-```pytnon
+```python
 observation = Observation(m=32, std_obs=0.01)
 ```
 
-Set up the parameter for the simulation
+Set up the parameters for the simulation:
 
 ```python
 params = {'obs_freq': 0.1, 'obs_times': 10, 'inf_fact': 1.04}
@@ -65,12 +65,12 @@ and then, run the simulation!
 simulation.run()
 ```
 
-You can then can request the errors for plotting purposes or stat computations!
+You can then request the errors for plotting purposes or statistical computations:
 
 ```python
 import matplotlib.pyplot as plt
 
-errb,erra = simulation.get_errors();
+errb, erra = simulation.get_errors()
 
 plt.figure(figsize=(12, 10))
 plt.plot(np.log10(errb),'-ob')
