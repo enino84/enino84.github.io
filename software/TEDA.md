@@ -20,7 +20,7 @@ Unlock your true potential in the realm of data assimilation with TEDA. Whether 
 
 Keywords: Data Assimilation, Ensemble Kalman Filter, Education, Python.
 
-## How to use it?
+## How easy is to use it?
 
 Choose the desired method from the pool of available methods:
 
@@ -65,7 +65,7 @@ and then, run the simulation!
 simulation.run()
 ```
 
-You can then request the errors for plotting purposes or statistical computations:
+You can then request the backgound and analysis errors per assimilation step for plotting purposes or statistical computations:
 
 ```python
 import matplotlib.pyplot as plt
