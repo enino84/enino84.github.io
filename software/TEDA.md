@@ -98,9 +98,7 @@ Keywords: Data Assimilation, Ensemble Kalman Filter, Education, Python.
 
 | Method                 | Description                                      |
 | ---------------------- | ------------------------------------------------ |
-| perform_assimilation   | Perform the assimilation step given the
-
- background and observations. It takes the following parameters: <br>- **background**: Background object representing the background ensemble or state.<br>- **observation**: Observation object representing the observation used for assimilation. |
+| perform_assimilation   | Perform the assimilation step given the background and observations. It takes the following parameters: <br>- **background**: Background object representing the background ensemble or state.<br>- **observation**: Observation object representing the observation used for assimilation. |
 | get_analysis_state     | Return the computed column mean of the ensemble Xa. It doesn't take any parameters. |
 | get_ensemble           | Return the ensemble Xa. It doesn't take any parameters. |
 | get_error_covariance   | Return the computed covariance matrix of the ensemble Xa. It doesn't take any parameters. |
