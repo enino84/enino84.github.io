@@ -22,7 +22,7 @@ Unlock your true potential in the realm of data assimilation with TEDA. Whether 
 
 Keywords: Data Assimilation, Ensemble Kalman Filter, Education, Python.
 
-## 💻 GitHub Repo - https://github.com/enino84/TEDA 
+## 💻 GitHub Repo - [https://duckduckgo.com](https://github.com/enino84/TEDA )
 
 ## 🚀 How easy is to use TEDA?
 
