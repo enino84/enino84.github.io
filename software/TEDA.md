@@ -20,6 +20,64 @@ Unlock your true potential in the realm of data assimilation with TEDA. Whether 
 
 Keywords: Data Assimilation, Ensemble Kalman Filter, Education, Python.
 
+## How to use it?
+
+Choose the desired method from the pool of available methods:
+
+```python
+from analysis.analysis_enkf_modified_cholesky import AnalysisEnKFModifiedCholesky
+```
+
+Select a model to perform the simulations
+
+```python
+model = Lorenz96()
+```
+
+Create a background object with the desired parameters:
+
+```python
+background = Background(model, ensemble_size=20)
+```
+
+Create an analysis object with the desired method and its parameters + the chosen model:
+
+```python
+analysis = AnalysisEnKFModifiedCholesky(model, r=2)
+```
+
+Define the observation
+
+```pytnon
+observation = Observation(m=32, std_obs=0.01)
+```
+
+Set up the parameter for the simulation
+
+```python
+params = {'obs_freq': 0.1, 'obs_times': 10, 'inf_fact': 1.04}
+simulation = Simulation(model, background, analysis, observation, params=params)
+```
+
+and then, run the simulation!
+
+```python
+simulation.run()
+```
+
+You can then can request the errors for plotting purposes or stat computations!
+
+```python
+import matplotlib.pyplot as plt
+
+errb,erra = simulation.get_errors();
+
+plt.figure(figsize=(12, 10))
+plt.plot(np.log10(errb),'-ob')
+plt.plot(np.log10(erra),'-or')
+plt.show()
+```
+
 ## Supported methods
 
 
