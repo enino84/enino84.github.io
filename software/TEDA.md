@@ -22,8 +22,6 @@ Keywords: Data Assimilation, Ensemble Kalman Filter, Education, Python.
 
 ## Supported methods
 
-Certainly! Here's an updated version of the API documentation for the TEDA Analysis Module, including the parameters highlighted in bold:
-
 **Analysis (Abstract class for analysis methods)**
 
 | Method                 | Description                                      |
@@ -64,4 +62,76 @@ Certainly! Here's an updated version of the API documentation for the TEDA Analy
 | get_error_covariance   | Return the computed covariance matrix of the ensemble Xa. It doesn't take any parameters. |
 | inflate_ensemble       | Compute the new ensemble Xa given the inflation factor. It takes the following parameter: <br>- **inflation_factor**: Double number indicating the inflation factor to be applied to the ensemble. |
 
-With the parameters now bolded, it's easier to spot them and understand their significance in each method.
+**AnalysisEnKFModifiedCholesky (Analysis EnKF Modified Cholesky decomposition)**
+
+| Method                 | Description                                      |
+| ---------------------- | ------------------------------------------------ |
+| get_precision_matrix   | Returns the computed precision matrix. It takes the following parameters: <br>- **DX**: Deviation matrix.<br>- **regularization_factor**: Value used as alpha in the ridge model. |
+| perform_assimilation   | Perform the assimilation step given the background and observations. It takes the following parameters: <br>- **background**: Background object representing the background ensemble or state.<br>- **observation**: Observation object representing the observation used for assimilation. |
+| get_analysis_state     | Return the computed column mean of the ensemble Xa. It doesn't take any parameters. |
+| get_ensemble           | Return the ensemble Xa. It doesn't take any parameters. |
+| get_error_covariance   | Return the computed covariance matrix of the ensemble Xa. It doesn't take any parameters. |
+| inflate_ensemble       | Compute the new ensemble Xa given the inflation factor. It takes the following parameter: <br>- **inflation_factor**: Double number indicating the inflation factor to be applied to the ensemble. |
+
+**AnalysisEnKFNaive (Analysis EnKF Naive)**
+
+| Method                 | Description                                      |
+| ---------------------- | ------------------------------------------------ |
+| perform_assimilation   | Perform the assimilation step given the background and observations. It takes the following parameters: <br>- **background**: Background object representing the background ensemble or state.<br>- **observation**: Observation object representing the observation used for assimilation. |
+| get_analysis_state     | Return the computed column mean of the ensemble Xa. It doesn't take any parameters. |
+| inflate_ensemble       | Compute the new ensemble Xa given the inflation factor. It takes the following parameter: <br>- **inflation_factor**: Double number indicating the inflation factor to be applied to the ensemble. |
+| get_ensemble           | Return the ensemble Xa. It doesn't take any parameters. |
+| get_error_covariance   | Return the computed covariance matrix of the ensemble Xa. It doesn't take any parameters. |
+
+**AnalysisEnKFShrinkagePrecision (Analysis EnKF Shrinkage Precision)**
+
+| Method                 | Description                                      |
+| ---------------------- | ------------------------------------------------ |
+| get_precision_matrix   | Returns the computed precision matrix. It takes the following parameters: <br>- **DX**: Deviation matrix.<br>- **regularization_factor**: Value used as alpha in the ridge model. |
+| perform_assimilation   | Perform the assimilation step given the background and observations. It takes the following parameters: <br>- **background**: Background object representing the background ensemble or state.<br>- **observation**: Observation object representing the observation used for assimilation. |
+| get_analysis_state     | Return the computed column mean of the ensemble Xa. It doesn't take any parameters. |
+| get_ensemble           | Return the ensemble Xa. It doesn't take any parameters. |
+| get_error_covariance   | Return the computed covariance matrix of the ensemble Xa. It doesn't take any parameters. |
+| inflate_ensemble       | Compute the new ensemble Xa given the inflation factor. It takes the following parameter: <br>- **inflation_factor**: Double number indicating the inflation factor to be applied to the ensemble. |
+
+**AnalysisEnSRF (Analysis EnSRF)**
+
+| Method                 | Description                                      |
+| ---------------------- | ------------------------------------------------ |
+| perform_assimilation   | Perform the assimilation step given the
+
+ background and observations. It takes the following parameters: <br>- **background**: Background object representing the background ensemble or state.<br>- **observation**: Observation object representing the observation used for assimilation. |
+| get_analysis_state     | Return the computed column mean of the ensemble Xa. It doesn't take any parameters. |
+| get_ensemble           | Return the ensemble Xa. It doesn't take any parameters. |
+| get_error_covariance   | Return the computed covariance matrix of the ensemble Xa. It doesn't take any parameters. |
+| inflate_ensemble       | Compute the new ensemble Xa given the inflation factor. It takes the following parameter: <br>- **inflation_factor**: Double number indicating the inflation factor to be applied to the ensemble. |
+
+**AnalysisETKF (Analysis Ensemble Transform Kalman Filter (ETKF))**
+
+| Method                 | Description                                      |
+| ---------------------- | ------------------------------------------------ |
+| perform_assimilation   | Perform the assimilation step given the background and observations. It takes the following parameters: <br>- **background**: Background object representing the background ensemble or state.<br>- **observation**: Observation object representing the observation used for assimilation. |
+| get_analysis_state     | Return the computed column mean of the ensemble Xa. It doesn't take any parameters. |
+| get_ensemble           | Return the ensemble Xa. It doesn't take any parameters. |
+| get_error_covariance   | Return the computed covariance matrix of the ensemble Xa. It doesn't take any parameters. |
+| inflate_ensemble       | Compute the new ensemble Xa given the inflation factor. It takes the following parameter: <br>- **inflation_factor**: Double number indicating the inflation factor to be applied to the ensemble. |
+
+**AnalysisLEnKF (Analysis LEnKF)**
+
+| Method                 | Description                                      |
+| ---------------------- | ------------------------------------------------ |
+| perform_assimilation   | Perform the assimilation step given the background and observations. It takes the following parameters: <br>- **background**: Background object representing the background ensemble or state.<br>- **observation**: Observation object representing the observation used for assimilation. |
+| get_analysis_state     | Return the computed column mean of the ensemble Xa. It doesn't take any parameters. |
+| inflate_ensemble       | Compute the new ensemble Xa given the inflation factor. It takes the following parameter: <br>- **inflation_factor**: Double number indicating the inflation factor to be applied to the ensemble. |
+| get_ensemble           | Return the ensemble Xa. It doesn't take any parameters. |
+| get_error_covariance   | Return the computed covariance matrix of the ensemble Xa. It doesn't take any parameters. |
+
+**AnalysisLETKF (Analysis Local Ensemble Transform Kalman Filter (LETKF))**
+
+| Method                 | Description                                      |
+| ---------------------- | ------------------------------------------------ |
+| perform_assimilation   | Perform the assimilation step given the background and observations. It takes the following parameters: <br>- **background**: Background object representing the background ensemble or state.<br>- **observation**: Observation object representing the observation used for assimilation. |
+| get_analysis_state     | Return the computed column mean of the ensemble Xa. It doesn't take any parameters. |
+| inflate_ensemble       | Compute the new ensemble Xa given the inflation factor. It takes the following parameter: <br>- **inflation_factor**: Double number indicating the inflation factor to be applied to the ensemble. |
+| get_ensemble           | Return the ensemble Xa. It doesn't take any parameters. |
+| get_error_covariance   | Return the computed covariance matrix of the ensemble Xa. It doesn't take any parameters. |
