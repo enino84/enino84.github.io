@@ -2,6 +2,8 @@
 
 Introducing TEDA: The Premier Python Toolbox for Teaching Ensemble-based Data Assimilation
 
+![Class Diagram - TEDA](Class_TEDA.svg "Class Diagram - TEDA")
+
 We are thrilled to present TEDA, a cutting-edge Python toolbox designed to facilitate the teaching and learning of ensemble-based data assimilation (DA). TEDA caters to the needs of educators and learners alike, offering a comprehensive platform to explore the captivating world of meteorological anomalies, climate change, and DA methodologies.
 
 TEDA stands out as an exceptional resource in the landscape of DA software, as it prioritizes the educational experience. While operational software tends to focus on practical applications, TEDA empowers undergraduate and graduate students by providing an intuitive platform to grasp the intricacies of ensemble-based DA concepts and foster enthusiasm for scientific exploration.
