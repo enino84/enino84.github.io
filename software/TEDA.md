@@ -46,7 +46,7 @@ Create an analysis object with the desired method and its parameters + the chose
 analysis = AnalysisEnKFModifiedCholesky(model, r=2)
 ```
 
-Define the observation:
+Define the observation parameters:
 
 ```python
 observation = Observation(m=32, std_obs=0.01)
