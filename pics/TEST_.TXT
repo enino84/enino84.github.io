@@ -1,0 +1,256 @@
+CALLE 96 NO 71-165
+BARRANQUILLA, COLOMBIA 
+(+57) 3005397765
+ELIAS.D.NINO@GMAIL.COM
+HTTPS://ENINO84.GITHUB.IO  
+Elías D. Niño-Ruiz, Ph.D. 
+SKILLS
+Elías D. Niño-Ruiz is a versatile Senior Data Scientist with a Ph.D. in Computer Science and Applications, excelling both in academia and industry. In academia, he specializes in teaching undergraduate and graduate courses in Algorithms and Complexity, Data Assimilation, Optimization, and Data Mining, while also mentoring students in research and industry projects related to Data Analytics, Data Science, and Data Engineering. In the industry, Elías showcases his expertise by building Python applications for diverse markets, managing teams, and utilizing advanced tools such as BigQuery, a powerful cloud-based data warehouse, for extracting, processing, and analyzing large datasets. He combines BigQuery with Looker, a modern data platform, to create compelling visualizations and interactive dashboards that facilitate data-driven decision-making. Elías's proficiency also extends to REST API for seamless integration, Dash for creating interactive web applications, AWS-RDS for scalable and reliable database management, AWS-EC2 for flexible cloud computing, AWS-S3 for secure data storage, Docker for containerization, and Microsoft Azure Functions for building serverless applications. Additionally, he leverages Jupyter notebooks for showcasing results and exporting data, utilizing HTML, Excel, and other formats. Elías's dedication to efficient project management is evident through his utilization of Jira for tracking project statuses and Google Colab, GitHub, and SVN for code versioning. With a strong academic foundation, teaching experience, and industry proficiency in these cutting-edge technologies, Elías seamlessly blends theoretical knowledge with practical skills to deliver impactful solutions and bridge the gap between academia and industry.
+
+KNOWLEDGE
+Technical Skills
+Technologies/Tools
+Programming Languages
+Python, Java, MATLAB, JavaScript, C/C++, Fortran
+Web Technologies
+CSS, HTML, JavaScript, REST API, Dash, Streamlit
+Python Ecosystem
+Python frameworks, Python libraries
+Machine Learning and AI
+Machine learning, AI concepts, BigQuery ML, Azure ML Studio
+Cloud Platforms
+AWS (EC2, RDS, S3), Microsoft (Blob, SQL Server, Data Factory, Azure Functions), GCP (BigQuery, dbt, Looker Studio)
+Databases
+SQL Server, MySQL, BigQuery, GraphQL
+
+EXPERIENCE
+Lean Tech, USA - Remote — Senior Data Scientist
+JULY 2022 - PRESENT
+Proficient in Python, dbt, Big Query, Keras, Scikit-learn, Pandas, Numpy, Dash (Python), GraphQL, REST APIs, and Big Query ML (Machine Learning) for building accurate machine learning models, building data pipelines, and analyzing large datasets.
+Utilizes dbt and modular SQL code to effectively handle billions of records in Big Query.
+Skilled in Looker studio for creating compelling data visualizations, Jira for project management, and Google Colab/GitHub for code versioning.
+Universidad del Norte, Colombia — Associate Professor
+JANUARY 2016 - PRESENT
+Specializes in teaching undergraduate courses in Algorithms and Complexity, Optimization, and Data Mining, as well as graduate courses in Optimization Theory, Non-linear Optimization, and Data Mining.
+Conducts research in Data Assimilation for Weather Forecast and Climate Change, utilizing cutting-edge data analytics methods to better understand weather and climate events.
+Dedicated mentor for undergraduate and graduate students, providing guidance and support on research and industry projects related to Data Analytics, Data Science, and Data Engineering.
+Endava, USA - Remote — Senior Data Scientist
+SEPTEMBER 2022 - JANUARY 2023
+Contributed to the development of a robust data engineering solution using Microsoft Azure services, including Azure Blob Storage, Azure Data Factory, Azure Functions, and SQL Server.
+Played a key role in tasks such as utilizing GraphQL for efficient data ingestion and exchange, configuring Azure Data Factory for data movement, and developing an Azure Function for data processing and formatting.
+Successfully implemented a comprehensive data engineering solution, leveraging Azure services and showcasing expertise in Microsoft Azure technologies, data engineering, and Python programming. 
+Tata Consultancy Services, Colombia - Remote — Python Developer
+JUNE 2022 - AUGUST 2022
+Expert in building Python applications for payroll departments across multiple companies, using Python, Microsoft Azure Functions, and SQL Server to generate customized HTML and Excel reports.
+Proficient in project management using Azure DevOps, ensuring efficient tracking of project statuses and timely delivery.
+Skilled in code versioning and collaboration using Google Colab and GitHub for organized code management. 
+Universidad EAFIT, Colombia - Remote — Instructor of Data Assimilation - Ph.D. Program in Mathematical Engineering
+SPRING 2020, FALL 2021
+Visiting Professor at EAFIT University, Colombia, specializing in teaching graduate-level courses on Data Assimilation for Weather Forecast and Climate Change.
+Utilize cutting-edge data analytics methods to enhance numerical forecasts by incorporating real observations, fostering accuracy and reliability in weather predictions.
+Collaborate with fellow professors and researchers to enhance the curriculum, staying up-to-date with the latest advancements in the field and fostering a dynamic learning environment for students.
+Correlation One, USA - Remote — Teaching Assistant
+OCTOBER 2020 - JULY 2022
+Experienced in building Python applications for diverse markets, including shoes, oil, and others.
+Skilled team leader, managing 40 teams with an average of 8 members each, overseeing projects with a typical development time frame of three months.
+Proficient in utilizing technologies such as Python, REST API, Dash, AWS-RDS, AWS-EC2, AWS-S3, and Docker to deliver solutions, with code versioning handled through GitHub.
+Applied Math and Computer Science Lab (Universidad del Norte), Colombia — Director
+APRIL 2017 - AUGUST 2022
+Experienced in building Python applications to solve real-life problems, with a focus on addressing environmental issues and providing weather forecast solutions.
+Successfully implemented a weather forecast system for Barranquilla, Colombia, utilizing Python, AWS-EC2, GitHub, HTML, and AWS-S3 to deliver accurate and reliable predictions.
+Developed Python applications to address pollutants in the environment, contributing to environmental solutions in Colombia, with version control managed through GitHub.
+Virginia Tech, USA — Instructor
+AUGUST 2015 - DECEMBER 2015
+Experienced instructor and mentor in numerical methods, teaching and guiding undergraduate students in various numerical techniques.
+Developed comprehensive course materials, including syllabi, lesson plans, and assessments, to provide a well-structured learning experience.
+Fostered a dynamic learning environment by encouraging student participation, addressing questions and concerns, and providing constructive feedback for growth.
+Computational Science Laboratory (Virginia Tech), USA — Research Assistant
+JULY 2011 - DECEMBER 2015
+Proficient in gathering, arranging, and correcting research data for presentations, including creating representative graphs and charts.
+Skilled in performing statistical, qualitative, and quantitative analysis of data.
+Developing Data Analytics and Data Assimilation methods for weather forecast using Python, SQLite, Fortran, and C/C++.
+Lawrence Livermore National Laboratory, USA — Research Assistant
+JUNE 2014 - JULY 2014
+Proficient in gathering, arranging, and correcting research data for presentations, including creating representative graphs and charts to highlight results.
+Skilled in creating data visualization graphics, transforming complex data sets into comprehensive visual representations for easy understanding and analysis.
+Experienced in utilizing C/C++ for data-related tasks and programming needs.
+Argonne National Laboratory, USA — Givens Associate
+JUNE 2013 - AUGUST 2013
+Independently designed, developed, and tested code for various projects.
+Designed covariance matrices for time-dependent wind energy potential estimation.
+Proficient in MATLAB and Python for data analysis, modeling, and code development.
+Universidad del Norte, Colombia — Assistant Professor
+JULY 2010 - JUNE 2011
+Professor specializing in Computer Science and Applications, instructing undergraduate and graduate courses in Algorithms, Optimization, and Data Mining.
+Research focuses on Combinatorial Optimization, Planning and Scheduling, utilizing advanced data analytics techniques.
+Dedicated mentor for students in Data Analytics, Data Science, and Data Engineering, guiding them in research and industry projects.
+Universidad del Norte, Colombia — Instructor
+JULY 2010 - JUNE 2011
+Professor specializing in Computer Science and Applications, teaching undergraduate courses in Algorithms and Complexity, Optimization, and Data Mining, as well as graduate courses in Optimization Theory, Non-linear Optimization, and Data Mining.
+Research focus on Data Assimilation for Weather Forecast and Climate Change, utilizing cutting-edge data analytics methods to gain insights into weather and climate events.
+Dedicated mentor for undergraduate and graduate students, providing guidance and support on research and industry projects in the fields of Data Analytics, Data Science, and Data Engineering.
+EDUCATION
+Virginia Tech, United States — Ph.D. in Computer Science and Applications
+JULY 2011 - DECEMBER 2015, BLACKSBURG VA 24060.
+The doctoral thesis focuses on developing efficient ensemble-based methods for data assimilation, specifically in the context of the ensemble Kalman filter (EnKF). The thesis proposes novel techniques to address computational bottlenecks in EnKF implementations, improve background error covariance matrices, and optimize the assimilation process in geophysical applications. It also explores high-performance parallel implementations and introduces an ensemble-based approach for four-dimensional variational data assimilation. The thesis contributes to the field by providing practical solutions to enhance the accuracy and efficiency of ensemble-based data assimilation methods. Working on scientific models and methods to solve real-life problems - link: Efficient formulation and implementation of ensemble based methods in data assimilation 
+Universidad del Norte, Colombia — M.Sc. in Industrial Engineering
+JANUARY 2009 - MAY 2010, BARRANQUILLA.
+Universidad del Norte, Colombia — M.Sc. in Systems Engineering
+AUGUST 2007 - MAY 2009, BARRANQUILLA.
+Universidad del Norte, Colombia — B.Sc. in Systems Engineering
+JANUARY 2002 - MAY 2007, BARRANQUILLA.
+
+LEAN TECH - Senior Data Scientist - REMOTE, USA - (2022 – Current)
+Through Lean tech I serve a client in the USA which is a leading provider of global supply chain market intelligence, known for its trusted and reliable insights into the freight industry. The company specializes in delivering high-frequency price, demand, and capacity data, along with comprehensive analysis, to enable informed decision-making within the supply chain ecosystem.
+During this time I participated in the following projects:
+Project: Estimating Prices in Freight Markets (04/2023 – Current)
+The project focused on developing machine learning models to estimate RPM (rate per mile) and rates in the freight transportation industry. Two versions of the model were provided, each built using a different approach. Model 1 utilized a dbt pipeline for data extraction, transformation, and loading, while Model 2 employed Python for these tasks. The models incorporated various variables to accurately estimate prices, including mode, distance, angles, and more.
+Main tasks executed in the project: 
+Data extraction, transformation, and loading using a dbt pipeline (Model 1).
+Data extraction, transformation, and loading using Python (Model 2).
+Feature engineering to incorporate variables such as mode, distance, angles, etc.
+Training machine learning models using a Random Forest algorithm.
+Evaluating model accuracy using TRAC/Contract datasets.Creating training and validation sets with representative lane characteristics.
+Testing the models for different scenarios and resolutions.
+Major contributions:
+Leveraged dbt (data build tool) to develop a robust data pipeline for Model 1, including data extraction, transformation, and loading processes.
+Utilized Python for data extraction, transformation, and loading in Model 2, providing an alternative approach for the project.
+Incorporated various technologies and techniques to accurately estimate prices, including feature engineering and the utilization of Random Forest algorithm.
+Implemented testing methodologies using TRAC/Contract datasets to evaluate and validate the accuracy of the developed models.
+Developed flexible and customizable solutions, allowing for different scenarios and resolutions in estimating RPM and rates in the freight transportation industry.
+Leveraging dbt and Python for data extraction, transformation, and loading provides the client with flexibility in choosing the preferred approach based on their existing infrastructure and technology stack.
+Technologies: dbt (data build tool) for data extraction, transformation, and loading (Model 1). Python for data extraction, transformation, and loading (Model 2). Random Forest algorithm for machine learning modeling (BigQuery Machine Learning - ML and Python scikit-learn ). 
+Project:  Accelerated Dashboard Development Framework (04/2023 – 06/2023)
+This project focuses on creating a Python-based dashboard framework that revolutionizes the process of dashboard development. It aims to provide developers with an integrated solution that streamlines the entire development process and enables them to create robust and visually appealing dash applications with ease.
+The main tasks executed in this project include:
+Firstly, the framework focuses on data integration and querying by implementing the Connector class. This involves executing SQL queries and retrieving results as Pandas DataFrames, leveraging the capabilities of the Google Cloud Platform (GCP) BigQuery connector for efficient data retrieval and processing. Additionally, the Logic class is developed to handle data integration and manipulation tasks, including loading data from various sources, applying filters, and transforming data as required.
+Secondly, the framework addresses HTML and CSS template management, as well as HTML element generation. This includes creating the CSS_Template class to manage CSS styles for the dashboard, providing methods for retrieving specified styles and generating custom styles. The HTML_Factory class is developed to generate various HTML elements using Dash's components, enabling developers to create dropdowns, headings, images, buttons, tables, and graphs with ease. Moreover, the framework encompasses HTML container management through the HTML_Container class, allowing developers to organize and add elements to the container for proper layout and organization within the dashboard.
+These tasks aim to simplify and accelerate the process of creating dashboards. By providing pre-built components, efficient data integration and querying capabilities, and streamlined HTML and CSS management, the framework empowers developers to create visually appealing and customizable dash applications, enhancing data-driven decision-making for businesses and organizations.
+Major contribution
+The major contribution of this framework lies in its ability to enhance developers' productivity by providing pre-built components and functionalities. It simplifies the development process, reduces development time, and improves code maintainability. By leveraging the framework, developers can focus on creating valuable data visualization solutions rather than dealing with intricate technical details.
+Technologies: Python as the programming language, Pandas for data manipulation, Google Cloud Platform (GCP) BigQuery for efficient data retrieval, Dash for creating interactive dashboards, and Plotly for generating visually appealing plots and graphs.
+Project:  Exploratory Analysis of Air Cargo Potential (11/2022 – 02/2023)
+The objective of this project is to evaluate the relationship between the OAG dataset and the Spire dataset in the air cargo logistics domain. The project focuses on conducting an explanatory analysis to understand the factors contributing to the similarities and differences between the two datasets. By analyzing the data and identifying relevant insights, the project aims to gain a better understanding of how these datasets complement each other and provide a comprehensive view of air cargo logistics.
+Main tasks executed in the project: 
+Data Preparation with dbt:
+Developed a dbt pipeline to extract data from the Spire dataset and the OAG dataset.
+Utilized dbt's data transformation capabilities to clean, transform, and structure the extracted data.
+Leveraged Jinja templating language within dbt to create dynamic SQL queries and data transformation logic.
+Analysis on a Daily Basis:
+Examined the total number of loads in the Spire dataset.
+Utilized Python for data manipulation and analysis tasks, including aggregations, calculations, and data filtering.
+Analyzed the availability of recorded aircraft specifications for the loads using the "*******.air_cargo_product.Xref_Equipment" table.
+Developed Python scripts within the dbt project to process and integrate the data.
+Analysis on a Weekly Basis:
+Utilized Python and dbt's capabilities to perform weekly aggregations and calculations on total volume, total tonnage, and loads.
+Employed Python libraries such as Pandas for efficient data manipulation and analysis.
+Visualization and Reporting:
+Utilized Looker Studio to create interactive dashboards and visualizations, enabling stakeholders to explore and understand the analysis results.
+Integrated the dbt project with Looker Studio to access the transformed data for visualization purposes.
+Major contribution
+My major contribution in this project was in data engineering, utilizing dbt, Python, and Jinja to create a robust and scalable data pipeline for the analysis of the OAG and Spire datasets. By leveraging dbt's data transformation capabilities and Jinja templating language, I ensured consistent and clean data for analysis. The use of Python in conjunction with dbt enabled efficient data manipulation, aggregation, and calculation tasks. The analysis on a daily basis, including the identification of loads without recorded aircraft specifications, highlighted valuable insights for stakeholders. The integration of Python scripts within the dbt project facilitated seamless data processing and integration. Additionally, the integration with Looker Studio provided a user-friendly interface for visualizing and exploring the analysis results, enabling stakeholders to make informed decisions based on the comprehensive view of air cargo potential.
+Technologies: dbt (data build tool), Python (including Pandas library), Jinja templating language, Google BigQuery, and Looker Studio.
+Project: Pipeline Step Comparison (09/2022 – 11/2022)
+The project focuses on developing a data engineering solution for comparing pipeline steps from different datasets. The solution utilizes the Google Cloud Platform (GCP), specifically Google BigQuery, for data processing and storage. The objective is to compare the number of loads at each step of two pipelines: an airflow based one and a novel one via dbt on a quarterly and monthly basis.
+Main tasks executed in the project: 
+Developed class definitions and implemented components using Python to build the data engineering solution, including:
+Step: Defined pipeline steps and their variables for comparison.
+Dataset: Identified the datasets from which the pipeline steps were read.
+Contraster: Compared steps from different datasets.
+Connector: Handled the connection to Google BigQuery for executing queries.
+Utilized Google BigQuery and SQL to execute queries and retrieve data efficiently.
+Implemented parallel processing techniques using Python's multiprocessing library to optimize performance and reduce processing time.
+Employed object-oriented programming in Python to create scalable and maintainable class structures for the Contraster, Dataset, and Step components.
+Leveraged GCP's authentication and authorization mechanisms to securely establish connections and access Google BigQuery resources.
+Integrated with Looker Studio to provide an interactive and visually appealing interface for exploring the comparison results.
+Major contribution
+My major contribution in this project was the development of a scalable and efficient data engineering solution using a combination of Google Cloud Platform (GCP) technologies and Python. By leveraging Google BigQuery and SQL, I ensured fast and accurate data processing and retrieval, enabling seamless comparison of pipeline steps. The implementation of parallel processing techniques optimized performance, allowing for rapid analysis and reduced processing time. The utilization of object-oriented programming in Python facilitated code maintenance, extensibility, and scalability. Additionally, the integration with Looker Studio enhanced the user experience, providing an intuitive platform for exploring and visualizing the comparison results.
+Technologies: Google Cloud Platform (GCP), Google BigQuery, SQL, Python (including libraries for multiprocessing), and Looker Studio.
+Project: Analyzing Forecast Quality Assurance Results (07/2022 – 09/2022)
+Evaluated the forecasting performance of the DeepAR Forecasting Algorithm on Unigroup's transportation data. Constructed a data pipeline using dbt, trained forecasting models, and performed statistical analysis and visualizations.
+Main tasks executed in the project: 
+Constructed a data pipeline using dbt for data extraction, transformation, and loading.
+Trained forecasting models using the DeepAR Forecasting Algorithm.
+Applied statistical analysis techniques to evaluate forecast quality.
+Created visualizations to communicate forecast quality and insights.
+Major contribution
+My major contribution in this project was providing a comprehensive analysis of forecast quality and insights. By constructing a data pipeline using dbt, I facilitated efficient data preparation and trained forecasting models. The statistical analysis and visualizations provided valuable insights into forecast quality and highlighted areas for improvement. The client benefited from improved forecasting accuracy, optimized operational planning, and resource allocation, leading to enhanced performance and decision-making.
+Technologies: dbt (data build tool), Python, DeepAR Forecasting Algorithm, statistical analysis techniques, and visualization libraries (e.g., Matplotlib, Seaborn, Plotly).
+
+ENDAVA - Senior Data Scientist - REMOTE, USA - (2022 – 2023)
+Endava PLC is a British public-listed software development company, founded in 2000 in London, United Kingdom. It provides digital transformation consulting, agile software development services and various automation solutions
+During this time I participated in the following projects:
+Project: Vehicle Migration Pipeline (09/2022 – 01/2023)
+This project involved the development of a data engineering solution utilizing Microsoft Azure services. The solution utilized Azure Blob Storage, Azure Data Factory, Azure Functions, and SQL Server to manage and process data effectively in a cloud environment. The main objective was to build a robust data pipeline that could handle data stored in Azure Blob Storage, perform data transformations using Azure Functions, and store the processed data in SQL Server.
+Main tasks executed in the project: 
+Data Ingestion and Exchange with GraphQL:
+Utilized GraphQL to send and receive data from external sources before storing it in Azure Blob Storage.
+Implemented GraphQL queries and mutations to fetch and store data, enhancing the data ingestion process.
+Azure Blob Storage:
+Utilized Azure Blob Storage as a data lake to store the JSON files provided for the assessment.
+Managed data ingestion and storage in Azure Blob Storage.
+Azure Data Factory:
+Configured Azure Data Factory to handle data movement and orchestration tasks.
+Implemented data copying from one location to another, including from Azure Blob Storage to SQL Server.
+Azure Functions:
+Developed an Azure Function named "TimerTriggerProcessEvent" to format the JSON data and store it in CSV files in Azure Blob Storage.
+Leveraged Azure Functions to process the data efficiently and trigger the formatting process based on defined triggers.
+SQL Server:
+Utilized SQL Server as a data warehouse to store the processed data in a relational format.
+Implemented the data storage and retrieval mechanism using SQL Server.
+Major contribution
+My major contribution in this project was the successful implementation of a comprehensive data engineering solution using Microsoft Azure services. By utilizing Azure Blob Storage, Azure Data Factory, Azure Functions, and SQL Server, I demonstrated expertise in handling and processing data in the cloud environment. The solution provided several benefits:
+Scalable and efficient data management leveraging the power of Microsoft Azure.
+Modular and customizable architecture, enabling easy modification and extension of functionality.
+Utilization of Pandas DataFrames and Azure Blob Storage for efficient data manipulation and storage.
+Structured event handling for easy adaptation to handle new event types.
+Technologies:  Microsoft Azure (Azure Blob Storage, Azure Data Factory, Azure Functions), SQL Server, and Python (including Pandas library).
+
+TATA CONSULTANCY SERVICES - Senior Python Developer - REMOTE, COLOMBIA - (2022 – 2022)
+Tata Consultancy Services is an Indian multinational information technology services and consulting company with its headquarters in Mumbai, Maharashtra. It is a part of the Tata Group and operates in 150 locations across 46 countries.
+The primary focus is on utilizing Python, Microsoft Azure Functions, and SQL Server to generate customized HTML and Excel reports on demand, tailored to the specific needs of each company. Additionally, efficient project management is ensured by tracking project statuses via Azure DevOps. For code versioning, Azure DevOps is utilized, while Google Colab is used as a collaborative coding environment.
+Project: Functions for Payroll Departments (Start date – Last date)
+Main tasks executed in the project: 
+Application Development with Python:
+Developed Python applications to meet the requirements of payroll departments.
+Utilized Python's versatile features and libraries such as Pandas for data manipulation and processing.
+Report Generation using Microsoft Azure Functions:
+Integrated Microsoft Azure Functions to enable on-demand report generation.
+Utilized Azure Tables and Azure Blob Storage to store and retrieve data for report generation.
+Customized Reports in HTML and Excel Formats:
+Created customized HTML and Excel reports tailored to the specific needs of each company.
+Utilized Pandas + Excel and HTML to generate and format reports, ensuring data accuracy and visual appeal.
+Project Management with Azure DevOps:
+Leveraged Azure DevOps for efficient project management.
+Tracked project statuses, collaborated with team members, and monitored progress using Azure DevOps tools and features.
+Utilized Azure DevOps for code versioning, ensuring effective code management and collaboration.
+Code Development and Experimentation with Google Colab:
+Utilized Google Colab as a collaborative coding environment for code development and experimentation.
+Leveraged Google Colab's features and capabilities to facilitate efficient coding workflows.
+Major contribution
+My major contribution in this project was the development of Python applications catering to payroll departments, providing tailored reports in HTML and Excel formats. By leveraging Microsoft Azure Functions, SQL Server, and Azure DevOps for project management and code versioning, I ensured efficient report generation, data processing, and collaborative development. Additionally, the use of Google Colab facilitated seamless code development and experimentation. The project's outcomes included streamlined payroll processes, customized reports meeting the specific needs of each company, improved efficiency in payroll department operations, effective project management with Azure DevOps, and accelerated code development with Google Colab.
+Technologies: Python, Pandas, Microsoft Azure Functions, Azure Tables, Azure Blob Storage, Pandas + Excel, HTML, SQL Server, Azure DevOps, and Google Colab.
+
+CORRELATION ONE - TA Data Science - REMOTE, USA (2020 – 2022)
+Correlation One helps enterprises develop data and digital talent, future-proof workforces, and create a more diverse data ecosystem.
+During this time I participated in the following projects:
+Project: Teaching Assistant at Correlation One (10/2020 – 07/2022)
+As a TA at Correlation One, my role involved supporting the instruction and development of Python applications across diverse markets, including shoes, oil, and others. I served as a skilled team leader, overseeing 40 teams consisting of an average of 8 members each. The projects I managed typically had a development time frame of three months. Throughout my tenure, I utilized various technologies such as Python, REST API, Dash, AWS-RDS, AWS-EC2, AWS-S3, and Docker to deliver robust solutions. Code versioning was effectively handled through GitHub.
+Main tasks executed in the project: 
+Python Application Development:
+Developed Python applications catering to diverse markets, including shoes and oil.
+Leveraged Python's versatility and extensive libraries to deliver efficient and tailored solutions.
+Team Leadership and Project Management:
+Led and managed 40 teams, with an average of 8 members each, to ensure successful project execution.
+Oversaw projects with a typical development time frame of three months, ensuring timely delivery and adherence to project goals.
+Utilizing Technologies for Solution Delivery:
+Utilized REST API to integrate and interact with external systems, enabling seamless data exchange and functionality.
+Leveraged Dash, a Python framework, to build interactive and visually appealing web-based applications.
+Employed AWS services such as AWS-RDS, AWS-EC2, and AWS-S3 to facilitate scalable and reliable infrastructure for application deployment.
+Utilized Docker for containerization, ensuring consistent and reproducible deployments.
+Code Versioning with GitHub:
+Utilized GitHub for effective code versioning and collaboration within the development teams.
+Leveraged GitHub's features such as branching, merging, and pull requests to facilitate seamless collaboration and code management.
+Major contribution
+My major contribution in this role was the successful development and delivery of Python applications for diverse markets. By effectively leading and managing multiple teams, I ensured smooth project execution and adherence to timelines. Through the utilization of technologies such as Python, REST API, Dash, AWS services, and Docker, I delivered robust and scalable solutions that met the specific requirements of each market. Code versioning through GitHub facilitated seamless collaboration and ensured efficient code management. The outcome of my contributions was the successful delivery of high-quality Python applications, empowering businesses in various sectors to optimize their operations and achieve their goals.
+Technologies: Python, REST API, Dash, AWS-RDS, AWS-EC2, AWS-S3, Docker, GitHub.
