@@ -164,31 +164,31 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 4</div>
+  <div class="numbertext">1 / 5</div>
   <img src="e0.jpeg" style="width:100%">
   <div class="text">April 18, 2024. Visiting INVEMAR - Consultancy Development of an Integrated Information System for the Caribbean Landscape. This project is part of the "Heritage Colombia: Supporting the New Integrated Colombian Approach to Territorial Governance in Sustainable, Productive, and Resilient Landscapes" initiative, Santa Marta, Colombia.</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 4</div>
+  <div class="numbertext">2 / 5</div>
   <img src="e1.jpg" style="width:100%">
   <div class="text">September 18-20, 2019. First International Workshop on Data Assimilation for Decision Making, Barranquilla, Colombia.</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 4</div>
+  <div class="numbertext">3 / 5</div>
   <img src="e2.jpg" style="width:100%">
   <div class="text">January 21-24, 2018. The 7th International Symposium on Data Assimilation (ISDA2019) at the RIKEN Center, Japan</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 4</div>
+  <div class="numbertext">4 / 5</div>
   <img src="e3.jpg" style="width:100%">
   <div class="text">October 22-26, 2018. IMA program on Recent Advances in Machine Learning and Computational Methods for Geoscience, USA</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 4</div>
+  <div class="numbertext">5 / 5</div>
   <img src="e4.jpg" style="width:100%">
   <div class="text">March 22, 2022. Supporting National Government in Misión de Sabios</div>
 </div>
@@ -200,15 +200,15 @@ img {vertical-align: middle;}
 <br>
 
 <div style="text-align:center">
-  <span class="dot" onclick="currentSlide(0)"></span> 
   <span class="dot" onclick="currentSlide(1)"></span> 
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
   <span class="dot" onclick="currentSlide(4)"></span> 
+  <span class="dot" onclick="currentSlide(5)"></span> 
 </div>
 
 <script>
-var slideIndex = 0;
+var slideIndex = 1;
 showSlides(slideIndex);
 
 function plusSlides(n) {
