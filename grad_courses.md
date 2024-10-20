@@ -1,5 +1,7 @@
 # Graduate Courses
 
+1. Data Assimilation, ``Universidad del Norte``, Colombia (Fall 2024).
+2. Data Mining, ``Universidad del Norte``, Colombia (Fall 2024).
 1. Data Assimilation, ``Universidad del Norte``, Colombia (Spring 2022) 
 2. Data Assimilation, ``Universidad EAFIT``, Colombia (Fall 2021) 
 3. Data Assimilation, ``Universidad del Norte``, Colombia (Fall 2020).

@@ -20,6 +20,15 @@ Elias's expertise extends beyond academia, and he is recognized as a leading fig
 <br>
 **My favorite quote:** Isaiah 40:31. But they who wait for the ``LORD`` shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint.
 
+# Links of Interest
+
+✔️ [Education and Certifications](https://enino84.github.io/education_certifications)
+✔️ [Publications](https://enino84.github.io/publications)
+✔️ [Experience](https://enino84.github.io/experience)
+✔️ [Editorial Services](https://enino84.github.io/editorial_services)
+✔️ [Peer Reviews](https://enino84.github.io/peer_reviews)
+✔️ [Talks](https://enino84.github.io/talks)
+
 # Professional Networks
 
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /><a href="https://orcid.org/0000-0001-7784-8163" target="_blank">
