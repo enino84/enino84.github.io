@@ -175,12 +175,6 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 5</div>
-  <img src="e0.jpeg" style="width:100%">
-  <div class="text">April 18, 2024. Visiting INVEMAR - Consultancy Development of an Integrated Information System for the Caribbean Landscape. This project is part of the "Heritage Colombia: Supporting the New Integrated Colombian Approach to Territorial Governance in Sustainable, Productive, and Resilient Landscapes" initiative, Santa Marta, Colombia.</div>
-</div>
-
-<div class="mySlides fade">
   <div class="numbertext">2 / 5</div>
   <img src="e1.jpg" style="width:100%">
   <div class="text">September 18-20, 2019. First International Workshop on Data Assimilation for Decision Making, Barranquilla, Colombia.</div>
