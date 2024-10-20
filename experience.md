@@ -15,7 +15,7 @@ My experience showcases my competence in data engineering, data analysis, and vi
 
 ### Director of the Applied Math and Computer Science Lab. 
 
-- Spring 2017 to Fall 2022. 
+- Spring 2017 to Current. 
 - Department of Computer Science, ``Universidad del Norte``, BAQ 080001, Colombia. 
 - Description: Scientific Computing methods for the solution of real-life problems. 
 
@@ -110,7 +110,7 @@ My experience showcases my competence in data engineering, data analysis, and vi
 - Implemented automated workflows using `Python` and `JavaScript` for continuous training and deployment of machine learning models.
 - Established data staging areas for efficient retrieval of data from `AWS S3`.
 
-**05/2024 - Present (Freelance). AI Prompt Engineer**
+**05/2024 - 07/2024. AI Prompt Engineer**
 - Evaluated and ranked AI model responses, providing detailed feedback for improvement.
 - Generated alternative scenarios and crafted error-based responses to refine model accuracy.
 - Adjusted parameters to optimize model outputs across different tasks, utilizing techniques for prompt engineering.
