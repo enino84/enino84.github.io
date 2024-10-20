@@ -28,7 +28,9 @@ ORCID
 
 ---
 
-# Posts - News - Last update May 09, 2023
+# Posts - News - Last update October 20, 2024
+
+✔️ Worgking towards having a lib for modified Cholesky decomposition, to be delivered soon!
 
 🚀 I am excited to announce the launch of my new online course on Data Assimilation, which is completely free! This course is designed to help you understand all the essential concepts and methods of Data Assimilation through comprehensive notes and practical Python programs. Whether you're new to the field or seeking to expand your knowledge, this course provides you with a solid foundation in Data Assimilation. Plus, with the Python programs provided, you can gain practical experience and see how Data Assimilation methods are implemented in real-world scenarios. You can access the course through the following link: [Data Assimilation](https://enino84.github.io/courses/intro_data_assimilation/). And, please feel free to share the course with anyone who may benefit from it. Thank you for considering this course, and I hope it helps you in your journey to become a proficient Data Assimilation practitioner! (Updated May 09, 2023)
 
