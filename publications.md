@@ -1,3 +1,7 @@
+---
+title: "Publications"
+---
+
 # Publications
 
 I thoroughly enjoy delving into the intricate world of data assimilation and ensemble-based methods within the realm of meteorology and atmospheric sciences. It is a field that captivates me, and I am driven by a deep curiosity to unravel the complexities of weather and climate phenomena. My extensive list of publications serves as a testament to my dedication and passion for pushing the boundaries of knowledge in this domain.
@@ -14,5 +18,5 @@ Here is a word cloud of some of my research documents.
 
 ![](WordCloud.png)
 
-- [List of selected journal publications.](journal_publications.md)
-- [List of selected conference publications.](conference_publications.md)
+- [List of selected journal publications.](/journal_publications)
+- [List of selected conference publications.](/conference_publications)

@@ -1,3 +1,7 @@
+---
+title: "TEDA"
+---
+
 # 🌎 TEDA - A Computational Toolbox for Teaching Ensemble Based Data Assimilation
 
 Introducing TEDA: The Premier Python Toolbox for Teaching Ensemble-based Data Assimilation

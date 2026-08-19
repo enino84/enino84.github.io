@@ -1,3 +1,7 @@
+---
+title: "Education & certifications"
+---
+
 # Education/Certifications
 
 ## Education

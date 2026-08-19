@@ -1,3 +1,7 @@
+---
+title: "Experience"
+---
+
 # Experience
 
 I have developed a strong background and expertise in data engineering, data analysis, and data assimilation. Throughout my career, I have acquired proficiency in various tools and technologies, including dbt (data build tool), Python (including the Pandas library), Jinja templating language, Google BigQuery, and Looker Studio.
@@ -136,7 +140,7 @@ My experience showcases my competence in data engineering, data analysis, and vi
 - Applied technical skills in algorithms, `SQL`, and data processing tools.
 
 
-[Go to the main site](index.md)
+[← Back to the main page](/)
 
 
 

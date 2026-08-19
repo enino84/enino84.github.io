@@ -1,3 +1,7 @@
+---
+title: "Talks"
+---
+
 # Keynote Talks
 
 - 09/06/2021 - <a href="http://www.youtube.com/watch?v=7_laGIOn__I&t=238m39s" target="_blank">Ensemble based Data Assimilation via a Modified Cholesky Decomposition</a>, <a href="https://enkf.norceprosjekt.no/previous-workshops/enkf-workshop-2021-free-online-event-" target="_blank" style="text-decoration: none">``EnKF Workshop 2021``</a>, NORCE Norwegian Research Centre AS, 2021. - **English**

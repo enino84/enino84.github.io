@@ -1,27 +1,33 @@
-- name: Education/Certifications
-  link: education_certifications
-- name: Experience
-  link: experience
+- name: About
+  link: /#about
 - name: Publications
-  link: publications
-  dropdown: 
-    - name: Journals 
-      link: journal_publications
-    - name: Conferences
-      link: conference_publications
-- name: Editorial Services
-  link: editorial_services
-- name: Courses
-  link: grad_courses
-  dropdown: 
-    - name: Graduate Courses
-      link: grad_courses
-    - name: Undergrad Courses
-      link: undergrad_courses
-- name: Peer Reviews
-  link: peer_reviews
-- name: Software
+  link: /publications
   dropdown:
-    - name: TEDA - A Computational Toolbox for Teaching Ensemble Based Data Assimilation
-      link: software/TEDA
-  
+    - name: Journal papers
+      link: /journal_publications
+    - name: Conference papers
+      link: /conference_publications
+    - name: Peer reviews
+      link: /peer_reviews
+    - name: Editorial services
+      link: /editorial_services
+- name: Software
+  link: /#software
+  dropdown:
+    - name: TEDA, teaching toolbox for ensemble data assimilation
+      link: /software/TEDA
+- name: Teaching
+  link: /#teaching
+  dropdown:
+    - name: Data Assimilation (free graduate course)
+      link: /courses/intro_data_assimilation/
+    - name: Graduate courses
+      link: /grad_courses
+    - name: Undergraduate courses
+      link: /undergrad_courses
+- name: Talks
+  link: /talks
+- name: Experience
+  link: /experience
+- name: Education
+  link: /education_certifications

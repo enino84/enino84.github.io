@@ -1,3 +1,7 @@
+---
+title: "Journal publications"
+---
+
 # Selected Journal Publications
 
 For a complete list, please visit my <a href="https://orcid.org/0000-0001-7784-8163" target="_blank">
@@ -5,9 +9,24 @@ For a complete list, please visit my <a href="https://orcid.org/0000-0001-7784-8
 ORCID
 </a>, <a href="https://scholar.google.com/citations?user=IE8dAAgAAAAJ&hl=en" target="_blank">Google Scholar</a>, and <a href="https://www.scopus.com/authid/detail.uri?authorId=36603283600" target="_blank">SCOPUS</a> profiles.
 
+## 2026
+
+1. `Nino-Ruiz, E.D.` (2026). _PyTEDA-web: A FastAPI platform for interactive data assimilation benchmarking with real-time streaming and persistent experiment tracking_. **SoftwareX**, Elsevier, 34, 102738. <a href="https://doi.org/10.1016/j.softx.2026.102738" target="_blank">https://doi.org/10.1016/j.softx.2026.102738</a>
+2. _Language development and inequality in early childhood: a study in Caribbean Colombian contexts_ (2026). **Vulnerable Children and Youth Studies**, Taylor & Francis. <a href="https://doi.org/10.1080/17450128.2026.2646858" target="_blank">https://doi.org/10.1080/17450128.2026.2646858</a>
+
+## 2025
+
+1. `Nino-Ruiz, E.D.` (2025). _TEDA: A lightweight Python framework for educational data assimilation_. **SoftwareX**, Elsevier, 31, 102297. <a href="https://doi.org/10.1016/j.softx.2025.102297" target="_blank">https://doi.org/10.1016/j.softx.2025.102297</a>
+2. Perez Rivera, J.D., Turizo, D., `Nino-Ruiz, E.D.`, & Montoya, O.D. (2025). _Improved Rosenbrock method with error estimator and Jacobian approximation using complex step_. **Results in Applied Mathematics**, Elsevier, 27, 100629. <a href="https://doi.org/10.1016/j.rinam.2025.100629" target="_blank">https://doi.org/10.1016/j.rinam.2025.100629</a>
+3. `Nino-Ruiz, E.D.`, Cabarcas Arrieta, D.S., Fernandez Quiroz, G.R., & Quintero, N. (2025). _Statistical package for computing precision covariance matrices via modified Cholesky decomposition_. **SoftwareX**, Elsevier, 30, 102125. <a href="https://doi.org/10.1016/j.softx.2025.102125" target="_blank">https://doi.org/10.1016/j.softx.2025.102125</a>
+
+## 2024
+
+1. `Nino-Ruiz, E.D.`, & Diaz-Rodriguez, J. (2024). _A 4D-EnKF method via a modified Cholesky decomposition and line search optimization for non-linear data assimilation_. **Atmosphere**, MDPI, 15(12), 1412. <a href="https://doi.org/10.3390/atmos15121412" target="_blank">https://doi.org/10.3390/atmos15121412</a>
+
 ## 2023
 
-1. Popov, AA, Sandu, A, `Nino Ruiz, ED` and Evensen, G. 2023. _A Stochastic Covariance Shrinkage Approach in Ensemble Transform Kalman Filtering_. **Tellus A: Dynamic Meteorology and Oceanography**, 75(1): 159–171. DOI: <a href="[https://doi.org/10.1016/j.softx.2023.101374](https://doi.org/10.16993/tellusa.214" target="_blank">https://doi.org/10.16993/tellusa.214</a>
+1. Popov, AA, Sandu, A, `Nino Ruiz, ED` and Evensen, G. 2023. _A Stochastic Covariance Shrinkage Approach in Ensemble Transform Kalman Filtering_. **Tellus A: Dynamic Meteorology and Oceanography**, 75(1): 159–171. DOI: <a href="https://doi.org/10.16993/tellusa.214" target="_blank">https://doi.org/10.16993/tellusa.214</a>
 
 2. `Nino-Ruiz, E.D.`, & Consuegra Ortega (2023) _AMLCS-DA: A data assimilation package in Python for Atmospheric General Circulation Models_. **SoftwareX**, Elsevier, 1– 10. Available from: <a href="https://doi.org/10.1016/j.softx.2023.101374" target="_blank">https://doi.org/10.1016/j.softx.2023.101374</a>
 
@@ -19,7 +38,7 @@ ORCID
 
 ## 2021
 
-1. `Nino-Ruiz, E. D.` (2021). _A line-search optimization method for non-Gaussian data assimilation via random quasi-orthogonal sub-spaces_. **Journal of Computational Science**, Elsevier,  53, 101373.y
+1. `Nino-Ruiz, E. D.` (2021). _A line-search optimization method for non-Gaussian data assimilation via random quasi-orthogonal sub-spaces_. **Journal of Computational Science**, Elsevier,  53, 101373.
 2. Lopez-Restrepo, S., `Nino-Ruiz, E. D.`, Guzman-Reyes, L. G., Yarce, A., Pinel, N., & Heemink, A. W. (2021). _An efficient ensemble Kalman Filter implementation via shrinkage covariance matrix estimation: exploiting prior knowledge_. **Computational Geosciences**, Springer, 25(3), 985-1003.
 3. `Nino-Ruiz, E. D.` (2021). _A data-driven localization method for ensemble based data assimilation_. **Journal of Computational Science**, Elsevier, 51, 101328.
 4. `Nino-Ruiz, E. D.`, Guzman, L., & Jabba, D. (2021). _An ensemble kalman filter implementation based on the ledoit and wolf covariance matrix estimator_. **Journal of Computational and Applied Mathematics**, Elsevier, 384, 113163.
@@ -60,4 +79,4 @@ ORCID
 1. `Nino-Ruiz, E. D.`, & Sandu, A. (2015). _Ensemble Kalman filter implementations based on shrinkage covariance matrix estimation_. **Ocean Dynamics**, Springer, 65(11), 1423-1439.
 2. `Nino Ruiz, E. D.`, Sandu, A., & Anderson, J. (2015). _An efficient implementation of the ensemble Kalman filter based on an iterative Sherman–Morrison formula_. **Statistics and Computing**, Springer, 25(3), 561-577.
 
-[Go to the main site](index.md)
+[← Back to the main page](/)

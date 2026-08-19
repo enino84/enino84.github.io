@@ -1,3 +1,7 @@
+---
+title: "Undergraduate courses"
+---
+
 # Undergrad Courses
 
 1. Data Mining, ``Universidad del Norte``, Colombia (Fall 2022)
@@ -20,4 +24,4 @@
 18. Data Mining, ``Universidad del Norte``, Colombia (Spring 2016)
 19. Numerical Methods, ``Virginia Tech``, USA (Fall 2015)
 
-[Go to the main site](index.md)
+[← Back to the main page](/)

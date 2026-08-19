@@ -1,3 +1,7 @@
+---
+title: "Graduate courses"
+---
+
 # Graduate Courses
 
 1. Data Assimilation, ``Universidad del Norte``, Colombia (Fall 2024).
@@ -19,4 +23,4 @@
 15. Optimization Theory, ``Universidad del Norte``, Colombia (Fall 2016) 
 16. Data Assimilation, ``Universidad del Norte``, Colombia (Fall 2016) 
 
-[Go to the main site](index.md)
+[← Back to the main page](/)

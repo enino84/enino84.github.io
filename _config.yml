@@ -1,6 +1,29 @@
-#theme: bulma-clean-theme
-remote_theme: minima
-title: Homepage 🖱️ - Elías David Niño-Ruiz, Ph.D.
-github: 
-is_project_page: false
+title: "Elías D. Niño-Ruiz, Ph.D."
+description: >-
+  Associate Professor and Chair of Computer Science at Universidad del Norte.
+  Data assimilation, covariance matrix estimation and numerical optimization.
+url: "https://enino84.github.io"
+baseurl: ""
+lang: en
 
+author:
+  name: "Elías D. Niño-Ruiz"
+  email: "enino@uninorte.edu.co"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  auto_ids: true
+
+# Every page gets the document layout unless it says otherwise.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"
+
+exclude:
+  - Clientes_AC.csv
+  - README.md
+  - vendor

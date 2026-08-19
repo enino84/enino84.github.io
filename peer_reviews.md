@@ -1,3 +1,7 @@
+---
+title: "Peer reviews"
+---
+
 # Selected Peer Reviews
 
 For a complete list, please visit <a href="https://publons.com/researcher/1303956/elias-d-nino-ruiz/" target="_blank">my Publons profile</a>.
@@ -30,4 +34,4 @@ For a complete list, please visit <a href="https://publons.com/researcher/130395
 26. Soft Computing, Springer, June 2016.
 27. Soft Computing, Springer, August 2015.
 
-[Go to the main site](index.md)
+[← Back to the main page](/)

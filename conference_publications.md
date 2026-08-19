@@ -1,3 +1,7 @@
+---
+title: "Conference publications"
+---
+
 # Selected Conference Publications
 
 1. `Nino-Ruiz, E.D.`, \& Valbuena, S.R. (2022). _TEDA: A Computational Toolbox for Teaching Ensemble Based Data Assimilation_. In: Groen, D., de Mulatier, C., Paszynski, M., Krzhizhanovskaya, V.V., Dongarra, J.J., Sloot, P.M.A. (eds) Computational Science – ICCS 2022. ICCS 2022. **Lecture Notes in Computer Science**, vol 13353. Springer, Cham.
@@ -14,4 +18,4 @@
 12. `Nino, E. D.`, & Sandu, A. (2014, November). _Variational Data Assimilation Based on Derivative-Free Optimization_. **In International Conference on Dynamic Data-Driven Environmental Systems Science** (pp. 239-250). Springer, Cham.
 13. Sandu, A., Ştefănescu, R., Rao, V., & Nino, E. (2014). The use of reduced order models in the solution of inverse problems. Blucher Material Science Proceedings, 1(1), 24-24.
 
-[Go to the main site](index.md)
+[← Back to the main page](/)

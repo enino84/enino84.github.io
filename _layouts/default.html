@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: 'en' }}">
+<head>
+  {%- include head.html -%}
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  {%- include masthead.html -%}
+  {{ content }}
+  {%- include footer.html -%}
+  <script src="{{ '/assets/js/nav.js' | relative_url }}"></script>
+  {%- if page.hero %}<script src="{{ '/assets/js/ensemble.js' | relative_url }}"></script>{% endif -%}
+</body>
+</html>

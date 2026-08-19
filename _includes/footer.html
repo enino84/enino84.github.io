@@ -1,0 +1,36 @@
+<footer class="footer">
+  <div class="wrap">
+    <div class="footer__grid">
+      <div>
+        <p class="footer__name">Elías D. Niño-Ruiz, Ph.D.</p>
+        <p style="margin:0 0 .8rem">Associate Professor and Chair, Department of Computer Science,<br>Universidad del Norte · Barranquilla, Colombia</p>
+        <p style="margin:0"><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
+      </div>
+
+      <div>
+        <h2>Pages</h2>
+        <ul>
+          {%- for item in site.data.navigation limit: 6 %}
+          <li><a href="{{ item.link | relative_url }}">{{ item.name }}</a></li>
+          {%- endfor %}
+        </ul>
+      </div>
+
+      <div>
+        <h2>Profiles</h2>
+        <ul>
+          <li><a href="https://orcid.org/0000-0001-7784-8163" rel="noopener">ORCID</a></li>
+          <li><a href="https://scholar.google.com/citations?user=IE8dAAgAAAAJ&amp;hl=en" rel="noopener">Google Scholar</a></li>
+          <li><a href="https://www.scopus.com/authid/detail.uri?authorId=36603283600" rel="noopener">Scopus</a></li>
+          <li><a href="https://github.com/enino84/" rel="noopener">GitHub</a></li>
+          <li><a href="https://aml-cs.github.io/" rel="noopener">AML-CS Lab</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer__fine">
+      <span>© {{ 'now' | date: "%Y" }} Elías D. Niño-Ruiz</span>
+      <span>Built with Jekyll on GitHub Pages</span>
+    </div>
+  </div>
+</footer>
