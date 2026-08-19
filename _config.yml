@@ -1,7 +1,7 @@
 title: "Elías D. Niño-Ruiz, Ph.D."
 description: >-
-  Associate Professor and Chair of Computer Science at Universidad del Norte.
-  Data assimilation, covariance matrix estimation and numerical optimization.
+  Computational scientist. Ensemble data assimilation and numerical optimization
+  in research; data engineering, data science and applied AI in industry.
 url: "https://enino84.github.io"
 baseurl: ""
 lang: en
@@ -26,4 +26,5 @@ defaults:
 exclude:
   - Clientes_AC.csv
   - README.md
+  - LEEME.md
   - vendor

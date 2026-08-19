@@ -35,6 +35,28 @@ No hace falta instalar nada. GitHub Pages corre Jekyll por ti.
   corrigieron los enlaces internos que apuntaban a archivos `.md` (esos
   daban 404 en el sitio publicado).
 
+**Experiencia profesional (nuevo)**
+
+- `consulting.html`: página nueva dedicada, con tarjetas por engagement,
+  etiquetas de tecnología y un resumen de capacidades. **Sin nombres de
+  clientes.** Solo cargo, período, sector y qué hiciste.
+- `experience.md`: ahora solo nombramientos académicos, y enlaza a
+  `/consulting`.
+- `index.html` tiene una sección corta "Consulting practice" que enlaza a la
+  página completa.
+- `CV-Elias-Nino-Ruiz.pdf` es el CV completo, también sin nombres de clientes,
+  y apunta a https://enino84.github.io/ en la cabecera y en varias secciones.
+- El CV viejo `CV_Elias_D_Nino_28022022.pdf` se eliminó.
+
+Si cambias de opinión sobre algún dato, edita `experience.md` y el bloque
+`#consulting` de `index.html`. El PDF se regenera aparte.
+
+**Archivos renombrados**
+
+- `ENDJ - CV - ElíasN - Academic.pdf` ahora es `CV-Elias-Nino-Ruiz.pdf`.
+  El nombre viejo tenía espacios y una tilde, y eso rompía el enlace en el
+  sitio publicado. Si tienes ese enlace pegado en otro lado, actualízalo.
+
 **Archivos eliminados**
 
 - `index.md` (reemplazado por `index.html`).

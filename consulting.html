@@ -1,0 +1,332 @@
+---
+layout: default
+title: "Industry experience"
+description: Data engineering, data science and applied AI consulting by Elías D. Niño-Ruiz. Production data platforms, forecasting models, and LLM and agent systems.
+---
+
+<main id="main">
+<div class="wrap">
+
+  <header class="pagehead">
+    <h1>Industry experience <span class="pagehead__paren">(consulting)</span></h1>
+    <p>Alongside my research I work in industry as a consultant on data engineering, data science and applied AI. The through-line is the same in both: extracting a usable signal from data that is noisy, incomplete or arriving faster than anyone can look at it, and then shipping something that runs in production rather than in a notebook.</p>
+  </header>
+
+  <section class="section">
+    <div class="section__head">
+      <p class="section__eyebrow">What I do</p>
+      <h2 class="section__title">Four kinds of work</h2>
+    </div>
+
+    <div class="caps">
+      <article class="cap">
+        <p class="cap__n">01</p>
+        <h3>Data platforms</h3>
+        <p>Lakes, warehouses and pipelines on AWS, GCP and Azure. Ingestion, transformation in dbt, and warehouse layers teams can actually query.</p>
+      </article>
+      <article class="cap">
+        <p class="cap__n">02</p>
+        <h3>Forecasting and ML</h3>
+        <p>Time-series and demand models, uncertainty estimation, and the statistics to know when a model is telling you something real.</p>
+      </article>
+      <article class="cap">
+        <p class="cap__n">03</p>
+        <h3>LLM and agent systems</h3>
+        <p>Retrieval, extraction and agent pipelines with planning and reflection loops, deployed as services rather than demos.</p>
+      </article>
+      <article class="cap">
+        <p class="cap__n">04</p>
+        <h3>Technical leadership</h3>
+        <p>Leading data functions and delivery teams, setting architecture, and mentoring engineers and scientists into the work.</p>
+      </article>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section__head">
+      <p class="section__eyebrow">Engagements</p>
+      <h2 class="section__title">Selected work</h2>
+    </div>
+
+    <ol class="gigs">
+
+      <li class="gig">
+        <div class="gig__head">
+          <h3 class="gig__role">Technical Lead</h3>
+        </div>
+        <p class="gig__domain">Data architecture and AI platform assessment</p>
+        <ul>
+          <li>Built a Python discovery toolkit that probes the compliance, admin and analytics surfaces of two major generative-AI vendors and reports coverage against the thirteen mandatory columns of a Silver-layer Snowflake model.</li>
+          <li>Implemented credential-type detection by key prefix before the first API call, so a run of 401s is never misread as missing data. Access diagnosis dropped from days to minutes.</li>
+          <li>Designed an evidence status scheme, available / partial / derived / documented / absent / untested, that separates what was verified live from what was inherited from earlier documentation, preventing a pipeline being built on unvalidated assumptions.</li>
+          <li>Found session endpoints absent from the prior findings document that resolve entry channel as a direct source rather than an inferred one, along with the tool catalogue feeding the feature dimension.</li>
+          <li>Reported nine fields available, three derived and one partial instead of an aggregate "thirteen of thirteen", making explicit that the derived columns need their own logic in the translator.</li>
+          <li>Evaluated both vendors' analytics APIs against the value-measurement data model and identified the granularity mismatch that redefined the workstream's scope: daily per-user aggregates against an event-level fact table.</li>
+          <li>Ran an independent pre-pilot assessment of nine high-priority capabilities in an enterprise workspace of roughly 3,500 members, scoring zero to four with documented evidence, and verified vendor claims through tests designed to refute them.</li>
+          <li>Raised seven methodological inconsistencies in the evaluation instrument, including three scoring scales coexisting in a single file, and rebuilt the test protocol for the twenty-four unassigned rows.</li>
+          <li>Built a proof-of-concept conversational intake agent on Salesforce Agentforce using a pro-code approach, with guided capture of missing requirements, standardised scope generation and PII guardrails, packaged as a deployable authoring bundle.</li>
+          <li>Established the reusable implementation pattern for the eight remaining agents on the roadmap.</li>
+        </ul>
+        <div class="gig__tags">
+          <span class="tag">Python</span><span class="tag">Snowflake</span><span class="tag">Anthropic API</span>
+          <span class="tag">OpenAI API</span><span class="tag">REST discovery</span><span class="tag">Salesforce Agentforce</span>
+          <span class="tag">Agentforce DX</span><span class="tag">Confluence</span>
+        </div>
+      </li>
+
+      <li class="gig">
+        <div class="gig__head">
+          <h3 class="gig__role">Data Engineer and Senior Data Analyst</h3>
+        </div>
+        <p class="gig__domain">Linear TV audience research, Nielsen panel and big data</p>
+        <ul>
+          <li>Designed and built the prepared-table layer in Snowflake (telecast, half-hour, quarter-hour, competitive universe, fiscal calendar and date metadata) sitting between the unified Nielsen views and business queries, cutting per-question scans of tens of millions of rows down to a bounded, reusable dataset across a multi-network portfolio and the full competitive cable and broadcast universe.</li>
+          <li>Set the design principle that classifications become columns while filters stay in the queries, so changing a business default never forces a table rebuild. Every table carries a declared grain, build order, reasoned clustering key and a uniqueness check.</li>
+          <li>Implemented roughly twenty-five documented production queries covering overnight summaries, series performance snapshots and competitive rankers, each parameterised with dynamic defaults and its own numeric validation case, with zero pinned dates anywhere.</li>
+          <li>Resolved Nielsen data-integrity problems that were silently doubling metrics: the panel and big-data overlap at the currency cutover, duplicate rows where the panel emits one record with VCR and one without for the same telecast, and double-registered ACM streams. Defined unique keys and permanent diagnostic cells that profile duplicates at the source before deduplication hides them.</li>
+          <li>Implemented Nielsen broadcast-day chronology anchored at 6:00am so post-midnight telecasts sort within their own night, and established that a Nielsen month is not a calendar month and belongs in the planner layer rather than hardcoded in SQL.</li>
+          <li>Validated results against the client's official rankers and overnight summaries as an acceptance criterion, reproducing their figures at telecast level and documenting every difference by its methodological cause rather than adjusting it. That surfaced a ranker averaging flat instead of weighting by minutes, another running on a different daypart boundary, and an inherited telecast floor that existed in no source and was dropping series silently.</li>
+          <li>Built a resolution layer converting a natural-language question into verified parameters before any query runs, handling program names truncated to 25 characters by Nielsen and free-text season codes, with an explicit contract for when the answer is that the thing does not exist.</li>
+          <li>Documented the limits of the data instead of approximating them: C3 and C7 streams do not exist at half-hour grain, so a dayparted network rank on C3 is not computable, reported and escalated with the vendor's own documentation as backing.</li>
+        </ul>
+        <div class="gig__tags">
+          <span class="tag">Snowflake</span><span class="tag">Advanced SQL</span><span class="tag">Dimensional modelling</span>
+          <span class="tag">Nielsen MIT</span><span class="tag">Panel &amp; Big Data</span><span class="tag">Data quality</span>
+          <span class="tag">Audience metrics</span>
+        </div>
+      </li>
+
+      <li class="gig">
+        <div class="gig__head">
+          <h3 class="gig__role">Technical Services Lead</h3>
+        </div>
+        <p class="gig__domain">Research information management platform, higher education</p>
+        <ul>
+          <li>Lead an eight-person technical services team of data integration engineers, data migration engineers and specialists, owning the data-loading platform behind a research information management product used by more than 200 institutions.</li>
+          <li>Led the end-to-end technical discovery of the platform, reverse-engineering three undocumented subsystems that all write to the same Postgres backend: 204 client-specific PHP autoload subclasses, 88 Matillion pipelines, and a Python desktop migration tool.</li>
+          <li>Built and ran an SFTP scanner across 108 institution tenants, producing the first ground-truth inventory of the ingestion estate: 839,221 files and 1.13 TB, with 97 per cent of stored bytes older than two years. That surfaced roughly 1 TB of reclaimable storage and 37 institutions dormant for 180 days or more, whose pipelines were about to be migrated at zero business value.</li>
+          <li>Surfaced and escalated production risks found in code review, including an unexplained 894 GB bulk load on a single tenant and a hardcoded database password in a delete pipeline, each converted into a tracked remediation item.</li>
+          <li>Mapped the platform's three competing record identifiers and showed that the encrypted API id is never persisted by any consumer, a finding that directly reshaped the target architecture.</li>
+          <li>Designed the target architecture: a batch-first FastAPI REST service on EKS accepting arrays of up to 500 records per call, with idempotency keys, threshold-protected batch deletes and audit logging, targeting at least a threefold throughput improvement over the existing per-record GraphQL path.</li>
+          <li>Designed a config-driven Databricks ingestion pipeline to replace 88 hand-maintained pipelines, turning a two to five day bespoke onboarding into a single configuration row.</li>
+          <li>Owned the platform and DevOps foundations: ECR repositories, EKS IAM roles, internal ALB ingress, per-environment Helm values and GitHub Actions promotion pipelines, delivered through Terraform and Terragrunt.</li>
+          <li>Authored the ten-week modernisation plan, four epics and roughly forty tickets across five sprints, and defended the scope call that deferred orchestration work in order to protect a credible deadline.</li>
+          <li>Built risk controls into every migration ticket: shadow-mode parallel running before cutover, equivalence QA sign-off and documented rollback runbooks.</li>
+        </ul>
+        <div class="gig__tags">
+          <span class="tag">FastAPI</span><span class="tag">AWS EKS</span><span class="tag">Databricks</span>
+          <span class="tag">Snowflake</span><span class="tag">PostgreSQL</span><span class="tag">dbt</span>
+          <span class="tag">Airflow</span><span class="tag">Terraform</span><span class="tag">Helm</span>
+          <span class="tag">GitHub Actions</span><span class="tag">GraphQL</span>
+        </div>
+      </li>
+
+      <li class="gig">
+        <div class="gig__head">
+          <h3 class="gig__role">Staff Data Scientist</h3>
+        </div>
+        <p class="gig__domain">Consumer research and audience analytics</p>
+        <ul>
+          <li>Modelling on survey data at scale in Snowflake: 8.6 billion observations, roughly 105 million users and about 3,600 syndicated questions.</li>
+          <li>Documented the ten core warehouse tables and the publisher chain, verifying every relationship, cardinality and match rate against the information schema and the data itself. The resulting ERD and catalogue of known traps became the team's mandatory filter standard for all analysis.</li>
+          <li>Built a Naive Bayes model predicting a user's most likely answer to any syndicated question from their known answers, with mutual-information feature selection and hold-out validation on accuracy, log-loss and Brier score.</li>
+          <li>Implemented a KNN alternative over sparse one-hot vectors with cosine similarity and weighted voting, evaluated separately for single-select and checkbox questions.</li>
+          <li>Attacked the 98.8 per cent sparsity of the user by question matrix with publisher-based imputation, blending the answer distribution across the publishers a user was seen on, then extending it with a Naive Bayes posterior over known answers.</li>
+          <li>Designed the evaluation harness: two decoding strategies, two publisher levels and a global baseline, measured by total variation distance with breakdowns by question and by demographic.</li>
+          <li>Built a brand lift pipeline treating the exposed segment as a KNN-imputed treatment, applying multiple imputation with Rubin's rules to combine imputations into a lift estimate with correct variance, p-values and confidence intervals, and audited it against the real-only lift.</li>
+          <li>Built an end-to-end audience segmentation pipeline: user by top-300 question matrix, truncated SVD embeddings, KMeans with k chosen by silhouette, and population representativeness weights raked to census margins so every reported share describes adults nationally rather than the raw panel.</li>
+          <li>Automated segment labelling with four LLMs running in parallel under strict JSON output, with side-by-side comparison and consensus selection, plus 24-month trends and an executive summary.</li>
+          <li>Turned "is behavioural or demographic segmentation more useful" into a measurable experiment: three segmentations over the same cohort, method, weighting and k, and corrected a one-hot encoding bias that was destroying the order of ordinal demographics.</li>
+        </ul>
+        <div class="gig__tags">
+          <span class="tag">Snowflake</span><span class="tag">Snowpark</span><span class="tag">Cortex</span>
+          <span class="tag">Python</span><span class="tag">scikit-learn</span><span class="tag">SciPy sparse</span>
+          <span class="tag">Naive Bayes</span><span class="tag">KNN</span><span class="tag">KMeans</span>
+          <span class="tag">Multiple imputation</span><span class="tag">Prophet</span><span class="tag">DeepAR</span>
+        </div>
+      </li>
+
+      <li class="gig">
+        <div class="gig__head">
+          <h3 class="gig__role">Curriculum Engineer, AI and LLM education</h3>
+        </div>
+        <p class="gig__domain">Online technical education</p>
+        <ul>
+          <li>Authored ungraded labs on agentic workflows, reflection and planning for a widely used AI course catalogue.</li>
+          <li>Designed agent pipelines in FastAPI with planning, execution and reflection loops for complex task automation.</li>
+          <li>Built and deployed agent applications including research assistants, email simulators and customer-segment builders, wired to tools for SQL execution and document retrieval.</li>
+          <li>Developed a research agent that analyses and summarises scientific documents through natural language, using external tools and contextual memory.</li>
+          <li>Integrated hosted LLMs into FastAPI services and deployed interactive demos for hands-on learner testing.</li>
+        </ul>
+        <div class="gig__tags">
+          <span class="tag">FastAPI</span><span class="tag">GPT</span><span class="tag">Claude</span>
+          <span class="tag">Agents</span><span class="tag">RAG</span><span class="tag">Python</span>
+        </div>
+      </li>
+
+      <li class="gig">
+        <div class="gig__head">
+          <h3 class="gig__role">Head of Data</h3>
+        </div>
+        <p class="gig__domain">E-commerce and retail analytics</p>
+        <ul>
+          <li>Led the data engineering and data science function across multiple product lines.</li>
+          <li>Enriched product catalogues with local LLMs for metadata and descriptions.</li>
+          <li>Modelled product, customer and feature relationships in Neo4j for graph-based recommendation.</li>
+          <li>Built AI agents for product recommendation and audience construction using local and hosted models.</li>
+          <li>Developed LLM systems that personalise dialogue and lift conversion across audience segments.</li>
+          <li>Near-real-time data lake enrichment with Kinesis Streams and Firehose, on S3 and Google Cloud Storage.</li>
+          <li>Warehousing on Redshift and BigQuery, transformation layers in dbt, pipelines in AWS Glue, GCP Dataflow and Python.</li>
+          <li>Image feature extraction via vision APIs to improve DeepFM, Apriori and graph neural network models.</li>
+          <li>Customer lifetime value models with scikit-learn and Keras.</li>
+        </ul>
+        <div class="gig__tags">
+          <span class="tag">Neo4j</span><span class="tag">Kinesis</span><span class="tag">Redshift</span>
+          <span class="tag">BigQuery</span><span class="tag">dbt</span><span class="tag">Mistral</span>
+          <span class="tag">LLaMA 2</span><span class="tag">Gemma 2</span><span class="tag">FastAPI</span>
+        </div>
+      </li>
+
+      <li class="gig">
+        <div class="gig__head">
+          <h3 class="gig__role">Senior Data Engineer and Senior Data Scientist</h3>
+        </div>
+        <p class="gig__domain">Freight and logistics analytics</p>
+        <ul>
+          <li>Route and path analysis for freight markets using mapping APIs, OpenStreetMap and OSRM.</li>
+          <li>Logistics visualisation and optimisation tools built with Folium, Dash and Python.</li>
+          <li>ML models and pipelines in Python, Keras, scikit-learn, pandas, NumPy and BigQuery ML, with dbt for transformation.</li>
+          <li>Reporting in Looker Studio, delivery through Docker, GitHub, REST APIs and cloud functions.</li>
+        </ul>
+        <div class="gig__tags">
+          <span class="tag">OSRM</span><span class="tag">OpenStreetMap</span><span class="tag">Folium</span>
+          <span class="tag">Dash</span><span class="tag">BigQuery ML</span><span class="tag">Docker</span>
+        </div>
+      </li>
+
+      <li class="gig">
+        <div class="gig__head">
+          <h3 class="gig__role">Senior Data Scientist</h3>
+        </div>
+        <p class="gig__domain">Media and streaming measurement</p>
+        <ul>
+          <li>Ingestion and processing of S3-hosted data into Snowflake, with staging areas for reliable retrieval.</li>
+          <li>Models predicting impressions per stream, trained and deployed through Snowflake stored procedures and tasks.</li>
+          <li>Dashboards built directly in the warehouse environment with Streamlit.</li>
+        </ul>
+        <div class="gig__tags">
+          <span class="tag">Snowflake</span><span class="tag">Streamlit</span><span class="tag">AWS S3</span>
+        </div>
+      </li>
+
+
+      <li class="gig">
+        <div class="gig__head">
+          <h3 class="gig__role">AI Prompt Engineer</h3>
+        </div>
+        <p class="gig__domain">Model evaluation and alignment data, two freelance contracts</p>
+        <ul>
+          <li>Evaluated and ranked model responses against defined criteria, with written justification comparing candidates and identifying failure modes.</li>
+          <li>Generated alternative responses targeting specific loss categories, including deliberately flawed responses matching realistic failure scenarios.</li>
+        </ul>
+        <div class="gig__tags">
+          <span class="tag">LLM evaluation</span><span class="tag">Prompt design</span>
+        </div>
+      </li>
+
+      <li class="gig">
+        <div class="gig__head">
+          <h3 class="gig__role">Senior Data Engineer</h3>
+        </div>
+        <p class="gig__domain">Database migration, part-time three-month contract</p>
+        <ul>
+          <li>Data quality assessment and automated migration comparison between on-premise databases and Azure.</li>
+          <li>Dimensionality reduction techniques applied to make real-time record comparison faster and more precise.</li>
+        </ul>
+        <div class="gig__tags">
+          <span class="tag">Azure Synapse</span><span class="tag">SQLAlchemy</span><span class="tag">pyodbc</span><span class="tag">SQL Server</span>
+        </div>
+      </li>
+
+      <li class="gig">
+        <div class="gig__head">
+          <h3 class="gig__role">Python Developer</h3>
+        </div>
+        <p class="gig__domain">Payroll systems</p>
+        <ul>
+          <li>Python applications generating tailored HTML and Excel payroll reports, on Azure Functions and SQL Server.</li>
+          <li>Delivery tracked through Azure DevOps with version control in GitHub.</li>
+        </ul>
+        <div class="gig__tags">
+          <span class="tag">Azure Functions</span><span class="tag">SQL Server</span><span class="tag">Azure DevOps</span>
+        </div>
+      </li>
+
+      <li class="gig">
+        <div class="gig__head">
+          <h3 class="gig__role">Data Engineer and Data Science Trainer</h3>
+        </div>
+        <p class="gig__domain">Applied data science training</p>
+        <ul>
+          <li>Led 40 project teams averaging eight members each, on three-month delivery cycles.</li>
+          <li>Built Python applications for varied markets including footwear retail and energy.</li>
+          <li>Stack: Python, Docker, REST APIs, Dash, AWS RDS, EC2 and S3, with GitHub for versioning.</li>
+        </ul>
+        <div class="gig__tags">
+          <span class="tag">Python</span><span class="tag">Docker</span><span class="tag">AWS</span><span class="tag">Dash</span><span class="tag">Mentoring</span>
+        </div>
+      </li>
+
+      <li class="gig gig--brief">
+        <div class="gig__head">
+          <h3 class="gig__role">Data Engineering Intern</h3>
+        </div>
+        <p class="gig__domain">Mining sector</p>
+        <ul>
+          <li>ETL for Oracle databases and reporting built on Microsoft Access and SQL.</li>
+        </ul>
+      </li>
+
+    </ol>
+  </section>
+
+  <section class="section">
+    <div class="section__head">
+      <p class="section__eyebrow">Stack</p>
+      <h2 class="section__title">What I work with</h2>
+    </div>
+
+    <div class="caps caps--3" style="margin-bottom:2rem">
+      <article class="cap">
+        <h3>Languages</h3>
+        <p>Python, C/C++, Fortran, MATLAB, SQL, Go, Bash.</p>
+      </article>
+      <article class="cap">
+        <h3>AI and ML</h3>
+        <p>OpenAI and Claude models, Mistral, Phi, TinyLlama, Gemma 2, LLaMA 2, Transformers, spaCy, scikit-learn, Keras, Prophet, DeepAR, DARTS, MLflow.</p>
+      </article>
+      <article class="cap">
+        <h3>Data engineering</h3>
+        <p>dbt, PySpark, SQLAlchemy, AWS Glue, Kinesis, Firehose, GCP Dataflow, Azure Data Factory and Synapse.</p>
+      </article>
+      <article class="cap">
+        <h3>Storage</h3>
+        <p>BigQuery, Redshift, Snowflake, PostgreSQL, MySQL, SQL Server, SQLite, Neo4j.</p>
+      </article>
+      <article class="cap">
+        <h3>Cloud and services</h3>
+        <p>AWS, GCP, Azure, FastAPI, Flask, Dash, Streamlit, Docker, REST APIs, cloud functions.</p>
+      </article>
+      <article class="cap">
+        <h3>Delivery</h3>
+        <p>GitHub, Jira, Confluence, Azure DevOps, Looker Studio, Google Colab.</p>
+      </article>
+    </div>
+
+    <div class="prose prose--wide">
+      <p>If you have a problem that looks like one of these, <a href="mailto:enino@uninorte.edu.co">write to me</a>. The full record, including academic appointments and publications, is in the <a href="{{ '/CV-Elias-Nino-Ruiz.pdf' | relative_url }}">CV</a>.</p>
+    </div>
+  </section>
+
+</div>
+</main>

@@ -19,8 +19,8 @@ description: Elías D. Niño-Ruiz, Ph.D. Associate Professor of Computer Science
         <p>Along the way I spent research stays at <a href="https://www.anl.gov/" rel="noopener">Argonne National Laboratory</a> (2013) and <a href="https://www.llnl.gov/" rel="noopener">Lawrence Livermore National Laboratory</a> (2014), and taught Numerical Methods at Virginia Tech in 2015.</p>
       </div>
       <div>
-        <p>Since 2016 I have been at Universidad del Norte's Department of Computer Science, now as Associate Professor and Chair, and as director of the <a href="https://aml-cs.github.io/" rel="noopener">Applied Math and Computer Science Lab (AML-CS)</a>. My group works on ensemble-based data assimilation, covariance matrix estimation, and the numerical optimization that holds both together.</p>
-        <p>Since 2021 I have served on the Early Career Advisory Board of <em>Control Engineering Practice</em> (Elsevier), and I review regularly for journals across atmospheric science, applied mathematics and computing.</p>
+        <p>Since 2016 I have been at Universidad del Norte's Department of Computer Science, now as Associate Professor, having chaired the department from 2018 to 2023, and as director of the <a href="https://aml-cs.github.io/" rel="noopener">Applied Math and Computer Science Lab (AML-CS)</a>. My group works on ensemble-based data assimilation, covariance matrix estimation, and the numerical optimization that holds both together.</p>
+        <p>Since 2021 I have served on the Early Career Advisory Board of <em>Control Engineering Practice</em> (Elsevier), and I review regularly for journals across atmospheric science, applied mathematics and computing. Alongside the research I work in <a href="{{ '/consulting' | relative_url }}">industry as a consultant</a> in data engineering, data science and applied AI.</p>
       </div>
     </div>
   </section>
@@ -155,6 +155,44 @@ description: Elías D. Niño-Ruiz, Ph.D. Associate Professor of Computer Science
     <p class="section__note" style="font-family:var(--f-mono);font-size:.72rem">Source: ORCID and Google Scholar. Update these by hand when they move.</p>
   </section>
 
+  <!-- ============ CONSULTING ============ -->
+  <section class="section" id="consulting">
+    <div class="section__head">
+      <p class="section__eyebrow">Industry</p>
+      <h2 class="section__title">Industry experience (consulting)</h2>
+      <p class="section__note">Alongside the research I take on data engineering, data science and applied AI engagements, building production data platforms, forecasting models, and LLM and agent systems.</p>
+    </div>
+
+    <ol class="pubs pubs--nodate">
+      <li class="pub">
+        <span><span class="pub__title">Technical Lead</span><span class="pub__meta">Data architecture and AI platform assessment. Python discovery toolkit probing vendor compliance and analytics APIs against a Snowflake data model, independent pre-pilot capability assessment in a 3,500-seat enterprise workspace, and a proof-of-concept conversational intake agent on Salesforce Agentforce.</span></span>
+      </li>
+      <li class="pub">
+        <span><span class="pub__title">Data Engineer and Senior Data Analyst</span><span class="pub__meta">Linear TV audience research on Nielsen panel and big data. Built the prepared-table layer in Snowflake behind an internal research assistant, ~25 validated production queries, and the fixes for the Nielsen integrity problems that were silently doubling metrics.</span></span>
+      </li>
+      <li class="pub">
+        <span><span class="pub__title">Technical Services Lead</span><span class="pub__meta">Research information management platform for 200+ institutions. Lead an eight-person team; reverse-engineered three undocumented loading subsystems, audited 839,221 files across 108 tenants, and designed the replacement architecture: a batch-first FastAPI service on EKS and a config-driven Databricks pipeline.</span></span>
+      </li>
+      <li class="pub">
+        <span><span class="pub__title">Staff Data Scientist</span><span class="pub__meta">Consumer research and audience analytics on 8.6 billion survey observations in Snowflake. Answer-imputation models (Naive Bayes, KNN, publisher-based), brand lift with multiple imputation and Rubin’s rules, and a census-weighted audience segmentation pipeline labelled by four LLMs in parallel.</span></span>
+      </li>
+      <li class="pub">
+        <span><span class="pub__title">Curriculum Engineer, AI and LLM education</span><span class="pub__meta">Labs on agentic workflows, reflection and planning for a widely used AI course catalogue. Agent pipelines in FastAPI with planning and reflection loops, research assistants and segment builders wired to SQL and document retrieval tools.</span></span>
+      </li>
+      <li class="pub">
+        <span><span class="pub__title">Head of Data</span><span class="pub__meta">E-commerce and retail analytics. Led the data engineering and data science function: catalogue enrichment with local LLMs, graph-based recommendation in Neo4j, near-real-time lake enrichment on Kinesis, warehousing on Redshift and BigQuery, and customer lifetime value models.</span></span>
+      </li>
+      <li class="pub">
+        <span><span class="pub__title">Senior Data Engineer and Senior Data Scientist</span><span class="pub__meta">Freight and logistics analytics. Route analysis on OpenStreetMap and OSRM, visualisation with Folium and Dash, ML pipelines in Python and BigQuery ML with dbt.</span></span>
+      </li>
+      <li class="pub">
+        <span><span class="pub__title">Earlier engagements</span><span class="pub__meta">Senior Data Scientist in media measurement, AI Prompt Engineer on model evaluation, Senior Data Engineer on database migration to Azure, Python Developer on payroll systems, and Data Engineer and Data Science Trainer leading 40 project teams.</span></span>
+      </li>
+    </ol>
+
+    <p style="margin:1.6rem 0 0"><a href="{{ '/consulting' | relative_url }}">See details and full experience</a> · <a href="{{ '/experience' | relative_url }}">Academic appointments</a> · <a href="{{ '/CV-Elias-Nino-Ruiz.pdf' | relative_url }}">Download the CV (PDF)</a></p>
+  </section>
+
   <!-- ============ SOFTWARE ============ -->
   <section class="section" id="software">
     <div class="section__head">
@@ -175,14 +213,14 @@ description: Elías D. Niño-Ruiz, Ph.D. Associate Professor of Computer Science
         <p class="card__tag">Benchmarking platform · FastAPI</p>
         <h3>PyTEDA-web</h3>
         <p>A web platform for interactive data assimilation benchmarking, with real-time streaming of experiment output and persistent experiment tracking so runs can be compared later.</p>
-        <p class="card__links"><a href="https://doi.org/10.1016/j.softx.2026.102738" rel="noopener">Paper</a></p>
+        <p class="card__links"><a href="https://github.com/enino84/pyTEDA" rel="noopener">GitHub</a><a href="https://doi.org/10.1016/j.softx.2026.102738" rel="noopener">Paper</a></p>
       </article>
 
       <article class="card">
         <p class="card__tag">Research package · Python</p>
         <h3>AMLCS-DA</h3>
         <p>Data assimilation for atmospheric general circulation models. This is the package the lab uses for SPEEDY experiments at operational-ish resolutions.</p>
-        <p class="card__links"><a href="https://doi.org/10.1016/j.softx.2023.101374" rel="noopener">Paper</a><a href="https://aml-cs.github.io/" rel="noopener">AML-CS</a></p>
+        <p class="card__links"><a href="https://github.com/enino84/AMLCS" rel="noopener">GitHub</a><a href="https://doi.org/10.1016/j.softx.2023.101374" rel="noopener">Paper</a><a href="https://aml-cs.github.io/" rel="noopener">AML-CS</a></p>
       </article>
 
       <article class="card">
@@ -289,7 +327,7 @@ description: Elías D. Niño-Ruiz, Ph.D. Associate Professor of Computer Science
       <a class="chip" href="https://www.scopus.com/authid/detail.uri?authorId=36603283600" rel="noopener">Scopus</a>
       <a class="chip" href="https://github.com/enino84/" rel="noopener">GitHub</a>
       <a class="chip" href="https://aml-cs.github.io/" rel="noopener">AML-CS Lab</a>
-      <a class="chip" href="{{ '/ENDJ - CV - ElíasN - Academic.pdf' | relative_url }}">CV (PDF)</a>
+      <a class="chip" href="{{ '/CV-Elias-Nino-Ruiz.pdf' | relative_url }}">CV (PDF)</a>
     </div>
 
     <blockquote class="verse" style="margin-top:2.4rem">

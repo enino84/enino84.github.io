@@ -109,6 +109,16 @@
   resize();
   if (!reduced) raf = window.requestAnimationFrame(frame);
 
+  // If the canvas measured zero on first paint (fonts still loading, layout not
+  // settled), size it again once everything has landed.
+  window.addEventListener('load', function () {
+    if (!w || !h) {
+      if (raf) window.cancelAnimationFrame(raf);
+      resize();
+      if (!reduced) raf = window.requestAnimationFrame(frame);
+    }
+  });
+
   // Pause when the hero scrolls out of view.
   if ('IntersectionObserver' in window && !reduced) {
     new IntersectionObserver(function (entries) {

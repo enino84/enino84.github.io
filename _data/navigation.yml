@@ -27,7 +27,16 @@
       link: /undergrad_courses
 - name: Talks
   link: /talks
+- name: Industry
+  link: /consulting
 - name: Experience
   link: /experience
+  dropdown:
+    - name: Academic appointments
+      link: /experience
+    - name: Industry experience (consulting)
+      link: /consulting
+    - name: Download the CV (PDF)
+      link: /CV-Elias-Nino-Ruiz.pdf
 - name: Education
   link: /education_certifications
